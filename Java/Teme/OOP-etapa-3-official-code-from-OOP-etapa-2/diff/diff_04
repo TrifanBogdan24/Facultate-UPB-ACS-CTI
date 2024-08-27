@@ -1,0 +1,285 @@
+262,271d261
+<   "command" : "buyPremium",
+<   "user" : "henry26",
+<   "timestamp" : 5,
+<   "message" : "henry26 bought the subscription successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "grace25",
+<   "timestamp" : 5,
+<   "message" : "grace25 bought the subscription successfully."
+< }, {
+352,356d341
+<   "command" : "cancelPremium",
+<   "user" : "henry26",
+<   "timestamp" : 482,
+<   "message" : "henry26 cancelled the subscription successfully."
+< }, {
+405,409d389
+<   "command" : "cancelPremium",
+<   "user" : "henry26",
+<   "timestamp" : 823,
+<   "message" : "henry26 is not a premium user."
+< }, {
+474,478d453
+<   "command" : "buyPremium",
+<   "user" : "jack29",
+<   "timestamp" : 1132,
+<   "message" : "jack29 bought the subscription successfully."
+< }, {
+495,499d469
+<   "command" : "buyPremium",
+<   "user" : "jack29",
+<   "timestamp" : 1203,
+<   "message" : "jack29 is already a premium user."
+< }, {
+708,712d677
+<   "command" : "buyPremium",
+<   "user" : "jack29",
+<   "timestamp" : 2320,
+<   "message" : "jack29 is already a premium user."
+< }, {
+1289,1293d1253
+<   "command" : "buyPremium",
+<   "user" : "carol19",
+<   "timestamp" : 5509,
+<   "message" : "carol19 bought the subscription successfully."
+< }, {
+1358,1362d1317
+<   "command" : "buyPremium",
+<   "user" : "jack29",
+<   "timestamp" : 5683,
+<   "message" : "jack29 is already a premium user."
+< }, {
+1507,1537d1461
+<   "command" : "wrapped",
+<   "user" : "jack29",
+<   "timestamp" : 6201,
+<   "result" : {
+<     "topArtists" : {
+<       "James Brown" : 21,
+<       "Pink Floyd" : 15,
+<       "Aretha Franklin" : 12
+<     },
+<     "topGenres" : {
+<       "funk" : 21,
+<       "progressive rock" : 15,
+<       "soul" : 12
+<     },
+<     "topSongs" : {
+<       "Come Rain Or Come Shine" : 2,
+<       "Have a Cigar" : 2,
+<       "I Got You (I Feel Good)" : 2,
+<       "I Wanna Be Around (feat. New York Studio Orchestra & Chorus)" : 2,
+<       "Nature Boy" : 2
+<     },
+<     "topAlbums" : {
+<       "Soul Queen" : 12,
+<       "Out of Sight" : 11,
+<       "The 50th Anniversary Collection" : 9,
+<       "The Dark Side of the Moon" : 6,
+<       "The Wall" : 5
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+1666,1685d1589
+<   "command" : "wrapped",
+<   "user" : "James Brown",
+<   "timestamp" : 7034,
+<   "result" : {
+<     "topAlbums" : {
+<       "The 50th Anniversary Collection" : 54,
+<       "Out of Sight" : 21,
+<       "20 All-Time Greatest Hits!" : 17
+<     },
+<     "topSongs" : {
+<       "I Got You (I Feel Good)" : 5,
+<       "Come Rain Or Come Shine" : 4,
+<       "I Got You (I Feel Good) (Original 1964 Album)" : 4,
+<       "It's A Man's, Man's, Man's World - Single Version / Mono" : 4,
+<       "Out Of Sight - Single Version" : 4
+<     },
+<     "topFans" : [ "carol19", "grace25", "jack29", "henry26" ],
+<     "listeners" : 4
+<   }
+< }, {
+2006,2010d1909
+<   "command" : "cancelPremium",
+<   "user" : "henry26",
+<   "timestamp" : 8797,
+<   "message" : "henry26 is not a premium user."
+< }, {
+2059,2063d1957
+<   "command" : "cancelPremium",
+<   "user" : "henry26",
+<   "timestamp" : 8900,
+<   "message" : "henry26 is not a premium user."
+< }, {
+2320,2381d2213
+<   "command" : "wrapped",
+<   "user" : "henry26",
+<   "timestamp" : 9712,
+<   "result" : {
+<     "topArtists" : {
+<       "Pink Floyd" : 33,
+<       "Aretha Franklin" : 12,
+<       "James Brown" : 6
+<     },
+<     "topGenres" : {
+<       "progressive rock" : 33,
+<       "soul" : 12,
+<       "funk" : 6
+<     },
+<     "topSongs" : {
+<       "Another Brick in the Wall Part 1" : 2,
+<       "Another Brick in the Wall Part 2" : 2,
+<       "Have a Cigar" : 2,
+<       "Tracks Of My Tears" : 2,
+<       "Welcome to the Machine" : 2
+<     },
+<     "topAlbums" : {
+<       "The Wall" : 20,
+<       "Soul Queen" : 12,
+<       "Wish You Were Here" : 8,
+<       "The 50th Anniversary Collection" : 4,
+<       "The Division Bell" : 3
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "carol19",
+<   "timestamp" : 9750,
+<   "result" : {
+<     "topArtists" : {
+<       "James Brown" : 40,
+<       "Pink Floyd" : 9,
+<       "Aretha Franklin" : 8
+<     },
+<     "topGenres" : {
+<       "funk" : 40,
+<       "progressive rock" : 9,
+<       "soul" : 8
+<     },
+<     "topSongs" : {
+<       "It's A Man's, Man's, Man's World - Single Version / Mono" : 3,
+<       "Ain't It Funky Now" : 2,
+<       "Come Rain Or Come Shine" : 2,
+<       "Good Good Lovin' - Single Version" : 2,
+<       "Have a Cigar" : 2
+<     },
+<     "topAlbums" : {
+<       "The 50th Anniversary Collection" : 34,
+<       "Soul Queen" : 8,
+<       "Out of Sight" : 5,
+<       "The Dark Side of the Moon" : 5,
+<       "Wish You Were Here" : 4
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+2526,2546d2357
+<   "command" : "wrapped",
+<   "user" : "Pink Floyd",
+<   "timestamp" : 14712,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Wall" : 25,
+<       "The Dark Side of the Moon" : 24,
+<       "The Division Bell" : 19,
+<       "Wish You Were Here" : 19
+<     },
+<     "topSongs" : {
+<       "Have a Cigar" : 7,
+<       "Brain Damage" : 4,
+<       "Speak to Me" : 4,
+<       "Welcome to the Machine" : 4,
+<       "Cluster One" : 3
+<     },
+<     "topFans" : [ "henry26", "grace25", "jack29", "carol19" ],
+<     "listeners" : 4
+<   }
+< }, {
+2786,2866d2596
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Aretha Franklin",
+<   "timestamp" : 21076,
+<   "result" : {
+<     "topAlbums" : {
+<       "Soul Queen" : 81
+<     },
+<     "topSongs" : {
+<       "Baby, Baby, Baby" : 3,
+<       "Dr. Feelgood (Love Is a Serious Business)" : 3,
+<       "I Say a Little Prayer" : 3,
+<       "My Song" : 3,
+<       "Night Life" : 3
+<     },
+<     "topFans" : [ "grace25", "henry26", "jack29", "carol19" ],
+<     "listeners" : 4
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "The Rolling Stones",
+<   "timestamp" : 21076,
+<   "message" : "No data to show for artist The Rolling Stones."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Frank Sinatra",
+<   "timestamp" : 21076,
+<   "message" : "No data to show for artist Frank Sinatra."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "grace25",
+<   "timestamp" : 21176,
+<   "result" : {
+<     "topArtists" : {
+<       "Aretha Franklin" : 49,
+<       "Pink Floyd" : 30,
+<       "James Brown" : 25
+<     },
+<     "topGenres" : {
+<       "soul" : 49,
+<       "progressive rock" : 30,
+<       "funk" : 25
+<     },
+<     "topSongs" : {
+<       "I Say a Little Prayer" : 3,
+<       "Ain't No Way" : 2,
+<       "Baby I Love You" : 2,
+<       "Baby, Baby, Baby" : 2,
+<       "Cluster One" : 2
+<     },
+<     "topAlbums" : {
+<       "Soul Queen" : 49,
+<       "The Division Bell" : 16,
+<       "20 All-Time Greatest Hits!" : 15,
+<       "The Dark Side of the Moon" : 11,
+<       "The 50th Anniversary Collection" : 7
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "endProgram",
+<   "result" : {
+<     "James Brown" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1894230.77,
+<       "ranking" : 1,
+<       "mostProfitableSong" : "I Don't Want Nobody To Give Me Nothing (Open Up The Door I'll Get It Myself)"
+<     },
+<     "Aretha Franklin" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1086538.46,
+<       "ranking" : 2,
+<       "mostProfitableSong" : "Dr. Feelgood (Love Is a Serious Business)"
+<     },
+<     "Pink Floyd" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1019230.77,
+<       "ranking" : 3,
+<       "mostProfitableSong" : "Have a Cigar"
+<     }
+<   }

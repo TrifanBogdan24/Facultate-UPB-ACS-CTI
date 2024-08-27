@@ -1,0 +1,94 @@
+lambda checker : https://beta.lambdachecker.io/contest/55/problem/136/details
+laborator : https://ocw.cs.pub.ro/courses/poo-ca-cd/laboratoare/static-final
+
+/*
+final -> field -> constanta, camp imutabil
+final -> clasa -> nu putem extinde clasa
+final -> metoda -> nu putem face over-riding
+
+
+immutable = String
+
+new -> aloca o zona noua de memorie
+
+static -> se acceseaza din instanta si din clasa
+        -> cand nu are instatinata un obiect, putem accesa campuri si metode
+
+
+
+// shallow copy = copierea referintelor
+// st1 si st2 impart exact aceeasi zona de memorie
+// orice modificare din st1 va modifica si st2
+// si invers : orice modificare din st2 va modifica st1
+Student st1 = new Student();
+Student st2 = st1;
+
+
+Singletom -> design pattern, creem o singura o unica instanta pentru clasesle de tip Singletone
+           -> constructorul efectiv trebuie ascuns cu 'private'
+
+           privte SingletonLazay();
+
+           - avem si o metoda publica, care creaza o instanta doar daca nu exisa
+
+DeepCopy ->
+      List<Student> deepCopy = new ArrayList<>();
+      for (var student: list) {
+          // folosind constructor cu deep copy
+          deepCopy.add(new Student(student));
+      }
+      return deepCopy;
+
+
+ShallowCopy ->
+    List<Student> shallowCopy = new ArrayList<>(list);
+
+
+
+
+// deep copy = copiaza field-urile la o zona noua de memorie
+
+
+
+
+
+
+O variabila statica:
+>> a. Nu are nevoie de o instanta, se poate accesa direct prin referinta la clasa
+b. Nu poate fi reinitializata
+c. Este imutabila
+
+
+
+O variabila declarata cu final:
+a. Se va accesa folosind clasa respectiva, nu o instanta a ei
+b. Poate fi reinitializata cu alta valoare
+>> c. Nu poate fi reinitializata cu alta valoar
+
+
+
+Într-un singleton, specificatorul de acces al constructorului este:
+a. protected
+>> b. private
+c. public
+d. default
+
+
+
+
+Obiectele de tip String
+a. nu sunt immutable
+b. determina un numar restrans de obiecte in String pool
+>> c. sunt comparate cu operatorul “==”, pentru o mai mare corectitudine
+d. sunt immutable
+
+
+
+În cazul unui singleton, este preferata lazy initialization în locul eager initialization deoarece:
+a. Este preferata eager initialization, nu lazy initialization
+b. Dam timp programului sa facă alte operații
+c. Dam timp garbage collector-ului sa facă alte operații
+>> d. Memoria pentru singleton se va utiliza doar când este nevoie de el
+
+
+ */

@@ -1,0 +1,1464 @@
+8872,8892d8871
+<   "command" : "wrapped",
+<   "user" : "ABBA",
+<   "timestamp" : 8036,
+<   "result" : {
+<     "topAlbums" : {
+<       "ABBA Gold" : 105,
+<       "Voulez-Vous" : 103,
+<       "Super Trouper" : 67,
+<       "Arrival" : 52
+<     },
+<     "topSongs" : {
+<       "Voulez-Vous" : 18,
+<       "Andante, Andante" : 15,
+<       "Chiquitita" : 14,
+<       "Lay All Your Love on Me" : 13,
+<       "The Piper" : 13
+<     },
+<     "topFans" : [ "david27", "jack29", "henry26", "alice22", "grace25" ],
+<     "listeners" : 10
+<   }
+< }, {
+13197,13214d13175
+<   "command" : "wrapped",
+<   "user" : "The Police",
+<   "timestamp" : 12965,
+<   "result" : {
+<     "topAlbums" : {
+<       "Synchronicity" : 269
+<     },
+<     "topSongs" : {
+<       "O My God" : 35,
+<       "Miss Gradenko" : 34,
+<       "Walking in Your Footsteps" : 34,
+<       "Tea in the Sahara" : 32,
+<       "Wrapped Around Your Finger" : 32
+<     },
+<     "topFans" : [ "emily30", "david27", "henry26", "carol19", "bob35" ],
+<     "listeners" : 10
+<   }
+< }, {
+17039,17059d16999
+<   "command" : "wrapped",
+<   "user" : "Elton John",
+<   "timestamp" : 17881,
+<   "result" : {
+<     "topAlbums" : {
+<       "Honky Chateau" : 93,
+<       "Madman Across the Water" : 82,
+<       "Too Low For Zero" : 72,
+<       "Greatest Hits" : 64
+<     },
+<     "topSongs" : {
+<       "Rocket Man" : 21,
+<       "Goodbye Yellow Brick Road" : 14,
+<       "Indian Sunset" : 14,
+<       "Hercules" : 12,
+<       "Holiday Inn" : 12
+<     },
+<     "topFans" : [ "frank21", "bob35", "henry26", "jack29", "emily30" ],
+<     "listeners" : 10
+<   }
+< }, {
+22932,22952d22871
+<   "command" : "wrapped",
+<   "user" : "U2",
+<   "timestamp" : 23588,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Joshua Tree" : 106,
+<       "All That You Can't Leave Behind" : 81,
+<       "How to Dismantle an Atomic Bomb" : 79,
+<       "Achtung Baby" : 72
+<     },
+<     "topSongs" : {
+<       "Mothers of the Disappeared" : 34,
+<       "Stuck in a Moment You Can't Get Out Of" : 13,
+<       "With or Without You" : 12,
+<       "Even Better Than the Real Thing" : 11,
+<       "Love and Peace or Else" : 11
+<     },
+<     "topFans" : [ "bob35", "grace25", "henry26", "alice22", "irene33" ],
+<     "listeners" : 10
+<   }
+< }, {
+30553,30573d30471
+<   "command" : "wrapped",
+<   "user" : "Rihanna",
+<   "timestamp" : 30539,
+<   "result" : {
+<     "topAlbums" : {
+<       "Good Girl Gone Bad" : 144,
+<       "ANTI (Deluxe)" : 83,
+<       "Loud" : 83,
+<       "Good Girl Gone Bad: Reloaded" : 17
+<     },
+<     "topSongs" : {
+<       "Push Up on Me" : 18,
+<       "Question Existing" : 18,
+<       "Umbrella" : 17,
+<       "Lemme Get That" : 13,
+<       "Rehab" : 13
+<     },
+<     "topFans" : [ "jack29", "frank21", "henry26", "emily30", "carol19" ],
+<     "listeners" : 10
+<   }
+< }, {
+34174,34193d34071
+<   "command" : "wrapped",
+<   "user" : "Nothing But Thieves",
+<   "timestamp" : 34257,
+<   "result" : {
+<     "topAlbums" : {
+<       "Moral Panic" : 112,
+<       "Nothing But Thieves (Deluxe)" : 102,
+<       "Broken Machine (Deluxe)" : 100
+<     },
+<     "topSongs" : {
+<       "Ban All the Music" : 23,
+<       "If I Get High" : 17,
+<       "Unperson" : 17,
+<       "Phobia" : 15,
+<       "Wake Up Call" : 15
+<     },
+<     "topFans" : [ "alice22", "frank21", "david27", "carol19", "irene33" ],
+<     "listeners" : 10
+<   }
+< }, {
+39250,39270d39127
+<   "command" : "wrapped",
+<   "user" : "The Doors",
+<   "timestamp" : 38643,
+<   "result" : {
+<     "topAlbums" : {
+<       "L.A. Woman" : 91,
+<       "Strange Days" : 90,
+<       "The Doors" : 80,
+<       "Greatest Hits" : 51
+<     },
+<     "topSongs" : {
+<       "Riders on the Storm" : 18,
+<       "The Changeling" : 15,
+<       "Break on Through (to the Other Side)" : 13,
+<       "Crawling King Snake" : 13,
+<       "Light My Fire" : 13
+<     },
+<     "topFans" : [ "david27", "emily30", "frank21", "jack29", "alice22" ],
+<     "listeners" : 10
+<   }
+< }, {
+41575,41595d41431
+<   "command" : "wrapped",
+<   "user" : "Aretha Franklin",
+<   "timestamp" : 40913,
+<   "result" : {
+<     "topAlbums" : {
+<       "I Never Loved a Man the Way I Love You" : 159,
+<       "Aretha Now" : 92,
+<       "Soul Queen" : 82,
+<       "Respect" : 2
+<     },
+<     "topSongs" : {
+<       "Respect" : 41,
+<       "Dr. Feelgood" : 38,
+<       "A Change Is Gonna Come" : 21,
+<       "See Saw" : 16,
+<       "You Send Me" : 14
+<     },
+<     "topFans" : [ "bob35", "emily30", "frank21", "henry26", "grace25" ],
+<     "listeners" : 10
+<   }
+< }, {
+46924,46944d46759
+<   "command" : "wrapped",
+<   "user" : "Radiohead",
+<   "timestamp" : 45726,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Bends" : 89,
+<       "In Rainbows" : 84,
+<       "OK Computer" : 79,
+<       "Pablo Honey" : 50
+<     },
+<     "topSongs" : {
+<       "(Nice Dream)" : 12,
+<       "House of Cards" : 12,
+<       "Nude" : 12,
+<       "High and Dry" : 11,
+<       "Jigsaw Falling Into Place" : 11
+<     },
+<     "topFans" : [ "bob35", "emily30", "frank21", "carol19", "grace25" ],
+<     "listeners" : 10
+<   }
+< }, {
+54849,54869d54663
+<   "command" : "wrapped",
+<   "user" : "Madonna",
+<   "timestamp" : 53027,
+<   "result" : {
+<     "topAlbums" : {
+<       "Celebration (Double Disc Version)" : 127,
+<       "Ray of Light" : 75,
+<       "Confessions on a Dance Floor" : 57,
+<       "Like a Prayer" : 57
+<     },
+<     "topSongs" : {
+<       "Hung Up" : 13,
+<       "Dear Jessie" : 10,
+<       "Nothing Really Matters" : 10,
+<       "Ray of Light" : 10,
+<       "Till Death Do Us Part" : 10
+<     },
+<     "topFans" : [ "carol19", "frank21", "jack29", "alice22", "david27" ],
+<     "listeners" : 10
+<   }
+< }, {
+63206,63225d62999
+<   "command" : "wrapped",
+<   "user" : "James Brown",
+<   "timestamp" : 60715,
+<   "result" : {
+<     "topAlbums" : {
+<       "20 All-Time Greatest Hits!" : 140,
+<       "The 50th Anniversary Collection" : 103,
+<       "Out of Sight" : 87
+<     },
+<     "topSongs" : {
+<       "Come Rain Or Come Shine" : 14,
+<       "I Loves You Porgy" : 12,
+<       "I Got The Feelin' (Single Version)" : 11,
+<       "Cold Sweat" : 10,
+<       "I Got You (I Feel Good) (Original 1964 Album)" : 10
+<     },
+<     "topFans" : [ "jack29", "irene33", "alice22", "david27", "bob35" ],
+<     "listeners" : 10
+<   }
+< }, {
+65978,65998d65751
+<   "command" : "wrapped",
+<   "user" : "Nirvana",
+<   "timestamp" : 63159,
+<   "result" : {
+<     "topAlbums" : {
+<       "Nirvana" : 189,
+<       "Nevermind" : 67,
+<       "In Utero" : 38,
+<       "MTV Unplugged in New York" : 27
+<     },
+<     "topSongs" : {
+<       "Smells Like Teen Spirit" : 22,
+<       "All Apologies (MTV Unplugged)" : 18,
+<       "The Man Who Sold the World" : 18,
+<       "Come as You Are" : 17,
+<       "Where Did You Sleep Last Night (Live Version)" : 14
+<     },
+<     "topFans" : [ "carol19", "emily30", "grace25", "bob35", "frank21" ],
+<     "listeners" : 10
+<   }
+< }, {
+68991,69011d68743
+<   "command" : "wrapped",
+<   "user" : "Taylor Swift",
+<   "timestamp" : 66783,
+<   "result" : {
+<     "topAlbums" : {
+<       "1989" : 101,
+<       "reputation" : 89,
+<       "Fearless" : 86,
+<       "Lover" : 65
+<     },
+<     "topSongs" : {
+<       "Shake It Off" : 26,
+<       "Dancing With Our Hands Tied" : 11,
+<       "Forever & Always" : 11,
+<       "King of My Heart 心的主人" : 10,
+<       "You're Not Sorry" : 10
+<     },
+<     "topFans" : [ "grace25", "henry26", "irene33", "emily30", "bob35" ],
+<     "listeners" : 10
+<   }
+< }, {
+72740,72758d72471
+<   "command" : "wrapped",
+<   "user" : "David Bowie",
+<   "timestamp" : 71191,
+<   "result" : {
+<     "topAlbums" : {
+<       "Best of Bowie" : 176,
+<       "Let's Dance" : 101
+<     },
+<     "topSongs" : {
+<       "Ricochet" : 26,
+<       "China Girl" : 24,
+<       "Let's Dance" : 24,
+<       "Cat People (Putting Out Fire)" : 20,
+<       "Criminal World" : 19
+<     },
+<     "topFans" : [ "frank21", "david27", "alice22", "emily30", "bob35" ],
+<     "listeners" : 10
+<   }
+< }, {
+78695,78714d78407
+<   "command" : "wrapped",
+<   "user" : "The Who",
+<   "timestamp" : 77742,
+<   "result" : {
+<     "topAlbums" : {
+<       "Who's Next (Deluxe Edition)" : 153,
+<       "My Generation - The Very Best of The Who" : 89,
+<       "Who Are You" : 81
+<     },
+<     "topSongs" : {
+<       "Getting in Tune" : 18,
+<       "Bargain" : 16,
+<       "Baba O'Riley (Remix)" : 14,
+<       "Love Ain't for Keeping" : 14,
+<       "Behind Blue Eyes" : 13
+<     },
+<     "topFans" : [ "carol19", "david27", "jack29", "frank21", "alice22" ],
+<     "listeners" : 10
+<   }
+< }, {
+81547,81567d81239
+<   "command" : "wrapped",
+<   "user" : "Marvin Gaye",
+<   "timestamp" : 80811,
+<   "result" : {
+<     "topAlbums" : {
+<       "Midnight Love" : 87,
+<       "What's Going On" : 87,
+<       "The Very Best of Marvin Gaye" : 68,
+<       "United" : 66
+<     },
+<     "topSongs" : {
+<       "Mercy Mercy Me (The Ecology)" : 18,
+<       "What's Going On" : 16,
+<       "Rockin' After Midnight" : 14,
+<       "What's Happening Brother" : 14,
+<       "Sexual Healing" : 13
+<     },
+<     "topFans" : [ "david27", "bob35", "alice22", "henry26", "emily30" ],
+<     "listeners" : 10
+<   }
+< }, {
+87040,87060d86711
+<   "command" : "wrapped",
+<   "user" : "Pink Floyd",
+<   "timestamp" : 87086,
+<   "result" : {
+<     "topAlbums" : {
+<       "Wish You Were Here" : 90,
+<       "The Division Bell" : 80,
+<       "The Wall" : 76,
+<       "The Dark Side of the Moon" : 62
+<     },
+<     "topSongs" : {
+<       "Wish You Were Here" : 24,
+<       "Have a Cigar" : 20,
+<       "Shine on You Crazy Diamond" : 16,
+<       "Shine On You Crazy Diamond (Part Two)" : 15,
+<       "Welcome to the Machine" : 15
+<     },
+<     "topFans" : [ "irene33", "henry26", "carol19", "frank21", "david27" ],
+<     "listeners" : 10
+<   }
+< }, {
+92149,92169d91799
+<   "command" : "wrapped",
+<   "user" : "Prince",
+<   "timestamp" : 92502,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Very Best of Prince" : 114,
+<       "Parade - Music From the Motion Picture Under the Cherry Moon" : 73,
+<       "1999" : 65,
+<       "Purple Rain" : 51
+<     },
+<     "topSongs" : {
+<       "Purple Rain" : 32,
+<       "God - Love Theme From Purple Rain 12\" Instrumental Version" : 27,
+<       "God - Vocal Version" : 23,
+<       "Christopher Tracy's Parade" : 10,
+<       "Mountains" : 10
+<     },
+<     "topFans" : [ "carol19", "bob35", "frank21", "henry26", "alice22" ],
+<     "listeners" : 10
+<   }
+< }, {
+100858,100878d100487
+<   "command" : "wrapped",
+<   "user" : "Bruce Springsteen",
+<   "timestamp" : 102649,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Essential Bruce Springsteen" : 197,
+<       "Born in the U.S.A." : 60,
+<       "Born to Run" : 46,
+<       "Greatest Hits" : 9
+<     },
+<     "topSongs" : {
+<       "Born to Run" : 20,
+<       "Tenth Avenue Freeze-Out" : 17,
+<       "Thunder Road" : 15,
+<       "Jungleland" : 14,
+<       "Glory Days" : 13
+<     },
+<     "topFans" : [ "david27", "jack29", "carol19", "henry26", "grace25" ],
+<     "listeners" : 10
+<   }
+< }, {
+103279,103299d102887
+<   "command" : "wrapped",
+<   "user" : "Bob Marley",
+<   "timestamp" : 105851,
+<   "result" : {
+<     "topAlbums" : {
+<       "Legend" : 92,
+<       "One Love Peace Concert" : 82,
+<       "Chant Down Babylon" : 80,
+<       "Natural Mystic" : 71
+<     },
+<     "topSongs" : {
+<       "Trenchtown Rock" : 15,
+<       "Kinky Reggae [feat. The Marley Brothers & Ghetto Youths Crew]" : 11,
+<       "No More Trouble [feat. Erykah Badu]" : 10,
+<       "Turn Your Lights Down Low [feat. Lauryn Hill]" : 10,
+<       "Get Up Stand Up" : 9
+<     },
+<     "topFans" : [ "david27", "bob35", "henry26", "emily30", "carol19" ],
+<     "listeners" : 10
+<   }
+< }, {
+108212,108232d107799
+<   "command" : "wrapped",
+<   "user" : "Dire Straits",
+<   "timestamp" : 111283,
+<   "result" : {
+<     "topAlbums" : {
+<       "Dire Straits" : 84,
+<       "Making Movies" : 83,
+<       "On Every Street" : 74,
+<       "Brothers in Arms" : 69
+<     },
+<     "topSongs" : {
+<       "Romeo and Juliet" : 18,
+<       "Les Boys" : 15,
+<       "Walk of Life" : 13,
+<       "Why Worry" : 13,
+<       "Down to the Waterline" : 12
+<     },
+<     "topFans" : [ "bob35", "carol19", "irene33", "alice22", "henry26" ],
+<     "listeners" : 10
+<   }
+< }, {
+115209,115229d114775
+<   "command" : "wrapped",
+<   "user" : "Eric Clapton",
+<   "timestamp" : 118457,
+<   "result" : {
+<     "topAlbums" : {
+<       "Slowhand 35th Anniversary (Super Deluxe)" : 116,
+<       "Clapton Chronicles: The Best of Eric Clapton" : 88,
+<       "The Cream of Clapton" : 73,
+<       "Unplugged" : 61
+<     },
+<     "topSongs" : {
+<       "Before You Accuse Me" : 16,
+<       "Lay Down Sally" : 11,
+<       "Layla - Live At Hammersmith Odeon" : 11,
+<       "Running on Faith" : 11,
+<       "Wonderful Tonight" : 11
+<     },
+<     "topFans" : [ "henry26", "david27", "emily30", "jack29", "grace25" ],
+<     "listeners" : 10
+<   }
+< }, {
+116542,116560d116087
+<   "command" : "wrapped",
+<   "user" : "The Beach Boys",
+<   "timestamp" : 119694,
+<   "result" : {
+<     "topAlbums" : {
+<       "Summer Dreams" : 178,
+<       "Pet Sounds" : 129
+<     },
+<     "topSongs" : {
+<       "Pet Sounds" : 31,
+<       "Summertime Blues" : 23,
+<       "Do You Remember" : 22,
+<       "Heroes & Villains" : 22,
+<       "Girl Don't Tell Me" : 20
+<     },
+<     "topFans" : [ "emily30", "jack29", "frank21", "bob35", "henry26" ],
+<     "listeners" : 10
+<   }
+< }, {
+121105,121124d120631
+<   "command" : "wrapped",
+<   "user" : "Led Zeppelin",
+<   "timestamp" : 123771,
+<   "result" : {
+<     "topAlbums" : {
+<       "Led Zeppelin IV (Deluxe Edition)" : 163,
+<       "Led Zeppelin" : 76,
+<       "Led Zeppelin II" : 73
+<     },
+<     "topSongs" : {
+<       "Black Dog" : 19,
+<       "When the Levee Breaks" : 17,
+<       "Misty Mountain Hop" : 16,
+<       "Stairway to Heaven" : 16,
+<       "Four Sticks" : 15
+<     },
+<     "topFans" : [ "irene33", "bob35", "grace25", "carol19", "henry26" ],
+<     "listeners" : 10
+<   }
+< }, {
+128117,128136d127623
+<   "command" : "wrapped",
+<   "user" : "Jay-Z",
+<   "timestamp" : 129854,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Black Album" : 107,
+<       "The Blueprint" : 91,
+<       "The Blueprint 3" : 90
+<     },
+<     "topSongs" : {
+<       "Change Clothes - Album Version (Edited)" : 12,
+<       "A Star Is Born" : 11,
+<       "Young Forever" : 11,
+<       "99 Problems" : 10,
+<       "Run This Town" : 10
+<     },
+<     "topFans" : [ "carol19", "david27", "grace25", "emily30", "alice22" ],
+<     "listeners" : 10
+<   }
+< }, {
+130921,130941d130407
+<   "command" : "wrapped",
+<   "user" : "Chuck Berry",
+<   "timestamp" : 132840,
+<   "result" : {
+<     "topAlbums" : {
+<       "Chuck Berry Is On Top" : 140,
+<       "St. Louis to Liverpool" : 92,
+<       "The Great Twenty-Eight" : 83,
+<       "Berry Is On Top" : 7
+<     },
+<     "topSongs" : {
+<       "Johnny B. Goode" : 22,
+<       "Roll over Beethoven" : 16,
+<       "Little Queenie" : 15,
+<       "Almost Grown" : 14,
+<       "Blues for Hawaiians" : 13
+<     },
+<     "topFans" : [ "alice22", "irene33", "emily30", "bob35", "grace25" ],
+<     "listeners" : 10
+<   }
+< }, {
+137950,137969d137415
+<   "command" : "wrapped",
+<   "user" : "Fleetwood Mac",
+<   "timestamp" : 140253,
+<   "result" : {
+<     "topAlbums" : {
+<       "Rumours (Super Deluxe)" : 213,
+<       "Greatest Hits" : 63,
+<       "Fleetwood Mac" : 47
+<     },
+<     "topSongs" : {
+<       "Go Your Own Way - 2004 Remastered Edition" : 16,
+<       "The Chain - 2004 Remastered Edition" : 13,
+<       "Gold Dust Woman - 2004 Remastered Edition" : 12,
+<       "Never Going Back Again - 2004 Remastered Edition" : 12,
+<       "Rhiannon - Live" : 12
+<     },
+<     "topFans" : [ "jack29", "grace25", "irene33", "frank21", "emily30" ],
+<     "listeners" : 10
+<   }
+< }, {
+142498,142517d141943
+<   "command" : "wrapped",
+<   "user" : "Whitney Houston",
+<   "timestamp" : 144364,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Bodyguard - Original Soundtrack Album" : 104,
+<       "My Love Is Your Love" : 101,
+<       "Whitney Houston" : 78
+<     },
+<     "topSongs" : {
+<       "You'll Never Stand Alone" : 42,
+<       "In My Business" : 36,
+<       "Get It Back" : 23,
+<       "Nobody Loves Me Like You Do" : 15,
+<       "Run to You" : 14
+<     },
+<     "topFans" : [ "frank21", "carol19", "david27", "henry26", "emily30" ],
+<     "listeners" : 10
+<   }
+< }, {
+146614,146634d146039
+<   "command" : "wrapped",
+<   "user" : "Adele",
+<   "timestamp" : 148371,
+<   "result" : {
+<     "topAlbums" : {
+<       "21" : 85,
+<       "30" : 83,
+<       "25" : 78,
+<       "19" : 57
+<     },
+<     "topSongs" : {
+<       "Sweetest Devotion" : 15,
+<       "All I Ask" : 14,
+<       "I'll Be Waiting" : 12,
+<       "Don't You Remember" : 10,
+<       "Love Is a Game" : 10
+<     },
+<     "topFans" : [ "henry26", "emily30", "alice22", "bob35", "jack29" ],
+<     "listeners" : 10
+<   }
+< }, {
+155451,155471d154855
+<   "command" : "wrapped",
+<   "user" : "The Rolling Stones",
+<   "timestamp" : 156577,
+<   "result" : {
+<     "topAlbums" : {
+<       "Let It Bleed" : 81,
+<       "Rolled Gold" : 78,
+<       "Some Girls" : 76,
+<       "Aftermath" : 75
+<     },
+<     "topSongs" : {
+<       "Gimme Shelter" : 14,
+<       "Under My Thumb" : 14,
+<       "Just My Imagination (Running Away With Me)" : 12,
+<       "Out of Time" : 12,
+<       "Love in Vain" : 11
+<     },
+<     "topFans" : [ "alice22", "jack29", "henry26", "carol19", "emily30" ],
+<     "listeners" : 10
+<   }
+< }, {
+159712,159732d159095
+<   "command" : "wrapped",
+<   "user" : "Eminem",
+<   "timestamp" : 160505,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Eminem Show" : 92,
+<       "The Marshall Mathers LP" : 85,
+<       "The Slim Shady LP" : 76,
+<       "Recovery" : 69
+<     },
+<     "topSongs" : {
+<       "Steve Berman" : 10,
+<       "Seduction" : 9,
+<       "Amityville" : 8,
+<       "Soldier" : 8,
+<       "Who Knew" : 8
+<     },
+<     "topFans" : [ "henry26", "irene33", "bob35", "grace25", "emily30" ],
+<     "listeners" : 10
+<   }
+< }, {
+164053,164073d163415
+<   "command" : "wrapped",
+<   "user" : "Joni Mitchell",
+<   "timestamp" : 164427,
+<   "result" : {
+<     "topAlbums" : {
+<       "Both Sides Now" : 89,
+<       "Court and Spark" : 85,
+<       "Ladies of the Canyon" : 81,
+<       "Blue" : 37
+<     },
+<     "topSongs" : {
+<       "Carey" : 13,
+<       "Answer Me, My Love" : 11,
+<       "Just Like This Train" : 11,
+<       "Twisted" : 11,
+<       "A Case of You" : 10
+<     },
+<     "topFans" : [ "carol19", "alice22", "jack29", "irene33", "bob35" ],
+<     "listeners" : 10
+<   }
+< }, {
+169082,169102d168423
+<   "command" : "wrapped",
+<   "user" : "Frank Sinatra",
+<   "timestamp" : 168679,
+<   "result" : {
+<     "topAlbums" : {
+<       "A Jolly Christmas from Frank Sinatra" : 147,
+<       "Nothing But the Best (Remastered)" : 128,
+<       "Sinatra Reprise: The Very Good Years" : 44,
+<       "Christmas Songs by Sinatra" : 16
+<     },
+<     "topSongs" : {
+<       "Have Yourself a Merry Little Christmas" : 25,
+<       "Jingle Bells" : 23,
+<       "It Came Upon a Midnight Clear" : 17,
+<       "Silent Night" : 17,
+<       "Adeste Fideles" : 15
+<     },
+<     "topFans" : [ "henry26", "frank21", "irene33", "emily30", "jack29" ],
+<     "listeners" : 10
+<   }
+< }, {
+171503,171523d170823
+<   "command" : "wrapped",
+<   "user" : "Johnny Cash",
+<   "timestamp" : 171150,
+<   "result" : {
+<     "topAlbums" : {
+<       "Unearthed" : 197,
+<       "The Legend of Johnny Cash" : 71,
+<       "American IV: The Man Comes Around" : 57,
+<       "American III: Solitary Man" : 51
+<     },
+<     "topSongs" : {
+<       "We'll Meet Again" : 15,
+<       "First Time Ever I Saw Your Face" : 12,
+<       "The Man Comes Around (Early Take)" : 12,
+<       "Hurt" : 11,
+<       "I See a Darkness" : 11
+<     },
+<     "topFans" : [ "alice22", "david27", "emily30", "carol19", "irene33" ],
+<     "listeners" : 10
+<   }
+< }, {
+175604,175624d174903
+<   "command" : "wrapped",
+<   "user" : "Jimi Hendrix",
+<   "timestamp" : 175468,
+<   "result" : {
+<     "topAlbums" : {
+<       "Are You Experienced?" : 153,
+<       "Electric Ladyland" : 83,
+<       "Experience Hendrix: The Best of Jimi Hendrix" : 60,
+<       "Are You Experienced" : 18
+<     },
+<     "topSongs" : {
+<       "Foxy Lady" : 24,
+<       "Manic Depression" : 21,
+<       "I Don't Live Today" : 19,
+<       "May This Be Love" : 16,
+<       "Fire" : 15
+<     },
+<     "topFans" : [ "david27", "frank21", "carol19", "emily30", "jack29" ],
+<     "listeners" : 10
+<   }
+< }, {
+175833,175867d175111
+<   "command" : "wrapped",
+<   "user" : "grace25",
+<   "timestamp" : 175727,
+<   "result" : {
+<     "topArtists" : {
+<       "Taylor Swift" : 46,
+<       "Bob Dylan" : 42,
+<       "Rihanna" : 41,
+<       "ABBA" : 40,
+<       "Eric Clapton" : 39
+<     },
+<     "topGenres" : {
+<       "classic rock" : 169,
+<       "rock" : 164,
+<       "soul" : 111,
+<       "pop" : 95,
+<       "80s" : 65
+<     },
+<     "topSongs" : {
+<       "Kisses of Fire" : 7,
+<       "Get It Back" : 6,
+<       "Black Dog" : 5,
+<       "Go Your Own Way - 2004 Remastered Edition" : 5,
+<       "Hate That I Love You" : 5
+<     },
+<     "topAlbums" : {
+<       "Greatest Hits" : 27,
+<       "Synchronicity" : 24,
+<       "Nirvana" : 23,
+<       "The Essential Bruce Springsteen" : 23,
+<       "Rumours (Super Deluxe)" : 22
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+181660,181680d180903
+<   "command" : "wrapped",
+<   "user" : "Queen",
+<   "timestamp" : 181588,
+<   "result" : {
+<     "topAlbums" : {
+<       "Greatest Hits" : 111,
+<       "The Game (2011 Remaster)" : 90,
+<       "A Night At The Opera (2011 Remaster)" : 79,
+<       "Greatest Hits II" : 65
+<     },
+<     "topSongs" : {
+<       "Another One Bites The Dust - Remastered 2011" : 15,
+<       "You're My Best Friend - 2011 Remaster" : 13,
+<       "'39 - 2011 Remaster" : 12,
+<       "Bicycle Race" : 12,
+<       "Crazy Little Thing Called Love - Remastered 2011" : 12
+<     },
+<     "topFans" : [ "irene33", "carol19", "frank21", "jack29", "bob35" ],
+<     "listeners" : 10
+<   }
+< }, {
+183969,183988d183191
+<   "command" : "wrapped",
+<   "user" : "The Beatles",
+<   "timestamp" : 183983,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Beatles (Remastered)" : 131,
+<       "Abbey Road (Remastered)" : 105,
+<       "1 (Remastered)" : 96
+<     },
+<     "topSongs" : {
+<       "She Came in Through the Bathroom Window" : 10,
+<       "All You Need Is Love - Remastered 2015" : 8,
+<       "Day Tripper - Remastered 2015" : 8,
+<       "Glass Onion - Remastered 2009" : 8,
+<       "Golden Slumbers - Remastered 2009" : 8
+<     },
+<     "topFans" : [ "henry26", "emily30", "frank21", "carol19", "david27" ],
+<     "listeners" : 10
+<   }
+< }, {
+186021,186055d185223
+<   "command" : "wrapped",
+<   "user" : "bob35",
+<   "timestamp" : 186406,
+<   "result" : {
+<     "topArtists" : {
+<       "Aretha Franklin" : 68,
+<       "Led Zeppelin" : 46,
+<       "Stevie Wonder" : 46,
+<       "U2" : 43,
+<       "Prince" : 42
+<     },
+<     "topGenres" : {
+<       "classic rock" : 183,
+<       "soul" : 176,
+<       "rock" : 164,
+<       "pop" : 94,
+<       "80s" : 89
+<     },
+<     "topSongs" : {
+<       "Wish You Were Here" : 7,
+<       "Heroes & Villains" : 6,
+<       "Mothers of the Disappeared" : 6,
+<       "Shake It Off" : 6,
+<       "Amsterdam" : 5
+<     },
+<     "topAlbums" : {
+<       "Soul Queen" : 39,
+<       "Greatest Hits" : 32,
+<       "Nirvana" : 31,
+<       "Synchronicity" : 27,
+<       "Led Zeppelin IV (Deluxe Edition)" : 25
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+187272,187306d186439
+<   "command" : "wrapped",
+<   "user" : "carol19",
+<   "timestamp" : 187917,
+<   "result" : {
+<     "topArtists" : {
+<       "Madonna" : 47,
+<       "Jay-Z" : 46,
+<       "Prince" : 46,
+<       "Joni Mitchell" : 41,
+<       "The Who" : 39
+<     },
+<     "topGenres" : {
+<       "classic rock" : 194,
+<       "rock" : 159,
+<       "pop" : 126,
+<       "soul" : 93,
+<       "80s" : 84
+<     },
+<     "topSongs" : {
+<       "Respect" : 8,
+<       "Caroline No" : 6,
+<       "Mothers of the Disappeared" : 6,
+<       "O My God" : 6,
+<       "Adeste Fideles" : 5
+<     },
+<     "topAlbums" : {
+<       "Celebration (Double Disc Version)" : 34,
+<       "Synchronicity" : 29,
+<       "The Black Album" : 26,
+<       "The Essential Bruce Springsteen" : 26,
+<       "Greatest Hits" : 24
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+188043,188077d187175
+<   "command" : "wrapped",
+<   "user" : "henry26",
+<   "timestamp" : 188817,
+<   "result" : {
+<     "topArtists" : {
+<       "The Beatles" : 46,
+<       "Adele" : 45,
+<       "Eminem" : 45,
+<       "Eric Clapton" : 45,
+<       "Frank Sinatra" : 45
+<     },
+<     "topGenres" : {
+<       "classic rock" : 208,
+<       "rock" : 170,
+<       "soul" : 132,
+<       "pop" : 103,
+<       "80s" : 79
+<     },
+<     "topSongs" : {
+<       "Mothers of the Disappeared" : 6,
+<       "Night Time Is The Right Time" : 6,
+<       "Purple Rain" : 6,
+<       "Born to Run" : 5,
+<       "In My Business" : 5
+<     },
+<     "topAlbums" : {
+<       "Greatest Hits" : 35,
+<       "Slowhand 35th Anniversary (Super Deluxe)" : 31,
+<       "Synchronicity" : 30,
+<       "The Wall" : 25,
+<       "1 (Remastered)" : 24
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+188142,188176d187239
+<   "command" : "wrapped",
+<   "user" : "frank21",
+<   "timestamp" : 188873,
+<   "result" : {
+<     "topArtists" : {
+<       "Rihanna" : 47,
+<       "Madonna" : 45,
+<       "Whitney Houston" : 45,
+<       "Aretha Franklin" : 42,
+<       "Elton John" : 42
+<     },
+<     "topGenres" : {
+<       "classic rock" : 203,
+<       "rock" : 174,
+<       "pop" : 141,
+<       "soul" : 110,
+<       "80s" : 88
+<     },
+<     "topSongs" : {
+<       "In My Business" : 7,
+<       "Push Up on Me" : 7,
+<       "Hate That I Love You" : 6,
+<       "Miss Gradenko" : 6,
+<       "Respect" : 6
+<     },
+<     "topAlbums" : {
+<       "Greatest Hits" : 35,
+<       "Best of Bowie" : 29,
+<       "The Beatles (Remastered)" : 29,
+<       "The Very Best of Prince" : 28,
+<       "Good Girl Gone Bad" : 23
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+188465,188520d187527
+<   "command" : "wrapped",
+<   "user" : "alice22",
+<   "timestamp" : 189478,
+<   "result" : {
+<     "topArtists" : {
+<       "Johnny Cash" : 108,
+<       "The Rolling Stones" : 46,
+<       "Chuck Berry" : 44,
+<       "Nothing But Thieves" : 43,
+<       "ABBA" : 41
+<     },
+<     "topGenres" : {
+<       "classic rock" : 182,
+<       "rock" : 167,
+<       "soul" : 128,
+<       "country" : 116,
+<       "pop" : 107
+<     },
+<     "topSongs" : {
+<       "Criminal World" : 7,
+<       "Respect" : 5,
+<       "Sorry" : 5,
+<       "The Man Who Sold the World" : 5,
+<       "Unperson" : 5
+<     },
+<     "topAlbums" : {
+<       "Unearthed" : 89,
+<       "Greatest Hits" : 33,
+<       "Night Visions (Deluxe)" : 27,
+<       "Synchronicity" : 24,
+<       "Rolled Gold" : 23
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Stevie Wonder",
+<   "timestamp" : 189483,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Definitive Collection" : 124,
+<       "Talking Book" : 77,
+<       "Songs in the Key of Life" : 67,
+<       "Innervisions" : 57
+<     },
+<     "topSongs" : {
+<       "You and I" : 17,
+<       "Living for the City" : 16,
+<       "Too High" : 13,
+<       "You Are The Sunshine Of My Life - Single Version With Horns" : 13,
+<       "Jesus Children of America" : 12
+<     },
+<     "topFans" : [ "irene33", "bob35", "jack29", "alice22", "david27" ],
+<     "listeners" : 10
+<   }
+< }, {
+189785,189819d188791
+<   "command" : "wrapped",
+<   "user" : "irene33",
+<   "timestamp" : 192990,
+<   "result" : {
+<     "topArtists" : {
+<       "Stevie Wonder" : 60,
+<       "Led Zeppelin" : 52,
+<       "Queen" : 52,
+<       "Eminem" : 42,
+<       "Chuck Berry" : 40
+<     },
+<     "topGenres" : {
+<       "classic rock" : 187,
+<       "rock" : 166,
+<       "soul" : 134,
+<       "pop" : 90,
+<       "80s" : 67
+<     },
+<     "topSongs" : {
+<       "Summertime Blues" : 7,
+<       "Have Yourself a Merry Little Christmas" : 6,
+<       "Walking in Your Footsteps" : 6,
+<       "Do You Remember" : 5,
+<       "Modern Love" : 5
+<     },
+<     "topAlbums" : {
+<       "Greatest Hits" : 41,
+<       "Led Zeppelin IV (Deluxe Edition)" : 33,
+<       "The Definitive Collection" : 33,
+<       "Summer Dreams" : 24,
+<       "Synchronicity" : 24
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+190060,190094d189031
+<   "command" : "wrapped",
+<   "user" : "david27",
+<   "timestamp" : 193784,
+<   "result" : {
+<     "topArtists" : {
+<       "ABBA" : 54,
+<       "Bruce Springsteen" : 54,
+<       "Jimi Hendrix" : 46,
+<       "Eric Clapton" : 43,
+<       "Bob Marley" : 42
+<     },
+<     "topGenres" : {
+<       "classic rock" : 200,
+<       "rock" : 191,
+<       "soul" : 130,
+<       "pop" : 113,
+<       "80s" : 81
+<     },
+<     "topSongs" : {
+<       "God - Love Theme From Purple Rain 12\" Instrumental Version" : 7,
+<       "Money, Money, Money" : 6,
+<       "O My God" : 6,
+<       "Thunder Road" : 6,
+<       "Wrapped Around Your Finger" : 6
+<     },
+<     "topAlbums" : {
+<       "The Essential Bruce Springsteen" : 36,
+<       "Synchronicity" : 33,
+<       "ABBA Gold" : 31,
+<       "Are You Experienced?" : 28,
+<       "Greatest Hits" : 28
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+190223,190257d189159
+<   "command" : "wrapped",
+<   "user" : "emily30",
+<   "timestamp" : 194336,
+<   "result" : {
+<     "topArtists" : {
+<       "Aretha Franklin" : 48,
+<       "The Beatles" : 45,
+<       "Eric Clapton" : 41,
+<       "Bob Marley" : 38,
+<       "Imagine Dragons" : 38
+<     },
+<     "topGenres" : {
+<       "rock" : 196,
+<       "classic rock" : 168,
+<       "soul" : 123,
+<       "pop" : 88,
+<       "80s" : 81
+<     },
+<     "topSongs" : {
+<       "Respect" : 6,
+<       "Synchronicity II" : 6,
+<       "Tea in the Sahara" : 6,
+<       "You'll Never Stand Alone" : 6,
+<       "Dr. Feelgood" : 5
+<     },
+<     "topAlbums" : {
+<       "Synchronicity" : 36,
+<       "Night Visions (Deluxe)" : 26,
+<       "I Never Loved a Man the Way I Love You" : 25,
+<       "Greatest Hits" : 24,
+<       "Rumours (Super Deluxe)" : 24
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+190322,190340d189223
+<   "command" : "wrapped",
+<   "user" : "Imagine Dragons",
+<   "timestamp" : 194913,
+<   "result" : {
+<     "topAlbums" : {
+<       "Night Visions (Deluxe)" : 184,
+<       "Evolve" : 82
+<     },
+<     "topSongs" : {
+<       "Tiptoe" : 19,
+<       "Working Man" : 18,
+<       "Bleeding Out" : 17,
+<       "Start Over" : 16,
+<       "Cha-Ching (Till We Grow Older)" : 15
+<     },
+<     "topFans" : [ "emily30", "alice22", "jack29", "irene33", "frank21" ],
+<     "listeners" : 10
+<   }
+< }, {
+190644,190942d189526
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Bob Dylan",
+<   "timestamp" : 197797,
+<   "result" : {
+<     "topAlbums" : {
+<       "Highway 61 Revisited" : 111,
+<       "Bringing It All Back Home" : 102,
+<       "The Freewheelin' Bob Dylan" : 97
+<     },
+<     "topSongs" : {
+<       "Tombstone Blues" : 18,
+<       "Just Like Tom Thumb's Blues" : 17,
+<       "Bob Dylan's 115th Dream" : 13,
+<       "Desolation Row" : 13,
+<       "It Takes a Lot to Laugh, It Takes a Train to Cry" : 13
+<     },
+<     "topFans" : [ "grace25", "henry26", "irene33", "frank21", "alice22" ],
+<     "listeners" : 10
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "jack29",
+<   "timestamp" : 197897,
+<   "result" : {
+<     "topArtists" : {
+<       "Fleetwood Mac" : 61,
+<       "Rihanna" : 53,
+<       "James Brown" : 50,
+<       "ABBA" : 44,
+<       "Madonna" : 43
+<     },
+<     "topGenres" : {
+<       "classic rock" : 207,
+<       "rock" : 175,
+<       "pop" : 129,
+<       "soul" : 123,
+<       "80s" : 63
+<     },
+<     "topSongs" : {
+<       "You'll Never Stand Alone" : 7,
+<       "Bleeding Out" : 6,
+<       "Dr. Feelgood" : 6,
+<       "Heroes & Villains" : 6,
+<       "Miss Gradenko" : 6
+<     },
+<     "topAlbums" : {
+<       "Rumours (Super Deluxe)" : 53,
+<       "The 50th Anniversary Collection" : 34,
+<       "Greatest Hits" : 30,
+<       "Night Visions (Deluxe)" : 26,
+<       "The Essential Bruce Springsteen" : 25
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "endProgram",
+<   "result" : {
+<     "ABBA" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 1,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Adele" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 2,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Aretha Franklin" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 3,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Bob Dylan" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 4,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Bob Marley" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 5,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Bruce Springsteen" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 6,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Chuck Berry" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 7,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "David Bowie" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 8,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Dire Straits" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 9,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Elton John" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 10,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Eminem" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 11,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Eric Clapton" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 12,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Fleetwood Mac" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 13,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Frank Sinatra" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 14,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Imagine Dragons" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 15,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "James Brown" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 16,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Jay-Z" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 17,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Jimi Hendrix" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 18,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Johnny Cash" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 19,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Joni Mitchell" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 20,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Led Zeppelin" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 21,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Madonna" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 22,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Marvin Gaye" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 23,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Nirvana" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 24,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Nothing But Thieves" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 25,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Pink Floyd" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 26,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Prince" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 27,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Queen" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 28,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Radiohead" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 29,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Rihanna" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 30,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Stevie Wonder" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 31,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Taylor Swift" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 32,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "The Beach Boys" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 33,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "The Beatles" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 34,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "The Doors" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 35,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "The Police" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 36,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "The Rolling Stones" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 37,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "The Who" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 38,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "U2" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 39,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Whitney Houston" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 40,
+<       "mostProfitableSong" : "N/A"
+<     }
+<   }

@@ -1,0 +1,2176 @@
+4646,4647c4646,4647
+<     "name" : "Angie",
+<     "remainedTime" : 175,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 225,
+4662,4664c4662,4664
+<     "name" : "Stairway to Heaven",
+<     "remainedTime" : 384,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 215,
+>     "repeat" : "Repeat All",
+4678,4681c4678,4681
+<     "name" : "Love Story",
+<     "remainedTime" : 138,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 205,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+4689,4693c4689,4693
+<     "name" : "Start Me Up",
+<     "remainedTime" : 114,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 205,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : true
+4700,4704c4700,4704
+<     "name" : "Start Me Up",
+<     "remainedTime" : 114,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 205,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : true
+4715c4715
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+4721,4725c4721,4725
+<     "name" : "Start Me Up",
+<     "remainedTime" : 114,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 205,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : true
+4732,4736c4732,4736
+<     "name" : "Start Me Up",
+<     "remainedTime" : 114,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 205,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : true
+4743,4747c4743,4747
+<     "name" : "Start Me Up",
+<     "remainedTime" : 114,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 205,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : true
+4759,4763c4759,4763
+<     "name" : "Begin Again",
+<     "remainedTime" : 140,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 205,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : true
+4769c4769
+<   "message" : "Please load a source before skipping to the next track."
+---
+>   "message" : "Skipped to next track successfully. The current track is Money Trees."
+4775,4779c4775,4779
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+4786,4789c4786,4789
+<     "name" : "Dream On",
+<     "remainedTime" : 169,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+4797,4800c4797,4800
+<     "name" : "Dream On",
+<     "remainedTime" : 169,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+4808,4811c4808,4811
+<     "name" : "Shape of You",
+<     "remainedTime" : 135,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+4819,4822c4819,4822
+<     "name" : "Shape of You",
+<     "remainedTime" : 135,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+4829c4829
+<   "message" : "Skipped to next track successfully. The current track is Shape of You."
+---
+>   "message" : "Skipped to next track successfully. The current track is Delicate."
+4835,4838c4835,4838
+<     "name" : "Shape of You",
+<     "remainedTime" : 233,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Delicate",
+>     "remainedTime" : 232,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+4845c4845
+<   "message" : "Returned to previous track successfully. The current track is Stairway to Heaven."
+---
+>   "message" : "Returned to previous track successfully. The current track is Money Trees."
+4850c4850
+<   "message" : "Returned to previous track successfully. The current track is Gimme Shelter."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+4856,4858c4856,4858
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 271,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 233,
+>     "repeat" : "Repeat Current Song",
+4872,4876c4872,4876
+<     "name" : "Love Story",
+<     "remainedTime" : 138,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+4887c4887
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+4893,4896c4893,4896
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 233,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+4903c4903
+<   "message" : "Skipped to next track successfully. The current track is Shape of You."
+---
+>   "message" : "Skipped to next track successfully. The current track is Money Trees."
+4909,4912c4909,4912
+<     "name" : "Shape of You",
+<     "remainedTime" : 233,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+4919c4919
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to no repeat."
+4925,4928c4925,4928
+<     "name" : "Start Me Up",
+<     "remainedTime" : 14,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+4935c4935
+<   "message" : "Returned to previous track successfully. The current track is Begin Again."
+---
+>   "message" : "Returned to previous track successfully. The current track is Money Trees."
+4941,4942c4941,4942
+<     "name" : "Begin Again",
+<     "remainedTime" : 238,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+4944c4944
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+4951c4951
+<   "message" : "Please load a source before setting the repeat status."
+---
+>   "message" : "Repeat mode changed to repeat all."
+4957,4961c4957,4961
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+4967c4967
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+4973,4976c4973,4976
+<     "name" : "Dream On",
+<     "remainedTime" : 69,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+4989,4992c4989,4992
+<     "name" : "Shape of You",
+<     "remainedTime" : 35,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 357,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5000,5003c5000,5003
+<     "name" : "Shape of You",
+<     "remainedTime" : 35,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 357,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5016,5019c5016,5019
+<     "name" : "Shape of You",
+<     "remainedTime" : 133,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 347,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5026c5026
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+5032,5034c5032,5034
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 171,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 347,
+>     "repeat" : "Repeat Current Song",
+5036c5036
+<     "paused" : true
+---
+>     "paused" : false
+5047c5047
+<   "message" : "Returned to previous track successfully. The current track is Love Story."
+---
+>   "message" : "Returned to previous track successfully. The current track is Money Trees."
+5053,5056c5053,5056
+<     "name" : "Love Story",
+<     "remainedTime" : 236,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5074,5077c5074,5077
+<     "name" : "Start Me Up",
+<     "remainedTime" : 112,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5084c5084
+<   "message" : "Returned to previous track successfully. The current track is Shape of You."
+---
+>   "message" : "Returned to previous track successfully. The current track is Money Trees."
+5089c5089
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+5095,5098c5095,5098
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 233,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5105c5105
+<   "message" : "Repeat mode changed to repeat current song."
+---
+>   "message" : "Repeat mode changed to no repeat."
+5111,5114c5111,5114
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 124,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : false,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+5127,5128c5127,5128
+<     "name" : "Begin Again",
+<     "remainedTime" : 138,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 213,
+5130c5130
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5138,5139c5138,5139
+<     "name" : "Begin Again",
+<     "remainedTime" : 138,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 213,
+5141c5141
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5148c5148
+<   "message" : "Please load a source before skipping to the next track."
+---
+>   "message" : "Skipped to next track successfully. The current track is Money Trees."
+5154,5155c5154,5155
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+5157,5158c5157,5158
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "shuffle" : true,
+>     "paused" : false
+5170,5173c5170,5173
+<     "name" : "Don't",
+<     "remainedTime" : 188,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+5187c5187
+<     "remainedTime" : 322,
+---
+>     "remainedTime" : 377,
+5189,5190c5189,5190
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "shuffle" : true,
+>     "paused" : true
+5196c5196
+<   "message" : "Skipped to next track successfully. The current track is Sad But True."
+---
+>   "message" : "Skipped to next track successfully. The current track is Delicate."
+5202,5203c5202,5203
+<     "name" : "Sad But True",
+<     "remainedTime" : 324,
+---
+>     "name" : "Delicate",
+>     "remainedTime" : 232,
+5205c5205
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5218,5220c5218,5220
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 171,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Delicate",
+>     "remainedTime" : 222,
+>     "repeat" : "Repeat All",
+5222c5222
+<     "paused" : true
+---
+>     "paused" : false
+5228c5228
+<   "message" : "Skipped to next track successfully. The current track is Don't."
+---
+>   "message" : "Skipped to next track successfully. The current track is Start Me Up."
+5234,5237c5234,5237
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 212,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+5246,5248c5246,5248
+<     "remainedTime" : 12,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "remainedTime" : 202,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+5257,5259c5257,5259
+<     "remainedTime" : 12,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "remainedTime" : 202,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+5278c5278
+<     "remainedTime" : 112,
+---
+>     "remainedTime" : 192,
+5280c5280
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5293,5294c5293,5294
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 24,
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 182,
+5296c5296
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5303c5303
+<   "message" : "Skipped to next track successfully. The current track is Gimme Shelter."
+---
+>   "message" : "Skipped to next track successfully. The current track is Blank Space."
+5309,5312c5309,5312
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 271,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5319c5319
+<   "message" : "Please load a source before using the shuffle function."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5325,5327c5325,5327
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "Repeat Current Song",
+5329c5329
+<     "paused" : true
+---
+>     "paused" : false
+5346,5348c5346,5348
+<     "name" : "Don't",
+<     "remainedTime" : 188,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 211,
+>     "repeat" : "Repeat Current Song",
+5350c5350
+<     "paused" : true
+---
+>     "paused" : false
+5361c5361
+<   "message" : "Returned to previous track successfully. The current track is Money Trees."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+5367,5369c5367,5369
+<     "name" : "Money Trees",
+<     "remainedTime" : 387,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "Repeat Current Song",
+5383,5385c5383,5385
+<     "name" : "Sad But True",
+<     "remainedTime" : 224,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "Repeat Current Song",
+5393c5393
+<   "message" : "Returned to previous track successfully. The current track is Gimme Shelter."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+5399,5401c5399,5401
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 271,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "Repeat Current Song",
+5415,5418c5415,5418
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5426,5429c5426,5429
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5436c5436
+<   "message" : "Returned to previous track successfully. The current track is Dream On."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+5449,5450c5449,5450
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5462c5462
+<   "message" : "Skipped to next track successfully. The current track is Start Me Up."
+---
+>   "message" : "Skipped to next track successfully. The current track is Blank Space."
+5468,5469c5468,5469
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+5471c5471
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5479,5480c5479,5480
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 134,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+5482c5482
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5490,5491c5490,5491
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 134,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+5493c5493
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5511,5514c5511,5514
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 171,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 211,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5521c5521
+<   "message" : "Please load a source before using the shuffle function."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5527,5529c5527,5529
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 201,
+>     "repeat" : "Repeat Current Song",
+5531c5531
+<     "paused" : true
+---
+>     "paused" : false
+5543,5545c5543,5545
+<     "name" : "Don't",
+<     "remainedTime" : 188,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 191,
+>     "repeat" : "Repeat Current Song",
+5547c5547
+<     "paused" : true
+---
+>     "paused" : false
+5553c5553
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5559,5562c5559,5562
+<     "name" : "Money Trees",
+<     "remainedTime" : 287,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 181,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+5569c5569
+<   "message" : "Shuffle function deactivated successfully."
+---
+>   "message" : "Shuffle function activated successfully."
+5575,5578c5575,5578
+<     "name" : "Sad But True",
+<     "remainedTime" : 124,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 171,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+5590c5590
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to no repeat."
+5596,5598c5596,5598
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 171,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 161,
+>     "repeat" : "No Repeat",
+5612,5613c5612,5613
+<     "name" : "Don't",
+<     "remainedTime" : 19,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 151,
+5615c5615
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5622c5622
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+5628,5629c5628,5629
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+5631c5631
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5644,5647c5644,5647
+<     "name" : "Start Me Up",
+<     "remainedTime" : 112,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : false,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+5655,5658c5655,5658
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 34,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : false,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 211,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+5666,5669c5666,5669
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 34,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : false,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 211,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+5676c5676
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5682,5683c5682,5683
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 71,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 201,
+5685c5685
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+5698,5699c5698,5699
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 191,
+5702c5702
+<     "paused" : true
+---
+>     "paused" : false
+5709,5710c5709,5710
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 191,
+5713c5713
+<     "paused" : true
+---
+>     "paused" : false
+5719c5719
+<   "message" : "Playback resumed successfully."
+---
+>   "message" : "Playback paused successfully."
+5725,5729c5725,5729
+<     "name" : "Don't",
+<     "remainedTime" : 188,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+<     "paused" : false
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 181,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+>     "paused" : true
+5735c5735
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+5741,5745c5741,5745
+<     "name" : "Money Trees",
+<     "remainedTime" : 187,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+<     "paused" : true
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 181,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+>     "paused" : false
+5757,5759c5757,5759
+<     "name" : "Sad But True",
+<     "remainedTime" : 24,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 171,
+>     "repeat" : "No Repeat",
+5767c5767
+<   "message" : "Shuffle function deactivated successfully."
+---
+>   "message" : "Shuffle function activated successfully."
+5773,5777c5773,5777
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 71,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 171,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+>     "paused" : true
+5788c5788
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5794,5795c5794,5795
+<     "name" : "Money Trees",
+<     "remainedTime" : 306,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 171,
+5797,5798c5797,5798
+<     "shuffle" : true,
+<     "paused" : false
+---
+>     "shuffle" : false,
+>     "paused" : true
+5810,5811c5810,5811
+<     "name" : "Start Me Up",
+<     "remainedTime" : 112,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 171,
+5814c5814
+<     "paused" : false
+---
+>     "paused" : true
+5820c5820
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+5826,5828c5826,5828
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "Repeat All",
+5836c5836
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+5842,5844c5842,5844
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 144,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "Repeat All",
+5852c5852
+<   "message" : "Like registered successfully."
+---
+>   "message" : "Unlike registered successfully."
+5858,5861c5858,5861
+<     "name" : "Start Me Up",
+<     "remainedTime" : 183,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 211,
+>     "repeat" : "Repeat All",
+>     "shuffle" : false,
+5868c5868
+<   "message" : "Please load a source before returning to the previous track."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+5874,5876c5874,5876
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "Repeat All",
+5878c5878
+<     "paused" : true
+---
+>     "paused" : false
+5884c5884
+<   "message" : "Skipped to next track successfully. The current track is Black Dog."
+---
+>   "message" : "Skipped to next track successfully. The current track is Begin Again."
+5890,5891c5890,5891
+<     "name" : "Black Dog",
+<     "remainedTime" : 294,
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 238,
+5893c5893
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+5900c5900
+<   "message" : "Playback resumed successfully."
+---
+>   "message" : "Playback paused successfully."
+5906,5907c5906,5907
+<     "name" : "Money Trees",
+<     "remainedTime" : 187,
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 228,
+5909,5910c5909,5910
+<     "shuffle" : true,
+<     "paused" : false
+---
+>     "shuffle" : false,
+>     "paused" : true
+5916c5916
+<   "message" : "Skipped to next track successfully. The current track is Love Story."
+---
+>   "message" : "Skipped to next track successfully. The current track is Sad But True."
+5922,5923c5922,5923
+<     "name" : "Love Story",
+<     "remainedTime" : 236,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+5938,5939c5938,5939
+<     "name" : "Money Trees",
+<     "remainedTime" : 358,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+5948c5948
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+5954,5957c5954,5957
+<     "name" : "Money Trees",
+<     "remainedTime" : 206,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+5964c5964
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+5970,5972c5970,5972
+<     "name" : "Start Me Up",
+<     "remainedTime" : 12,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 294,
+>     "repeat" : "Repeat Current Song",
+5985c5985
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Sad But True."
+5990c5990
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Begin Again."
+5996,5997c5996,5997
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 238,
+6012,6013c6012,6013
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 44,
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 228,
+6022c6022
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to no repeat."
+6028,6031c6028,6031
+<     "name" : "Start Me Up",
+<     "remainedTime" : 83,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 218,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+6038c6038
+<   "message" : "Please load a source before skipping to the next track."
+---
+>   "message" : "Skipped to next track successfully. The current track is Sad But True."
+6044,6045c6044,6045
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+6048c6048
+<     "paused" : true
+---
+>     "paused" : false
+6059c6059
+<   "message" : "Returned to previous track successfully. The current track is Black Dog."
+---
+>   "message" : "Returned to previous track successfully. The current track is Begin Again."
+6064c6064
+<   "message" : "Returned to previous track successfully. The current track is Don't."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+6070,6073c6070,6073
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+6080c6080
+<   "message" : "Skipped to next track successfully. The current track is Delicate."
+---
+>   "message" : "Skipped to next track successfully. The current track is Begin Again."
+6086,6089c6086,6089
+<     "name" : "Delicate",
+<     "remainedTime" : 232,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 238,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+6101c6101
+<   "message" : "Repeat mode changed to repeat current song."
+---
+>   "message" : "Repeat mode changed to repeat all."
+6107,6109c6107,6109
+<     "name" : "Love Story",
+<     "remainedTime" : 136,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 228,
+>     "repeat" : "Repeat All",
+6133c6133
+<   "message" : "Shuffle function deactivated successfully."
+---
+>   "message" : "Shuffle function activated successfully."
+6139,6140c6139,6140
+<     "name" : "Money Trees",
+<     "remainedTime" : 106,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+6142c6142
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6150,6151c6150,6151
+<     "name" : "Dream On",
+<     "remainedTime" : 179,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+6153c6153
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6161,6162c6161,6162
+<     "name" : "Dream On",
+<     "remainedTime" : 179,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+6164c6164
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6171c6171
+<   "message" : "Skipped to next track successfully. The current track is Start Me Up."
+---
+>   "message" : "Skipped to next track successfully. The current track is Shape of You."
+6177,6180c6177,6180
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : false,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+6187c6187
+<   "message" : "Repeat mode changed to no repeat."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+6193,6196c6193,6196
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 154,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6209,6211c6209,6211
+<     "name" : "Begin Again",
+<     "remainedTime" : 221,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+>     "repeat" : "Repeat Current Song",
+6225,6228c6225,6228
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6236,6239c6236,6239
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6246c6246
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+6252,6254c6252,6254
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+>     "repeat" : "Repeat Current Song",
+6256c6256
+<     "paused" : false
+---
+>     "paused" : true
+6262c6262
+<   "message" : "Returned to previous track successfully. The current track is Delicate."
+---
+>   "message" : "Returned to previous track successfully. The current track is Sad But True."
+6267c6267
+<   "message" : "Returned to previous track successfully. The current track is Money Trees."
+---
+>   "message" : "Returned to previous track successfully. The current track is Begin Again."
+6273,6275c6273,6275
+<     "name" : "Money Trees",
+<     "remainedTime" : 387,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 238,
+>     "repeat" : "Repeat Current Song",
+6283c6283
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+6289,6290c6289,6290
+<     "name" : "Love Story",
+<     "remainedTime" : 36,
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 228,
+6292c6292
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+6299c6299
+<   "message" : "Returned to previous track successfully. The current track is Sad But True."
+---
+>   "message" : "Returned to previous track successfully. The current track is Begin Again."
+6305,6307c6305,6307
+<     "name" : "Sad But True",
+<     "remainedTime" : 324,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 238,
+>     "repeat" : "Repeat Current Song",
+6321,6323c6321,6323
+<     "name" : "Money Trees",
+<     "remainedTime" : 6,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 228,
+>     "repeat" : "Repeat Current Song",
+6331c6331
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+6337,6339c6337,6339
+<     "name" : "Dream On",
+<     "remainedTime" : 79,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 228,
+>     "repeat" : "Repeat Current Song",
+6341c6341
+<     "paused" : true
+---
+>     "paused" : false
+6347c6347
+<   "message" : "Skipped to next track successfully. The current track is Start Me Up."
+---
+>   "message" : "Skipped to next track successfully. The current track is Sad But True."
+6353,6354c6353,6354
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+6363c6363
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+6369,6371c6369,6371
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 54,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+>     "repeat" : "Repeat Current Song",
+6384c6384
+<   "message" : "Returned to previous track successfully. The current track is Begin Again."
+---
+>   "message" : "Returned to previous track successfully. The current track is Sad But True."
+6390,6393c6390,6393
+<     "name" : "Begin Again",
+<     "remainedTime" : 238,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+6400c6400
+<   "message" : "Please load a source before using the shuffle function."
+---
+>   "message" : "Shuffle function activated successfully."
+6406,6410c6406,6410
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+6416c6416
+<   "message" : "Skipped to next track successfully. The current track is Black Dog."
+---
+>   "message" : "Skipped to next track successfully. The current track is Sad But True."
+6422,6424c6422,6424
+<     "name" : "Black Dog",
+<     "remainedTime" : 294,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+>     "repeat" : "Repeat Current Song",
+6438,6440c6438,6440
+<     "name" : "Money Trees",
+<     "remainedTime" : 287,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+>     "repeat" : "Repeat Current Song",
+6454,6455c6454,6455
+<     "name" : "Love Story",
+<     "remainedTime" : 172,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+6457c6457
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+6464c6464
+<   "message" : "Like registered successfully."
+---
+>   "message" : "Unlike registered successfully."
+6471,6472c6471,6472
+<     "remainedTime" : 224,
+<     "repeat" : "Repeat All",
+---
+>     "remainedTime" : 294,
+>     "repeat" : "No Repeat",
+6480c6480
+<   "message" : "Returned to previous track successfully. The current track is Money Trees."
+---
+>   "message" : "Returned to previous track successfully. The current track is Sad But True."
+6485c6485
+<   "message" : "Returned to previous track successfully. The current track is Don't."
+---
+>   "message" : "Returned to previous track successfully. The current track is Begin Again."
+6491,6493c6491,6493
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 238,
+>     "repeat" : "No Repeat",
+6501c6501
+<   "message" : "Repeat mode changed to repeat current song."
+---
+>   "message" : "Repeat mode changed to repeat all."
+6507,6509c6507,6509
+<     "name" : "Dream On",
+<     "remainedTime" : 79,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 228,
+>     "repeat" : "Repeat All",
+6511c6511
+<     "paused" : true
+---
+>     "paused" : false
+6517c6517
+<   "message" : "Repeat mode changed to no repeat."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+6523,6525c6523,6525
+<     "name" : "Start Me Up",
+<     "remainedTime" : 112,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 218,
+>     "repeat" : "Repeat Current Song",
+6533c6533
+<   "message" : "Skipped to next track successfully. The current track is Begin Again."
+---
+>   "message" : "Skipped to next track successfully. The current track is Sad But True."
+6539,6541c6539,6541
+<     "name" : "Begin Again",
+<     "remainedTime" : 238,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+>     "repeat" : "Repeat Current Song",
+6550,6553c6550,6553
+<     "name" : "Begin Again",
+<     "remainedTime" : 138,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+6561,6564c6561,6564
+<     "name" : "Begin Again",
+<     "remainedTime" : 138,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+6571c6571
+<   "message" : "Please load a source before setting the repeat status."
+---
+>   "message" : "Repeat mode changed to no repeat."
+6577,6578c6577,6578
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 304,
+6581c6581
+<     "paused" : true
+---
+>     "paused" : false
+6587c6587
+<   "message" : "Repeat mode changed to repeat current song."
+---
+>   "message" : "Repeat mode changed to repeat all."
+6593,6596c6593,6596
+<     "name" : "Black Dog",
+<     "remainedTime" : 194,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : true,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 294,
+>     "repeat" : "Repeat All",
+>     "shuffle" : false,
+6603c6603
+<   "message" : "Skipped to next track successfully. The current track is Delicate."
+---
+>   "message" : "Skipped to next track successfully. The current track is Shape of You."
+6609,6610c6609,6610
+<     "name" : "Delicate",
+<     "remainedTime" : 232,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+6625,6628c6625,6628
+<     "name" : "Love Story",
+<     "remainedTime" : 72,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 314,
+>     "repeat" : "Repeat All",
+>     "shuffle" : false,
+6635c6635
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+6642c6642
+<     "remainedTime" : 124,
+---
+>     "remainedTime" : 304,
+6652,6653c6652,6653
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 294,
+6663,6664c6663,6664
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 294,
+6673c6673
+<   "message" : "Repeat mode changed to no repeat."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+6679,6681c6679,6681
+<     "name" : "Dream On",
+<     "remainedTime" : 79,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 284,
+>     "repeat" : "Repeat Current Song",
+6683c6683
+<     "paused" : true
+---
+>     "paused" : false
+6695,6697c6695,6697
+<     "name" : "Start Me Up",
+<     "remainedTime" : 12,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 274,
+>     "repeat" : "Repeat Current Song",
+6705c6705
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+6711,6714c6711,6714
+<     "name" : "Begin Again",
+<     "remainedTime" : 138,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+6727,6730c6727,6730
+<     "name" : "Begin Again",
+<     "remainedTime" : 38,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 254,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+6737c6737
+<   "message" : "Please load a source before using the shuffle function."
+---
+>   "message" : "Shuffle function activated successfully."
+6743,6746c6743,6746
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 254,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6759,6760c6759,6760
+<     "name" : "Black Dog",
+<     "remainedTime" : 94,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 254,
+6763c6763
+<     "paused" : false
+---
+>     "paused" : true
+6769c6769
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+6775,6777c6775,6777
+<     "name" : "Delicate",
+<     "remainedTime" : 132,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 254,
+>     "repeat" : "Repeat Current Song",
+6779c6779
+<     "paused" : true
+---
+>     "paused" : false
+6785c6785
+<   "message" : "Shuffle function deactivated successfully."
+---
+>   "message" : "Shuffle function activated successfully."
+6791,6794c6791,6794
+<     "name" : "Money Trees",
+<     "remainedTime" : 359,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 244,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6813,6815c6813,6815
+<     "remainedTime" : 24,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "remainedTime" : 234,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6822c6822
+<   "message" : "Returned to previous track successfully. The current track is Don't."
+---
+>   "message" : "Returned to previous track successfully. The current track is Sad But True."
+6827c6827
+<   "message" : "Returned to previous track successfully. The current track is Love Story."
+---
+>   "message" : "Returned to previous track successfully. The current track is Begin Again."
+6833,6836c6833,6836
+<     "name" : "Love Story",
+<     "remainedTime" : 236,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 238,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6849,6853c6849,6853
+<     "name" : "Dream On",
+<     "remainedTime" : 79,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Begin Again",
+>     "remainedTime" : 228,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+6859c6859
+<   "message" : "Skipped to next track successfully. The current track is Shape of You."
+---
+>   "message" : "Skipped to next track successfully. The current track is Sad But True."
+6865,6867c6865,6867
+<     "name" : "Shape of You",
+<     "remainedTime" : 233,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Sad But True",
+>     "remainedTime" : 324,
+>     "repeat" : "Repeat Current Song",
+6883c6883
+<     "repeat" : "No Repeat",
+---
+>     "repeat" : "Repeat Current Song",
+6891c6891
+<   "message" : "Returned to previous track successfully. The current track is Begin Again."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+6897,6899c6897,6899
+<     "name" : "Begin Again",
+<     "remainedTime" : 238,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "Repeat Current Song",
+6907c6907
+<   "message" : "Please load a source before returning to the previous track."
+---
+>   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+6912c6912
+<   "message" : "Please load a source before returning to the previous track."
+---
+>   "message" : "Returned to previous track successfully. The current track is Delicate."
+6918,6922c6918,6922
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Delicate",
+>     "remainedTime" : 232,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+6928c6928
+<   "message" : "Skipped to next track successfully. The current track is Black Dog."
+---
+>   "message" : "Skipped to next track successfully. The current track is Start Me Up."
+6934,6935c6934,6935
+<     "name" : "Black Dog",
+<     "remainedTime" : 294,
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 212,
+6937c6937
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6957,6958c6957,6958
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6970c6970
+<   "message" : "Returned to previous track successfully. The current track is Money Trees."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+6975c6975
+<   "message" : "Returned to previous track successfully. The current track is The Man."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+6981,6984c6981,6984
+<     "name" : "The Man",
+<     "remainedTime" : 190,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 233,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6992,6996c6992,6996
+<     "name" : "Sad But True",
+<     "remainedTime" : 24,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+7003,7007c7003,7007
+<     "name" : "Sad But True",
+<     "remainedTime" : 24,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+7013c7013
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+7019,7022c7019,7022
+<     "name" : "Love Story",
+<     "remainedTime" : 136,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 213,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7029c7029
+<   "message" : "Returned to previous track successfully. The current track is Dream On."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+7034c7034
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+7040,7042c7040,7042
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 233,
+>     "repeat" : "Repeat Current Song",
+7050c7050
+<   "message" : "Skipped to next track successfully. The current track is Black Dog."
+---
+>   "message" : "Skipped to next track successfully. The current track is Money Trees."
+7056,7059c7056,7059
+<     "name" : "Black Dog",
+<     "remainedTime" : 294,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7066c7066
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to no repeat."
+7072,7075c7072,7075
+<     "name" : "Begin Again",
+<     "remainedTime" : 138,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+7088,7091c7088,7091
+<     "name" : "Begin Again",
+<     "remainedTime" : 138,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+7099,7102c7099,7102
+<     "name" : "Begin Again",
+<     "remainedTime" : 138,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+7109c7109
+<   "message" : "Please load a source before liking or unliking."
+---
+>   "message" : "Like registered successfully."
+7115,7116c7115,7116
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 357,
+7119c7119
+<     "paused" : true
+---
+>     "paused" : false
+7130c7130
+<   "message" : "Repeat mode changed to no repeat."
+---
+>   "message" : "Repeat mode changed to repeat all."
+7136,7138c7136,7138
+<     "name" : "Black Dog",
+<     "remainedTime" : 194,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 347,
+>     "repeat" : "Repeat All",
+7153c7153
+<     "remainedTime" : 287,
+---
+>     "remainedTime" : 337,
+7162c7162
+<   "message" : "Skipped to next track successfully. The current track is Money Trees."
+---
+>   "message" : "Skipped to next track successfully. The current track is Delicate."
+7168,7170c7168,7170
+<     "name" : "Money Trees",
+<     "remainedTime" : 387,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Delicate",
+>     "remainedTime" : 232,
+>     "repeat" : "Repeat All",
+7184,7185c7184,7185
+<     "name" : "Sad But True",
+<     "remainedTime" : 24,
+---
+>     "name" : "Delicate",
+>     "remainedTime" : 222,
+7188c7188
+<     "paused" : true
+---
+>     "paused" : false
+7195,7198c7195,7198
+<     "name" : "Love Story",
+<     "remainedTime" : 36,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Delicate",
+>     "remainedTime" : 212,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7206,7209c7206,7209
+<     "name" : "Love Story",
+<     "remainedTime" : 36,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Delicate",
+>     "remainedTime" : 212,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7221c7221
+<   "message" : "Skipped to next track successfully. The current track is Dream On."
+---
+>   "message" : "Skipped to next track successfully. The current track is Start Me Up."
+7227,7229c7227,7229
+<     "name" : "Dream On",
+<     "remainedTime" : 267,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 212,
+>     "repeat" : "Repeat Current Song",
+7243,7246c7243,7246
+<     "name" : "Black Dog",
+<     "remainedTime" : 194,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 202,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7254,7257c7254,7257
+<     "name" : "Begin Again",
+<     "remainedTime" : 38,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 192,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7265,7268c7265,7268
+<     "name" : "Begin Again",
+<     "remainedTime" : 38,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 192,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7275c7275
+<   "message" : "Shuffle function deactivated successfully."
+---
+>   "message" : "Shuffle function activated successfully."
+7281,7284c7281,7284
+<     "name" : "Begin Again",
+<     "remainedTime" : 38,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 182,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+7291c7291
+<   "message" : "Please load a source before liking or unliking."
+---
+>   "message" : "Like registered successfully."
+7297,7301c7297,7301
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 172,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+7307c7307
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+7313,7316c7313,7316
+<     "name" : "Black Dog",
+<     "remainedTime" : 94,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 162,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7329,7331c7329,7331
+<     "name" : "Money Trees",
+<     "remainedTime" : 287,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Start Me Up",
+>     "remainedTime" : 152,
+>     "repeat" : "Repeat Current Song",
+7333c7333
+<     "paused" : true
+---
+>     "paused" : false
+7430c7430
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+7446c7446
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+7467,7468c7467,7468
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Chill Sounds Voyage #1", "Electric Melodies Escape #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Chill Sounds Voyage #1" ]
+7473c7473
+<   "message" : "Successfully selected Electric Melodies Escape #2."
+---
+>   "message" : "The selected ID is too high."
+7478c7478
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Please select a source before following or unfollowing."
+7526c7526
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+8043,8044c8043,8044
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Chill Sounds Journey #1", "Chill Sounds Adventure #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Chill Sounds Journey #1" ]
+8123,8124c8123,8124
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Vibey Bangers Safari #1", "Groovy Rhythms Dream #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Vibey Bangers Safari #1" ]
+8134c8134
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+8198c8198
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+8486c8486
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+8811,8812c8811,8812
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Groovy Grooves Dream #1", "Groovy Grooves Expedition #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Groovy Grooves Expedition #2" ]
+8817c8817
+<   "message" : "Successfully selected Groovy Grooves Dream #1."
+---
+>   "message" : "Successfully selected Groovy Grooves Expedition #2."
+8822c8822
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+9227,9228c9227,9228
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Chill Sounds Voyage #1", "Electric Melodies Escape #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Chill Sounds Voyage #1" ]
+9238c9238
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+9606c9606
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist unfollowed successfully."
+9754c9754
+<   "result" : [ "Love Story" ]
+---
+>   "result" : [ "Sad But True" ]
+9768c9768
+<     "followers" : 1
+---
+>     "followers" : 2
+9774c9774
+<   "result" : [ "Gimme Shelter", "Money Trees" ]
+---
+>   "result" : [ "Delicate", "Sad But True" ]
+9788c9788
+<     "followers" : 0
+---
+>     "followers" : 1
+9794c9794
+<   "result" : [ "Love Story", "Don't" ]
+---
+>   "result" : [ "Shape of You", "Blank Space" ]
+9803c9803
+<     "followers" : 3
+---
+>     "followers" : 4
+9814c9814
+<   "result" : [ "Dream On" ]
+---
+>   "result" : [ "Money Trees", "Sad But True", "Begin Again" ]
+9834c9834
+<   "result" : [ "Start Me Up", "Black Dog" ]
+---
+>   "result" : [ "Blank Space", "Start Me Up" ]
+9848c9848
+<     "followers" : 2
+---
+>     "followers" : 3
+9854c9854
+<   "result" : [ ]
+---
+>   "result" : [ "Start Me Up", "Blank Space", "Begin Again", "Sad But True" ]
+9863c9863
+<     "followers" : 4
+---
+>     "followers" : 5
+9874c9874
+<   "result" : [ "Begin Again", "Gimme Shelter", "Start Me Up" ]
+---
+>   "result" : [ "Shape of You" ]
+9894c9894
+<   "result" : [ ]
+---
+>   "result" : [ "Money Trees", "Start Me Up" ]
+9903c9903
+<     "followers" : 3
+---
+>     "followers" : 4
+9914c9914
+<   "result" : [ ]
+---
+>   "result" : [ "Blank Space", "Sad But True" ]
+9923c9923
+<     "followers" : 2
+---
+>     "followers" : 3
+9938c9938
+<   "result" : [ "Chill Melodies Voyage #1", "Dynamic Tracks Adventure #2", "Stellar Tunes Quest #2", "Breezy Rhythms Trek #1", "Chill Sounds Journey #1" ]
+---
+>   "result" : [ "Chill Melodies Voyage #1", "Dynamic Tracks Adventure #2", "Groovy Vibes Odyssey #1", "Stellar Tunes Quest #2", "Breezy Rhythms Trek #1" ]
+9942c9942
+<   "result" : [ "Start Me Up", "Love Story", "Gimme Shelter", "Don't", "Money Trees" ]
+---
+>   "result" : [ "Sad But True", "Blank Space", "Start Me Up", "Shape of You", "Money Trees" ]

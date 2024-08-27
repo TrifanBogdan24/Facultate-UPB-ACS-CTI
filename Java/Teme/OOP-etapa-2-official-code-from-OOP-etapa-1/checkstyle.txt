@@ -1,0 +1,9 @@
+Starting audit...
+[ERROR] /home/bogdan/Documents/INFORMATICĂ/Facultate/OOP in JAVA/teme/oop-project-2023/etapa2/./src/commands/artistcmds/RemoveAlbum.java:6:8: Unused import - app.audio.Collections.Podcast. [UnusedImports]
+[ERROR] /home/bogdan/Documents/INFORMATICĂ/Facultate/OOP in JAVA/teme/oop-project-2023/etapa2/./src/commands/artistcmds/RemoveAlbum.java:104:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /home/bogdan/Documents/INFORMATICĂ/Facultate/OOP in JAVA/teme/oop-project-2023/etapa2/./src/commands/hostcmds/RemovePodcast.java:88:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /home/bogdan/Documents/INFORMATICĂ/Facultate/OOP in JAVA/teme/oop-project-2023/etapa2/./src/commands/usercmds/DeleteUser.java:10:8: Unused import - app.audio.Files.AudioFile. [UnusedImports]
+[ERROR] /home/bogdan/Documents/INFORMATICĂ/Facultate/OOP in JAVA/teme/oop-project-2023/etapa2/./src/commands/usercmds/DeleteUser.java:12:8: Unused import - app.audio.LibraryEntry. [UnusedImports]
+[ERROR] /home/bogdan/Documents/INFORMATICĂ/Facultate/OOP in JAVA/teme/oop-project-2023/etapa2/./src/commands/usercmds/DeleteUser.java:14:8: Unused import - app.searchBar.SearchBar. [UnusedImports]
+Audit done.
+Checkstyle ends with 6 errors.

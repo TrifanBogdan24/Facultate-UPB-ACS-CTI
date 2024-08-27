@@ -1,0 +1,36 @@
+53c53
+<     "remainedTime" : 221,
+---
+>     "remainedTime" : 226,
+79,83d78
+<   "command" : "updateRecommendations",
+<   "user" : "morningstar",
+<   "timestamp" : 95,
+<   "message" : "The recommendations for user morningstar have been updated successfully."
+< }, {
+105,109d99
+<   "command" : "updateRecommendations",
+<   "user" : "morningstar",
+<   "timestamp" : 125,
+<   "message" : "The recommendations for user morningstar have been updated successfully."
+< }, {
+113,129c103
+<   "message" : "Liked songs:\n\t[Purple Rain]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[All at Once]\n\nPlaylists recommendations:\n\t[morningstar's recommendations]"
+< }, {
+<   "command" : "endProgram",
+<   "result" : {
+<     "Prince" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 1,
+<       "mostProfitableSong" : "N/A"
+<     },
+<     "Whitney Houston" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 2,
+<       "mostProfitableSong" : "N/A"
+<     }
+<   }
+---
+>   "message" : "Liked songs:\n\t[Purple Rain]\n\nFollowed playlists:\n\t[]"

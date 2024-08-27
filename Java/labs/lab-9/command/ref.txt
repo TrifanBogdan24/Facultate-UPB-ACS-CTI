@@ -1,0 +1,39 @@
+----------------------------------------testSimpleUndoRedo----------------------------------------
+Diagram:
+[text='text', color='ORANGE', height=40, weight=100, connectedComponents=[]]
+Diagram:
+[text='text', color='ORANGE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+Diagram:
+[text='text', color='ORANGE', height=40, weight=100, connectedComponents=[]]
+Diagram:
+[text='text', color='ORANGE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+----------------------------------------testComplexUndoRedo----------------------------------------
+Diagram:
+[text='text', color='ORANGE', height=4, weight=10, connectedComponents=[]]
+[text='Class1', color='WHITE', height=40, weight=100, connectedComponents=[2]]
+[text='text', color='PINK', height=40, weight=100, connectedComponents=[1]]
+[text='text', color='RED', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+Diagram:
+[text='text', color='ORANGE', height=4, weight=10, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[2]]
+[text='text', color='PINK', height=40, weight=100, connectedComponents=[1]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+Diagram:
+[text='text', color='ORANGE', height=4, weight=10, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='PINK', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+Diagram:
+[text='text', color='ORANGE', height=4, weight=10, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[2]]
+[text='text', color='PINK', height=20, weight=50, connectedComponents=[1]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]
+[text='text', color='WHITE', height=40, weight=100, connectedComponents=[]]

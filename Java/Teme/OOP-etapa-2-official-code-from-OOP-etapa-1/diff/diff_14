@@ -1,0 +1,28 @@
+231c231
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Please load a source before setting the repeat status."
+246c246
+<   "message" : "audiosage was successfully deleted."
+---
+>   "message" : "audiosage can't be deleted."
+266c266
+<   "message" : "Repeat mode changed to repeat current song."
+---
+>   "message" : "Please load a source before setting the repeat status."
+276c276
+<   "message" : "Repeat mode changed to no repeat."
+---
+>   "message" : "Please load a source before setting the repeat status."
+281c281
+<   "message" : "melodicwanderer was successfully deleted."
+---
+>   "message" : "melodicwanderer can't be deleted."
+296c296
+<   "message" : "sonicpainter was successfully deleted."
+---
+>   "message" : "sonicpainter can't be deleted."
+301c301
+<   "message" : "Liked songs:\n\t[]\n\nFollowed playlists:\n\t[]"
+---
+>   "message" : "Liked songs:\n\t[Aurora Harmony]\n\nFollowed playlists:\n\t[Playlist bengos]"

@@ -1,0 +1,33 @@
+65c65
+<     "remainedTime" : 257,
+---
+>     "remainedTime" : 272,
+76,80d75
+<   "command" : "updateRecommendations",
+<   "user" : "alice22",
+<   "timestamp" : 135,
+<   "message" : "The recommendations for user alice22 have been updated successfully."
+< }, {
+84,89c79
+<   "message" : "Liked songs:\n\t[Amsterdam]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[I Was Just a Kid]\n\nPlaylists recommendations:\n\t[]"
+< }, {
+<   "command" : "updateRecommendations",
+<   "user" : "alice22",
+<   "timestamp" : 165,
+<   "message" : "The recommendations for user alice22 have been updated successfully."
+---
+>   "message" : "Liked songs:\n\t[Amsterdam]\n\nFollowed playlists:\n\t[]"
+104,114c94
+<   "message" : "Liked songs:\n\t[Amsterdam]\n\nFollowed playlists:\n\t[]\n\nSong recommendations:\n\t[I Was Just a Kid]\n\nPlaylists recommendations:\n\t[alice22's recommendations]"
+< }, {
+<   "command" : "endProgram",
+<   "result" : {
+<     "Nothing But Thieves" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 0.0,
+<       "ranking" : 1,
+<       "mostProfitableSong" : "N/A"
+<     }
+<   }
+---
+>   "message" : "Liked songs:\n\t[Amsterdam]\n\nFollowed playlists:\n\t[]"

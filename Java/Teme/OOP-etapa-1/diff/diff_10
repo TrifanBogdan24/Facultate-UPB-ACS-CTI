@@ -1,0 +1,24 @@
+239c239
+<   "message" : "Please load a source before using the shuffle function."
+---
+>   "message" : "Shuffle function deactivated successfully."
+245,246c245,246
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Kings Dead",
+>     "remainedTime" : 245,
+249c249
+<     "paused" : true
+---
+>     "paused" : false
+256,257c256,257
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Kings Dead",
+>     "remainedTime" : 195,
+260c260
+<     "paused" : true
+---
+>     "paused" : false

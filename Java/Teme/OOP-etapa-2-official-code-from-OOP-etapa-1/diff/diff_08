@@ -1,0 +1,21 @@
+276c276
+<   "message" : "david27 was successfully deleted."
+---
+>   "message" : "david27 can't be deleted."
+340,345c340
+<   "result" : [ {
+<     "name" : "2010 hits",
+<     "songs" : [ "Freedom", "Happier" ],
+<     "visibility" : "public",
+<     "followers" : 0
+<   } ]
+---
+>   "result" : [ ]
+350c345
+<   "message" : "soundseeker can't be deleted."
+---
+>   "message" : "soundseeker was successfully deleted."
+366c361
+<   "message" : "soundseeker can't be deleted."
+---
+>   "message" : "The username soundseeker doesn't exist."

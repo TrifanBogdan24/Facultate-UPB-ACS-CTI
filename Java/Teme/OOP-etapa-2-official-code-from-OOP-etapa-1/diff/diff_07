@@ -1,0 +1,18 @@
+267c267
+<   "message" : "melodymaster was successfully deleted."
+---
+>   "message" : "melodymaster can't be deleted."
+272,273c272,273
+<   "message" : "Search returned 0 results",
+<   "results" : [ ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Vibrant Echoes" ]
+325c325
+<   "message" : "emily30 was successfully deleted."
+---
+>   "message" : "emily30 can't be deleted."
+335c335
+<   "message" : "Liked songs:\n\t[Shape of You]\n\nFollowed playlists:\n\t[]"
+---
+>   "message" : "Liked songs:\n\t[Synth Symphony, Shape of You]\n\nFollowed playlists:\n\t[My favourite songs]"

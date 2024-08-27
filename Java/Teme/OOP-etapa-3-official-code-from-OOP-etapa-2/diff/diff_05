@@ -1,0 +1,484 @@
+335,339d334
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 1368,
+<   "message" : "Ad inserted successfully."
+< }, {
+404,408d398
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 2112,
+<   "message" : "irene33 is not playing any music."
+< }, {
+425,429d414
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 2286,
+<   "message" : "Ad inserted successfully."
+< }, {
+510,514d494
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 2787,
+<   "message" : "Ad inserted successfully."
+< }, {
+531,535d510
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 2839,
+<   "message" : "Ad inserted successfully."
+< }, {
+552,556d526
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 2928,
+<   "message" : "Ad inserted successfully."
+< }, {
+621,625d590
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 3235,
+<   "message" : "Ad inserted successfully."
+< }, {
+738,742d702
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 3516,
+<   "message" : "Ad inserted successfully."
+< }, {
+759,763d718
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 3558,
+<   "message" : "Ad inserted successfully."
+< }, {
+876,880d830
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 3972,
+<   "message" : "Ad inserted successfully."
+< }, {
+897,901d846
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 4039,
+<   "message" : "Ad inserted successfully."
+< }, {
+918,922d862
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 4092,
+<   "message" : "Ad inserted successfully."
+< }, {
+939,943d878
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 4216,
+<   "message" : "Ad inserted successfully."
+< }, {
+1024,1044d958
+<   "command" : "wrapped",
+<   "user" : "Stevie Wonder",
+<   "timestamp" : 4927,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Definitive Collection" : 24,
+<       "Songs in the Key of Life" : 18,
+<       "Innervisions" : 14,
+<       "Talking Book" : 14
+<     },
+<     "topSongs" : {
+<       "He's Misstra Know It All" : 3,
+<       "Hey Love" : 3,
+<       "Higher Ground - Single Version" : 3,
+<       "Living for the City" : 3,
+<       "Maybe Your Baby" : 3
+<     },
+<     "topFans" : [ "grace25", "david27", "irene33" ],
+<     "listeners" : 3
+<   }
+< }, {
+1061,1065d974
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 5584,
+<   "message" : "Ad inserted successfully."
+< }, {
+1194,1203d1102
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 7218,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 7219,
+<   "message" : "Ad inserted successfully."
+< }, {
+1236,1240d1134
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 7379,
+<   "message" : "Ad inserted successfully."
+< }, {
+1289,1293d1182
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 7523,
+<   "message" : "Ad inserted successfully."
+< }, {
+1358,1362d1246
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 7789,
+<   "message" : "Ad inserted successfully."
+< }, {
+1555,1559d1438
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 8708,
+<   "message" : "Ad inserted successfully."
+< }, {
+1576,1580d1454
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 8830,
+<   "message" : "Ad inserted successfully."
+< }, {
+1613,1617d1486
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 9195,
+<   "message" : "Ad inserted successfully."
+< }, {
+1682,1686d1550
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 9754,
+<   "message" : "Ad inserted successfully."
+< }, {
+1703,1707d1566
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 9833,
+<   "message" : "Ad inserted successfully."
+< }, {
+1740,1760d1598
+<   "command" : "wrapped",
+<   "user" : "Prince",
+<   "timestamp" : 10355,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Very Best of Prince" : 30,
+<       "1999" : 24,
+<       "Parade - Music From the Motion Picture Under the Cherry Moon" : 14,
+<       "Purple Rain" : 6
+<     },
+<     "topSongs" : {
+<       "D.M.S.R." : 5,
+<       "All The Critics Love U In New York" : 4,
+<       "God - Love Theme From Purple Rain 12\" Instrumental Version" : 4,
+<       "Little Red Corvette [Explicit]" : 4,
+<       "Purple Rain" : 4
+<     },
+<     "topFans" : [ "irene33", "david27", "grace25" ],
+<     "listeners" : 3
+<   }
+< }, {
+2113,2117d1950
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 12299,
+<   "message" : "Ad inserted successfully."
+< }, {
+2134,2138d1966
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 12374,
+<   "message" : "Ad inserted successfully."
+< }, {
+2187,2191d2014
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 12549,
+<   "message" : "Ad inserted successfully."
+< }, {
+2224,2262d2046
+<   "command" : "wrapped",
+<   "user" : "irene33",
+<   "timestamp" : 12641,
+<   "result" : {
+<     "topArtists" : {
+<       "Prince" : 32,
+<       "Stevie Wonder" : 22,
+<       "The Rolling Stones" : 15,
+<       "Joni Mitchell" : 8
+<     },
+<     "topGenres" : {
+<       "80s" : 30,
+<       "soul" : 22,
+<       "classic rock" : 15,
+<       "folk" : 8,
+<       "rnb" : 2
+<     },
+<     "topSongs" : {
+<       "Lady Jane" : 4,
+<       "Purple Rain" : 3,
+<       "1999 [Edit]" : 2,
+<       "Blame It on the Sun" : 2,
+<       "D.M.S.R." : 2
+<     },
+<     "topAlbums" : {
+<       "The Very Best of Prince" : 24,
+<       "Aftermath" : 8,
+<       "Ladies of the Canyon" : 8,
+<       "Talking Book" : 8,
+<       "The Definitive Collection" : 7
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 12659,
+<   "message" : "Ad inserted successfully."
+< }, {
+2311,2315d2094
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 12845,
+<   "message" : "Ad inserted successfully."
+< }, {
+2364,2368d2142
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 13004,
+<   "message" : "Ad inserted successfully."
+< }, {
+2385,2389d2158
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 13095,
+<   "message" : "Ad inserted successfully."
+< }, {
+2454,2458d2222
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 13338,
+<   "message" : "Ad inserted successfully."
+< }, {
+2491,2495d2254
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 13403,
+<   "message" : "Ad inserted successfully."
+< }, {
+2528,2532d2286
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 13643,
+<   "message" : "Ad inserted successfully."
+< }, {
+2565,2569d2318
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 13706,
+<   "message" : "Ad inserted successfully."
+< }, {
+2650,2654d2398
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 13962,
+<   "message" : "Ad inserted successfully."
+< }, {
+2687,2691d2430
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 14040,
+<   "message" : "Ad inserted successfully."
+< }, {
+2724,2728d2462
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 14153,
+<   "message" : "Ad inserted successfully."
+< }, {
+2793,2813d2526
+<   "command" : "wrapped",
+<   "user" : "The Rolling Stones",
+<   "timestamp" : 14425,
+<   "result" : {
+<     "topAlbums" : {
+<       "Rolled Gold" : 30,
+<       "Aftermath" : 15,
+<       "Let It Bleed" : 13,
+<       "Some Girls" : 13
+<     },
+<     "topSongs" : {
+<       "Lady Jane" : 6,
+<       "Out of Time" : 4,
+<       "Flight 505" : 3,
+<       "Gimme Shelter" : 3,
+<       "Live With Me" : 3
+<     },
+<     "topFans" : [ "grace25", "david27", "irene33" ],
+<     "listeners" : 3
+<   }
+< }, {
+2830,2863d2542
+<   "command" : "wrapped",
+<   "user" : "grace25",
+<   "timestamp" : 14442,
+<   "result" : {
+<     "topArtists" : {
+<       "The Rolling Stones" : 35,
+<       "Stevie Wonder" : 26,
+<       "Prince" : 20,
+<       "Joni Mitchell" : 12
+<     },
+<     "topGenres" : {
+<       "classic rock" : 35,
+<       "soul" : 26,
+<       "folk" : 12,
+<       "rnb" : 11,
+<       "80s" : 9
+<     },
+<     "topSongs" : {
+<       "Morning Morgantown" : 3,
+<       "Out of Time" : 3,
+<       "The Arrangement" : 3,
+<       "Big Yellow Taxi" : 2,
+<       "Christopher Tracy's Parade" : 2
+<     },
+<     "topAlbums" : {
+<       "Rolled Gold" : 20,
+<       "The Definitive Collection" : 14,
+<       "Ladies of the Canyon" : 12,
+<       "Parade - Music From the Motion Picture Under the Cherry Moon" : 11,
+<       "Let It Bleed" : 8
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+2928,2932d2606
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 16765,
+<   "message" : "Ad inserted successfully."
+< }, {
+2981,2985d2654
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 17027,
+<   "message" : "Ad inserted successfully."
+< }, {
+3050,3054d2718
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 17316,
+<   "message" : "Ad inserted successfully."
+< }, {
+3071,3075d2734
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 17479,
+<   "message" : "Ad inserted successfully."
+< }, {
+3092,3096d2750
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 17649,
+<   "message" : "Ad inserted successfully."
+< }, {
+3129,3133d2782
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 17762,
+<   "message" : "Ad inserted successfully."
+< }, {
+3149,3233d2797
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Joni Mitchell",
+<   "timestamp" : 17942,
+<   "result" : {
+<     "topAlbums" : {
+<       "Ladies of the Canyon" : 48
+<     },
+<     "topSongs" : {
+<       "The Arrangement" : 8,
+<       "Morning Morgantown" : 6,
+<       "Big Yellow Taxi" : 4,
+<       "Blue Boy" : 4,
+<       "Ladies of the Canyon" : 4
+<     },
+<     "topFans" : [ "david27", "grace25", "irene33" ],
+<     "listeners" : 3
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Pink Floyd",
+<   "timestamp" : 17942,
+<   "message" : "No data to show for artist Pink Floyd."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "david27",
+<   "timestamp" : 18042,
+<   "result" : {
+<     "topArtists" : {
+<       "Joni Mitchell" : 28,
+<       "Prince" : 22,
+<       "Stevie Wonder" : 22,
+<       "The Rolling Stones" : 21
+<     },
+<     "topGenres" : {
+<       "folk" : 28,
+<       "soul" : 22,
+<       "80s" : 21,
+<       "classic rock" : 21,
+<       "rnb" : 1
+<     },
+<     "topSongs" : {
+<       "All The Critics Love U In New York" : 3,
+<       "Blue Boy" : 3,
+<       "D.M.S.R." : 3,
+<       "For Free" : 3,
+<       "Ladies of the Canyon" : 3
+<     },
+<     "topAlbums" : {
+<       "Ladies of the Canyon" : 28,
+<       "1999" : 18,
+<       "Songs in the Key of Life" : 12,
+<       "Some Girls" : 9,
+<       "Rolled Gold" : 6
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "endProgram",
+<   "result" : {
+<     "Stevie Wonder" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1228.5,
+<       "ranking" : 1,
+<       "mostProfitableSong" : "Hey Love"
+<     },
+<     "Prince" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1168.61,
+<       "ranking" : 2,
+<       "mostProfitableSong" : "All The Critics Love U In New York"
+<     },
+<     "Joni Mitchell" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 302.4,
+<       "ranking" : 3,
+<       "mostProfitableSong" : "Blue Boy"
+<     },
+<     "The Rolling Stones" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 250.49,
+<       "ranking" : 4,
+<       "mostProfitableSong" : "Miss You"
+<     }
+<   }

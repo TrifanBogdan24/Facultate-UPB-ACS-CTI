@@ -1,0 +1,42 @@
+metoda neimplementata = abastracta
+
+intr-o interfata, metodele trebuie sa fie publice (ca sa poata fi implementate)
+    by default:
+        public abstract  ....metohd         // metoda (functie) abstracta
+        public static final filed           // retinem constante, doar constante, nu avem campuri
+
+metode abstracte = metode neimplementate
+
+
+
+1. Este permisă moștenirea multiplă in Java, folosind clase sau interfete?
+    > True
+    False
+
+
+2. Nu există clase abstracte fără metode abstracte.
+    True
+    > False
+
+
+3. Cuvântul cheie abstract se folosește la definirea unei interfețe.
+   True
+   > False
+
+4. Care dintre următoarele este o asemănare între clasele abstracte și interfete:
+    Ambele pot moșteni mai multe clase abstracte.
+
+    > Niciuna dintre ele nu poate avea metode fără implementare.
+
+    Ambele se pot instanția.
+    Niciuna dintre ele nu se poate instanția.
+
+5. Atunci când o clasă implementează o interfață se folosește cuvântul cheie:
+   abstract
+   > implements
+   extends
+   static
+
+
+numele de pachete litera mica
+numele de clase litera

@@ -1,0 +1,655 @@
+File: ./include/list.h
+#ifndef _LIST_H_
+#define _LIST_H_
+
+/* List entry */
+struct cel{
+  void* info;
+  int info_len;
+  int seq;
+  char type;
+  struct cel* next;
+};
+
+typedef struct cel list_entry;
+
+/* Window as a list */
+typedef struct {
+  int size;
+  int max_seq;
+  list_entry* head;
+}list;
+
+/* Creates a list */
+list* create_list();
+/* Adds a segment to the window */
+void add_list_elem(list* window, void* segment, int segment_size, int seq);
+
+
+#endif /* _LIST_H_ */
+
+
+
+
+File: ./include/common.h
+#ifndef __COMMON_H_
+#define __COMMON_H_
+
+#include <stdint.h>
+
+#define MAXSIZE 128
+#define PORT 8313
+
+struct seq_udp {
+  uint32_t len;
+  uint16_t seq;
+  char payload[MAXSIZE];
+};
+
+#endif
+
+
+
+File: ./include/utils.h
+#ifndef __UTILS_h__
+#define __UTILS_h__
+
+#define DIE(assertion, call_description)                                       \
+  do {                                                                         \
+    if (assertion) {                                                           \
+      fprintf(stderr, "(%s, %d): ", __FILE__, __LINE__);                       \
+      perror(call_description);                                                \
+      exit(errno);                                                             \
+    }                                                                          \
+  } while (0)
+
+#endif // __UTILS_h__
+
+
+File: ./server.c
+#include <arpa/inet.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <netinet/in.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/socket.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/uio.h>
+#include <time.h>
+#include <unistd.h>
+
+#include "common.h"
+#include "utils.h"
+
+#define SAVED_FILENAME "received_file.bin"
+
+int recv_seq_udp(int sockfd, struct seq_udp *seq_packet, int expected_seq) {
+  struct sockaddr_in client_addr;
+  socklen_t clen = sizeof(client_addr);
+
+  /* Receive a segment with seq_number seq_packet->seq */
+  int rc = recvfrom(sockfd, seq_packet, sizeof(struct seq_udp), 0,
+                    (struct sockaddr *)&client_addr, &clen);
+
+  /* Check if the sequence number is the expected one. if yes,
+     increase the expected sequence number after sending the ACK
+     return the number of bytes read. */
+  if (seq_packet->seq == expected_seq) {
+    int ack = expected_seq;
+    rc = sendto(sockfd, &ack, sizeof(ack), 0, (struct sockaddr *)&client_addr,
+                clen);
+    DIE(rc < 0, "send");
+    return rc;
+  }
+
+  /* If segment is not with the expected number, send ACK
+     with expected sequence number and return -1 */
+  int ack = expected_seq;
+  rc = sendto(sockfd, &ack, sizeof(ack), 0, (struct sockaddr *)&client_addr,
+              clen);
+  DIE(rc < 0, "send");
+  return -1;
+}
+
+void recv_a_file(int sockfd, char *filename) {
+  int fd = open(filename, O_WRONLY | O_CREAT | O_TRUNC, 0644);
+  DIE(fd < 0, "open");
+  struct seq_udp p;
+  int expected_seq = 0;
+  int rc;
+
+  while (1) {
+    /* Receive a chunk */
+    rc = recv_seq_udp(sockfd, &p, expected_seq);
+
+    /* If rc == -1 => we didn't receive the expected segment. We continue */
+    if (rc == -1)
+      continue;
+
+    /* If rc >=0 => we receive the expected segment. We increase expected_seq */
+    expected_seq++;
+
+    /* An empty payload means the file ended.
+    Break if file ended */
+    if (p.len == 0)
+      break;
+
+    /* Write the chunk to the file */
+    write(fd, p.payload, p.len);
+  }
+
+  close(fd);
+}
+
+void recv_a_message(int sockfd) {
+  /* Receive a datagram and send an ACK */
+  /* The info of the who sent the datagram (PORT and IP) */
+  struct sockaddr_in client_addr;
+  struct seq_udp p;
+  socklen_t clen = sizeof(client_addr);
+  int rc = recvfrom(sockfd, &p, sizeof(struct seq_udp), 0,
+                    (struct sockaddr *)&client_addr, &clen);
+
+  /* We know it's a string so we print it*/
+  printf("[Server] Received: %s\n", p.payload);
+
+  int ack = 0;
+  // Sending ACK. We model ACK as datagrams with only an int of value 0.
+  rc = sendto(sockfd, &ack, sizeof(ack), 0, (struct sockaddr *)&client_addr,
+              clen);
+  DIE(rc < 0, "send");
+}
+
+int main(int argc, char *argv[]) {
+  int sockfd;
+  struct sockaddr_in servaddr;
+
+  // Creating socket file descriptor
+  if ((sockfd = socket(AF_INET, SOCK_DGRAM, 0)) < 0) {
+    perror("socket creation failed");
+    exit(EXIT_FAILURE);
+  }
+
+  /* Make ports reusable, in case we run this really fast two times in a row */
+  int enable = 1;
+  if (setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR, &enable, sizeof(int)) < 0)
+    perror("setsockopt(SO_REUSEADDR) failed");
+
+  // Fill the details on what destination port should the
+  // datagrams have to be sent to our process.
+  memset(&servaddr, 0, sizeof(servaddr));
+  servaddr.sin_family = AF_INET; // IPv4
+  /* 0.0.0.0, basically match any IP */
+  servaddr.sin_addr.s_addr = INADDR_ANY;
+  servaddr.sin_port = htons(PORT);
+
+  // Bind the socket with the server address. The OS networking
+  // implementation will redirect to us the contents of all UDP
+  // datagrams that have our port as destination
+  int rc = bind(sockfd, (const struct sockaddr *)&servaddr, sizeof(servaddr));
+  DIE(rc < 0, "bind failed");
+
+  // Receive a file chuck by chuck and save it locally
+  recv_a_file(sockfd, SAVED_FILENAME);
+  // recv_a_message(sockfd);
+
+  return 0;
+}
+
+
+
+File: ./lib/list.c
+#include "list.h"
+#include <stdlib.h>
+#include <string.h>
+
+list* create_list() {
+	list* l = (list *)calloc(1, sizeof(list));
+	
+	l->size = 0;
+	return l;
+}
+
+/* append order by seq */
+void add_list_elem(list* list, void* info, int info_len, int seq) {
+
+	/* first check for duplicates seq */
+	list_entry* l_check = list->head;
+
+	while(l_check != NULL) {
+		if(l_check->seq == seq)
+			return;
+		l_check = l_check->next;
+	}
+
+	/* create list entry and set seq and type */
+	list_entry* l = (list_entry *)calloc(1, sizeof(list_entry));
+	l->seq = seq;
+
+	/* buffer info */
+	if(info_len > 0) {
+		l->info = calloc(info_len, sizeof(char));
+		memcpy(l->info, info, info_len);	
+		l->info_len = info_len;
+	} else{
+		l->info = NULL;
+	}
+
+	/* first elem */
+	if(list->head == NULL) {
+		list->head = l;
+	} else {
+		list_entry* _l = list->head;
+		
+		/* first elem */
+		if(_l->seq > seq) {
+			l->next = _l;
+			list->head = l;
+			list->size++;
+			return;
+		}
+
+		/* find elem place */
+		while(_l->next && _l->next->seq < seq) {
+			_l = _l->next;
+		}
+
+		l->next =_l->next;
+		_l->next = l;
+	}
+
+	list->size++;
+}
+
+
+
+File: ./Makefile
+build: server client
+CFLAGS = -Wall -Wextra -g -Wno-error=unused-variable
+CINCLUDES = -I include/
+all: server client
+
+list.o: lib/list.c include/list.h
+
+server: server.c include/utils.h lib/list.o
+	gcc  $(CFLAGS) $(CINCLUDES) server.c list.o -o server
+
+client: client.c include/utils.h lib/list.o
+	gcc  $(CFLAGS) $(CINCLUDES) client.c list.o -o client
+
+.c.o:
+	gcc $(CINCLUDES) $(CFLAGS) -g -c $?
+
+
+.PHONY: clean run_client run_server random_file
+
+# Construieste un fisier de 1MB (1024B*10^4)==1MB
+random_file:
+	dd if=/dev/urandom of=file.bin bs=1024 count=100
+
+run_benchmark: server client
+	./server &
+	./client
+
+clean:
+	rm -f server client file.bin received_file.bin *.o include/*.h.gch
+
+
+
+File: ./enunt.txt
+
+
+
+File: ./topo.py
+#!/usr/bin/env python
+
+"""
+The example topology creates a router and three IP subnets:
+
+    - 192.168.1.0/24 (r0-eth1, IP: 192.168.1.1)
+    - 172.16.0.0/12 (r0-eth2, IP: 172.16.0.1)
+    - 10.0.0.0/8 (r0-eth3, IP: 10.0.0.1)
+
+Each subnet consists of a single host connected to
+a single switch:
+
+    r0-eth1 - s1-eth1 - h1-eth0 (IP: 192.168.1.100)
+    r0-eth2 - s2-eth1 - h2-eth0 (IP: 172.16.0.100)
+"""
+
+
+from mininet.topo import Topo
+from mininet.net import Mininet
+from mininet.node import Node
+from mininet.log import setLogLevel, info
+from mininet.cli import CLI
+from mininet.link import TCLink
+import sys
+
+class LinuxRouter( Node ):
+    "A Node with IP forwarding enabled."
+
+    # pylint: disable=arguments-differ
+    def config( self, **params ):
+        super( LinuxRouter, self).config( **params )
+        # Enable forwarding on the router
+        self.cmd( 'sysctl net.ipv4.ip_forward=1' )
+
+    def terminate( self ):
+        self.cmd( 'sysctl net.ipv4.ip_forward=0' )
+        super( LinuxRouter, self ).terminate()
+
+
+class NetworkTopo( Topo ):
+    "A LinuxRouter connecting three IP subnets"
+
+
+    def build( self, **_opts ):
+
+        defaultIP = '192.168.1.1/24'  # IP address for r0-eth1
+        router = self.addNode( 'r0', cls=LinuxRouter, ip=defaultIP) 
+
+
+        h1 = self.addHost( 'h1', ip='192.168.1.100/24',
+                           defaultRoute='via 192.168.1.1' )
+
+        h2 = self.addHost( 'h2', ip='172.16.0.100/12',
+                           defaultRoute='via 172.16.0.1' )
+
+        # 10 Mbps, 5ms delay, 10% packet loss
+        self.addLink( h1, router, intfName1='r0-eth1', bw=10, delay='5ms', loss=10,
+                     params1={ 'ip' : '192.168.1.1/24' })  # for clarity
+
+        # 10 Mbps, 5ms delay, 10% packet loss
+        self.addLink( h2, router, intfName2='r0-eth2', bw=10, delay='5ms', loss=10,
+                      params2={ 'ip' : '172.16.0.1/12' } )
+
+class NetworkManager(object):
+    def __init__(self, net):
+        self.h1 = net.get("h1")
+        self.h2 = net.get("h2")
+
+
+def run():
+    "Test linux router"
+    topo = NetworkTopo()
+    net = Mininet( topo=topo, link=TCLink,
+                   waitConnected=True, controller=None)  # controller is used by s1-s3
+    net.start()
+    #print( '*** Routing Table on Router:\n' )
+    #print(net[ 'r0' ].cmd( 'route' ))
+
+    net.startTerms()
+    CLI( net )
+    net.stop()
+
+
+if __name__ == '__main__':
+    setLogLevel('critical')
+    run()
+
+
+
+File: ./README.md
+We have **two separate programs**, a client and a server. The client will
+send a file to a server.
+
+``client.c`` - the client implementation
+
+``server.c`` - the server implementation
+
+``list.h`` - the list API
+
+``common.h`` - Some common data, such as the used port definition
+
+Topology:
+```
+        L1          L2
+client <--> router <--> server
+
+Link 1 - 10 Mbps, 5ms delay, 20% packet loss (parameters set at topo.py:57)
+Link 2 - 10 Mbps, 5ms delay, 20% packet loss (parameters set at topo.py:60)
+
+
+client IP (h1) - 192.168.1.100
+server IP (h2) - 172.160.0.100
+```
+## API
+We will use the `sockers API`. We will use a list to represent the window.
+
+```C
+/* List entry */
+struct cel{
+  void* info;
+  int info_len;
+  int seq;
+  char type;
+  struct cel* next;
+};
+
+typedef struct cel list_entry;
+
+/* Window as a list */
+typedef struct {
+  int size;
+  int max_seq;
+  list_entry* head;
+} list;
+```
+
+
+```C
+list *window = create_list(2000);
+seq_udp p;
+...
+add_list_elem(list* window, &p, sizeof(struct seq_udp), p.seq);
+```
+
+Our protocol implementation will have the following datagram structure over UDP:
+
+```C
+struct seq_udp {    
+  uint32_t len;
+  uint16_t seq;
+  char payload[MAXSIZE];    
+};
+```
+
+## Usage
+To compile the code
+```bash
+make
+# to create a random file of 1MB called file.bin
+make random_file
+```
+
+This will create two binaries, to run them:
+```bash
+sudo python3 topo.py
+```
+It will open several terminals. We will run the client from `h1` and
+the server from `h2`.
+
+## C++
+Note, if you want to use C++, simply change the extension of `client.c` and
+`server.c` to `.cpp` and update the Makefile to use `g++`.
+
+
+
+File: ./client.c
+#include <arpa/inet.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <netinet/in.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/socket.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <unistd.h>
+#include <sys/time.h>
+#include <time.h>
+
+#include "common.h"
+#include "utils.h"
+#include "list.h"
+
+/* Max size of the datagrams that we will be sending */
+#define CHUNKSIZE MAX_SIZE;
+#define SENT_FILENAME "file.bin"
+#define SERVER_IP "172.16.0.100"
+
+#define TICK(X)                                                                \
+  struct timespec X;                                                           \
+  clock_gettime(CLOCK_MONOTONIC_RAW, &X)
+
+#define TOCK(X)                                                                \
+  struct timespec X##_end;                                                     \
+  clock_gettime(CLOCK_MONOTONIC_RAW, &X##_end);                                \
+  printf("Total time = %f seconds\n",                                          \
+         (X##_end.tv_nsec - (X).tv_nsec) / 1000000000.0 +                      \
+             (X##_end.tv_sec - (X).tv_sec))
+
+list *window;
+
+void send_file_start_stop(int sockfd, struct sockaddr_in server_address,
+                          char *filename) {
+
+  int fd = open(filename, O_RDONLY);
+  DIE(fd < 0, "open");
+  int rc;
+  int seq = 0;
+
+  while (1) {
+    /* Reads a chunk of the file */
+    struct seq_udp d;
+    int n = read(fd, d.payload, sizeof(d.payload));
+    DIE(n < 0, "read");
+    d.len = n;
+    d.seq = seq;
+    seq++;
+
+    /* TODO 1.2: Send the datagram. */
+
+    /* TODO 1.3: Wait for ACK before moving to the next datagram to send. If timeout, resend the datagram. */
+    
+    if (n == 0) // end of file
+      break;
+
+  }
+}
+
+void send_file_go_back_n(int sockfd, struct sockaddr_in server_address,
+                      char *filename) {
+
+  int fd = open(filename, O_RDONLY);
+  DIE(fd < 0, "open");
+  int rc;
+
+  /* TODO 2.1: Increase window size to a value that optimally uses the link */
+  int window_size = 5;
+  window->max_seq = 5;
+
+  int seq = 0;
+  while (1) {
+    /* TODO: 1.1 Read all the data of the and add it as datagrams in
+     * datagram_queue */
+    /* Reads the content of a file */
+    struct seq_udp *d = malloc(sizeof(struct seq_udp));
+    int n = read(fd, d->payload, sizeof(d->payload));
+    DIE(n < 0, "read");
+    d->len = n;
+    d->seq = seq;
+
+    add_list_elem(window, d, sizeof(struct seq_udp), seq);
+    seq++;
+
+    if (n == 0) // end of file
+      break;
+  }
+
+
+  /* TODO 2.2: Send window_size  packets to the server to saturate the link */
+
+  /* In a loop */
+
+    /* TODO 2.2: On ACK remove from the list all the segments that have been ACKed
+                and send the next new segments added to the window */
+
+    /* TODO 2.3: On timeout on recv resend all the segments from the window*/
+}
+
+void send_a_message(int sockfd, struct sockaddr_in server_address) {
+  struct seq_udp d;
+  strcpy(d.payload, "Hello world!");
+  d.len = strlen("Hello world!");
+
+  /* Send a UDP datagram. Sendto is implemented in the kernel (network stack of
+   * it), it basically creates a UDP datagram, sets the payload to the data we
+   * specified in the buffer, and the completes the IP header and UDP header
+   * using the sever_address info.*/
+  int rc = sendto(sockfd, &d, sizeof(struct seq_udp), 0,
+                  (struct sockaddr *)&server_address, sizeof(server_address));
+
+  DIE(rc < 0, "send");
+
+  /* Receive the ACK. recvfrom is blocking with the current parameters */
+  int ack;
+  rc = recvfrom(sockfd, &ack, sizeof(ack), 0, NULL, NULL);
+}
+
+int main(int argc, char *argv[]) {
+
+  /* We use this structure to store the server info. IP address and Port.
+   * This will be written by the UDP implementation into the header */
+  struct sockaddr_in servaddr;
+  int sockfd, rc;
+
+  // for benchmarking
+  TICK(TIME_A);
+
+
+  /* Our transmission window*/
+  window = create_list();
+
+  // Creating socket file descriptor. SOCK_DGRAM for UDP
+  sockfd = socket(AF_INET, SOCK_DGRAM, 0);
+  DIE(sockfd < 0, "socket");
+
+  /* Set the timeout on the socket */
+  struct timeval timeout;      
+  timeout.tv_sec = 10;
+  timeout.tv_usec = 0;
+    
+  rc = setsockopt (sockfd, SOL_SOCKET, SO_RCVTIMEO, &timeout,
+              sizeof timeout);
+  DIE(rc < 0, "setsockopt");
+
+  // Fill the information that will be put into the IP and UDP header to
+  // identify the target process (via PORT) on a given host (via SEVER_IP)
+  memset(&servaddr, 0, sizeof(servaddr));
+  servaddr.sin_family = AF_INET;
+  servaddr.sin_port = htons(PORT);
+  inet_aton(SERVER_IP, &servaddr.sin_addr);
+
+  /* TODO: Read the demo function.
+  Implement and test (one at a time) each of the proposed versions for sending a
+  file. */
+  send_a_message(sockfd, servaddr);
+  // send_file_start_stop(sockfd, servaddr, SENT_FILENAME);
+  // send_file_window(sockfd, servaddr, SENT_FILENAME);
+
+  close(sockfd);
+
+  /* Print the runtime of the program */
+  TOCK(TIME_A);
+
+  return 0;
+}
+
+
+

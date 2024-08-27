@@ -1,0 +1,29 @@
+Applying BrandOffer discount: 1000 euros
+Applying DealerOffer discount: 3600 euros
+Applying SpecialOffer discount: 853 euros
+The price for Car{price=20000, carType=MERCEDES, year=2011} after applying discounts: 14547
+
+Applying BrandOffer discount: 1750 euros
+Applying DealerOffer discount: 2100 euros
+Applying SpecialOffer discount: 436 euros
+The price for Car{price=35000, carType=MERCEDES, year=2016} after applying discounts: 30714
+
+Applying BrandOffer discount: 350 euros
+Applying DealerOffer discount: 1400 euros
+Applying SpecialOffer discount: 501 euros
+The price for Car{price=3500, carType=FIAT, year=2009} after applying discounts: 1249
+
+Applying BrandOffer discount: 700 euros
+Applying DealerOffer discount: 1200 euros
+Applying SpecialOffer discount: 761 euros
+The price for Car{price=7000, carType=FIAT, year=2011} after applying discounts: 4339
+
+Applying BrandOffer discount: 1800 euros
+Applying DealerOffer discount: 1050 euros
+Applying SpecialOffer discount: 405 euros
+The price for Car{price=12000, carType=SKODA, year=2016} after applying discounts: 8745
+
+Applying BrandOffer discount: 3750 euros
+Applying DealerOffer discount: 150 euros
+Applying SpecialOffer discount: 895 euros
+The price for Car{price=25000, carType=SKODA, year=2022} after applying discounts: 20205

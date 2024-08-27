@@ -1,0 +1,2782 @@
+2,6d1
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 0,
+<   "message" : "frank21 is not playing any music."
+< }, {
+477,501d471
+<   "command" : "buyPremium",
+<   "user" : "irene33",
+<   "timestamp" : 5,
+<   "message" : "irene33 bought the subscription successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "grace25",
+<   "timestamp" : 5,
+<   "message" : "grace25 bought the subscription successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "henry26",
+<   "timestamp" : 5,
+<   "message" : "henry26 bought the subscription successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "david27",
+<   "timestamp" : 5,
+<   "message" : "david27 bought the subscription successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "jack29",
+<   "timestamp" : 5,
+<   "message" : "jack29 bought the subscription successfully."
+< }, {
+657,661d626
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 10,
+<   "message" : "alice22 subscribed to Eminem successfully."
+< }, {
+705,709d669
+<   "command" : "subscribe",
+<   "user" : "bob35",
+<   "timestamp" : 98,
+<   "message" : "bob35 subscribed to Marvin Gaye successfully."
+< }, {
+726,730d685
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 137,
+<   "message" : "Ad inserted successfully."
+< }, {
+822,826d776
+<   "command" : "subscribe",
+<   "user" : "henry26",
+<   "timestamp" : 167,
+<   "message" : "henry26 subscribed to Adele successfully."
+< }, {
+875,879d824
+<   "command" : "cancelPremium",
+<   "user" : "henry26",
+<   "timestamp" : 228,
+<   "message" : "henry26 cancelled the subscription successfully."
+< }, {
+907,916d851
+<   "command" : "buyMerch",
+<   "user" : "jack29",
+<   "timestamp" : 230,
+<   "message" : "The merch James Brown's Cap doesn't exist."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 252,
+<   "message" : "Ad inserted successfully."
+< }, {
+928,932d862
+<   "command" : "subscribe",
+<   "user" : "irene33",
+<   "timestamp" : 252,
+<   "message" : "irene33 subscribed to Jay-Z successfully."
+< }, {
+976,985d905
+<   "command" : "buyMerch",
+<   "user" : "emily30",
+<   "timestamp" : 280,
+<   "message" : "The merch Michael Jackson Vinyl Record doesn't exist."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 287,
+<   "message" : "Ad inserted successfully."
+< }, {
+1050,1054d969
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 326,
+<   "message" : "Ad inserted successfully."
+< }, {
+1066,1075d980
+<   "command" : "subscribe",
+<   "user" : "henry26",
+<   "timestamp" : 338,
+<   "message" : "henry26 subscribed to Madonna successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "henry26",
+<   "timestamp" : 341,
+<   "message" : "henry26 bought the subscription successfully."
+< }, {
+1119,1128d1023
+<   "command" : "subscribe",
+<   "user" : "irene33",
+<   "timestamp" : 361,
+<   "message" : "irene33 subscribed to Dire Straits successfully."
+< }, {
+<   "command" : "cancelPremium",
+<   "user" : "jack29",
+<   "timestamp" : 367,
+<   "message" : "jack29 cancelled the subscription successfully."
+< }, {
+1145,1149d1039
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 370,
+<   "message" : "Ad inserted successfully."
+< }, {
+1161,1170d1050
+<   "command" : "subscribe",
+<   "user" : "emily30",
+<   "timestamp" : 380,
+<   "message" : "emily30 subscribed to Michael Jackson successfully."
+< }, {
+<   "command" : "seeMerch",
+<   "user" : "jack29",
+<   "timestamp" : 380,
+<   "result" : [ ]
+< }, {
+1230,1234d1109
+<   "command" : "subscribe",
+<   "user" : "carol19",
+<   "timestamp" : 403,
+<   "message" : "carol19 subscribed to David Bowie successfully."
+< }, {
+1267,1276d1141
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 421,
+<   "message" : "carol19 is not playing any music."
+< }, {
+<   "command" : "seeMerch",
+<   "user" : "emily30",
+<   "timestamp" : 430,
+<   "result" : [ ]
+< }, {
+1325,1329d1189
+<   "command" : "buyPremium",
+<   "user" : "frank21",
+<   "timestamp" : 459,
+<   "message" : "frank21 bought the subscription successfully."
+< }, {
+1389,1393d1248
+<   "command" : "subscribe",
+<   "user" : "emily30",
+<   "timestamp" : 495,
+<   "message" : "emily30 subscribed to Stevie Wonder successfully."
+< }, {
+1421,1430d1275
+<   "command" : "subscribe",
+<   "user" : "david27",
+<   "timestamp" : 537,
+<   "message" : "david27 subscribed to The Beatles successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 538,
+<   "message" : "Ad inserted successfully."
+< }, {
+1495,1499d1339
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 569,
+<   "message" : "Ad inserted successfully."
+< }, {
+1511,1515d1350
+<   "command" : "subscribe",
+<   "user" : "henry26",
+<   "timestamp" : 582,
+<   "message" : "henry26 subscribed to Imagine Dragons successfully."
+< }, {
+1575,1579d1409
+<   "command" : "subscribe",
+<   "user" : "bob35",
+<   "timestamp" : 649,
+<   "message" : "bob35 subscribed to Chuck Berry successfully."
+< }, {
+1623,1627d1452
+<   "command" : "subscribe",
+<   "user" : "bob35",
+<   "timestamp" : 679,
+<   "message" : "bob35 subscribed to Led Zeppelin successfully."
+< }, {
+1655,1659d1479
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 726,
+<   "message" : "alice22 subscribed to Bob Dylan successfully."
+< }, {
+1719,1723d1538
+<   "command" : "subscribe",
+<   "user" : "irene33",
+<   "timestamp" : 784,
+<   "message" : "irene33 subscribed to Prince successfully."
+< }, {
+1783,1787d1597
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 879,
+<   "message" : "alice22 subscribed to Prince successfully."
+< }, {
+1815,1824d1624
+<   "command" : "subscribe",
+<   "user" : "bob35",
+<   "timestamp" : 899,
+<   "message" : "bob35 subscribed to Bruce Springsteen successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 933,
+<   "message" : "Ad inserted successfully."
+< }, {
+1857,1861d1656
+<   "command" : "buyPremium",
+<   "user" : "emily30",
+<   "timestamp" : 952,
+<   "message" : "emily30 bought the subscription successfully."
+< }, {
+1905,1909d1699
+<   "command" : "subscribe",
+<   "user" : "jack29",
+<   "timestamp" : 998,
+<   "message" : "jack29 subscribed to David Bowie successfully."
+< }, {
+1942,1951d1731
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 1053,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 1057,
+<   "message" : "bob35 is not playing any music."
+< }, {
+1979,1983d1758
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 1066,
+<   "message" : "alice22 subscribed to Queen successfully."
+< }, {
+2027,2031d1801
+<   "command" : "subscribe",
+<   "user" : "irene33",
+<   "timestamp" : 1096,
+<   "message" : "irene33 subscribed to U2 successfully."
+< }, {
+2043,2047d1812
+<   "command" : "subscribe",
+<   "user" : "bob35",
+<   "timestamp" : 1128,
+<   "message" : "bob35 subscribed to Queen successfully."
+< }, {
+2075,2079d1839
+<   "command" : "buyMerch",
+<   "user" : "bob35",
+<   "timestamp" : 1166,
+<   "message" : "The merch Ray Charles Vinyl Record doesn't exist."
+< }, {
+2091,2095d1850
+<   "command" : "buyMerch",
+<   "user" : "carol19",
+<   "timestamp" : 1167,
+<   "message" : "The merch Bob Dylan Album doesn't exist."
+< }, {
+2171,2175d1925
+<   "command" : "subscribe",
+<   "user" : "grace25",
+<   "timestamp" : 1203,
+<   "message" : "grace25 subscribed to Aretha Franklin successfully."
+< }, {
+2203,2212d1952
+<   "command" : "subscribe",
+<   "user" : "jack29",
+<   "timestamp" : 1277,
+<   "message" : "jack29 subscribed to Nothing But Thieves successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "carol19",
+<   "timestamp" : 1284,
+<   "message" : "carol19 bought the subscription successfully."
+< }, {
+2229,2248d1968
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 1301,
+<   "message" : "bob35 is not playing any music."
+< }, {
+<   "command" : "seeMerch",
+<   "user" : "bob35",
+<   "timestamp" : 1316,
+<   "result" : [ ]
+< }, {
+<   "command" : "seeMerch",
+<   "user" : "carol19",
+<   "timestamp" : 1317,
+<   "result" : [ ]
+< }, {
+<   "command" : "loadRecommendations",
+<   "user" : "bob35",
+<   "timestamp" : 1321,
+<   "message" : "No recommendations available."
+< }, {
+2265,2269d1984
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 1333,
+<   "message" : "alice22 is not playing any music."
+< }, {
+2297,2301d2011
+<   "command" : "subscribe",
+<   "user" : "jack29",
+<   "timestamp" : 1340,
+<   "message" : "jack29 subscribed to Bruce Springsteen successfully."
+< }, {
+2345,2349d2054
+<   "command" : "subscribe",
+<   "user" : "jack29",
+<   "timestamp" : 1373,
+<   "message" : "jack29 subscribed to Madonna successfully."
+< }, {
+2430,2434d2134
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 1430,
+<   "message" : "Ad inserted successfully."
+< }, {
+2462,2466d2161
+<   "command" : "subscribe",
+<   "user" : "bob35",
+<   "timestamp" : 1450,
+<   "message" : "bob35 subscribed to The Who successfully."
+< }, {
+2510,2514d2204
+<   "command" : "subscribe",
+<   "user" : "irene33",
+<   "timestamp" : 1502,
+<   "message" : "irene33 subscribed to Pink Floyd successfully."
+< }, {
+2590,2594d2279
+<   "command" : "subscribe",
+<   "user" : "grace25",
+<   "timestamp" : 1574,
+<   "message" : "grace25 subscribed to Stevie Wonder successfully."
+< }, {
+2675,2684d2359
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 1641,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "alice22",
+<   "timestamp" : 1647,
+<   "message" : "alice22 bought the subscription successfully."
+< }, {
+2728,2732d2402
+<   "command" : "subscribe",
+<   "user" : "david27",
+<   "timestamp" : 1661,
+<   "message" : "david27 subscribed to The Beach Boys successfully."
+< }, {
+2760,2764d2429
+<   "command" : "subscribe",
+<   "user" : "david27",
+<   "timestamp" : 1700,
+<   "message" : "david27 subscribed to Aretha Franklin successfully."
+< }, {
+2781,2785d2445
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 1713,
+<   "message" : "bob35 is not playing any music."
+< }, {
+3110,3114d2769
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 1908,
+<   "message" : "Ad inserted successfully."
+< }, {
+3195,3199d2849
+<   "command" : "loadRecommendations",
+<   "user" : "henry26",
+<   "timestamp" : 1957,
+<   "message" : "No recommendations available."
+< }, {
+3216,3220d2865
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 1986,
+<   "message" : "Ad inserted successfully."
+< }, {
+3269,3273d2913
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 2030,
+<   "message" : "Ad inserted successfully."
+< }, {
+3630,3634d3269
+<   "command" : "cancelPremium",
+<   "user" : "irene33",
+<   "timestamp" : 2364,
+<   "message" : "irene33 cancelled the subscription successfully."
+< }, {
+3869,3873d3503
+<   "command" : "loadRecommendations",
+<   "user" : "carol19",
+<   "timestamp" : 2570,
+<   "message" : "No recommendations available."
+< }, {
+4007,4011d3636
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 2645,
+<   "message" : "Ad inserted successfully."
+< }, {
+4113,4117d3737
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 2723,
+<   "message" : "Ad inserted successfully."
+< }, {
+4208,4212d3827
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 2782,
+<   "message" : "Ad inserted successfully."
+< }, {
+4250,4254d3864
+<   "command" : "buyPremium",
+<   "user" : "bob35",
+<   "timestamp" : 2832,
+<   "message" : "bob35 bought the subscription successfully."
+< }, {
+4345,4365d3954
+<   "command" : "wrapped",
+<   "user" : "Nirvana",
+<   "timestamp" : 2914,
+<   "result" : {
+<     "topAlbums" : {
+<       "Nevermind" : 42,
+<       "Nirvana" : 39,
+<       "In Utero" : 13,
+<       "MTV Unplugged in New York" : 11
+<     },
+<     "topSongs" : {
+<       "Come as You Are" : 8,
+<       "All Apologies (MTV Unplugged)" : 6,
+<       "On a Plain" : 6,
+<       "Pennyroyal Tea - Single Mix" : 6,
+<       "Where Did You Sleep Last Night (Live Version)" : 6
+<     },
+<     "topFans" : [ "bob35", "emily30", "carol19", "irene33", "alice22" ],
+<     "listeners" : 10
+<   }
+< }, {
+4398,4402d3986
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 2924,
+<   "message" : "Ad inserted successfully."
+< }, {
+4440,4444d4023
+<   "command" : "cancelPremium",
+<   "user" : "bob35",
+<   "timestamp" : 2948,
+<   "message" : "bob35 cancelled the subscription successfully."
+< }, {
+4477,4481d4055
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 2968,
+<   "message" : "Ad inserted successfully."
+< }, {
+4551,4555d4124
+<   "command" : "cancelPremium",
+<   "user" : "frank21",
+<   "timestamp" : 3006,
+<   "message" : "frank21 cancelled the subscription successfully."
+< }, {
+4684,4693d4252
+<   "command" : "buyMerch",
+<   "user" : "henry26",
+<   "timestamp" : 3127,
+<   "message" : "The merch Michael Jackson Vinyl Record doesn't exist."
+< }, {
+<   "command" : "cancelPremium",
+<   "user" : "carol19",
+<   "timestamp" : 3171,
+<   "message" : "carol19 cancelled the subscription successfully."
+< }, {
+4726,4730d4284
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 3192,
+<   "message" : "Ad inserted successfully."
+< }, {
+4795,4799d4348
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 3254,
+<   "message" : "Ad inserted successfully."
+< }, {
+4832,4836d4380
+<   "command" : "seeMerch",
+<   "user" : "henry26",
+<   "timestamp" : 3277,
+<   "result" : [ ]
+< }, {
+4980,4984d4523
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 3478,
+<   "message" : "Ad inserted successfully."
+< }, {
+5064,5068d4602
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 3603,
+<   "message" : "Ad inserted successfully."
+< }, {
+5122,5126d4655
+<   "command" : "buyPremium",
+<   "user" : "bob35",
+<   "timestamp" : 3730,
+<   "message" : "bob35 bought the subscription successfully."
+< }, {
+5239,5243d4767
+<   "command" : "getNotifications",
+<   "user" : "frank21",
+<   "timestamp" : 3936,
+<   "notifications" : [ ]
+< }, {
+5260,5264d4783
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 4020,
+<   "message" : "Ad inserted successfully."
+< }, {
+5350,5354d4868
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 4189,
+<   "message" : "Ad inserted successfully."
+< }, {
+5424,5428d4937
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 4302,
+<   "message" : "Ad inserted successfully."
+< }, {
+5832,5836d5340
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 4775,
+<   "message" : "Ad inserted successfully."
+< }, {
+5869,5873d5372
+<   "command" : "updateRecommendations",
+<   "user" : "carol19",
+<   "timestamp" : 4803,
+<   "message" : "No new recommendations were found"
+< }, {
+5885,5889d5383
+<   "command" : "buyMerch",
+<   "user" : "alice22",
+<   "timestamp" : 4809,
+<   "message" : "The merch Nirvana Vinyl Record doesn't exist."
+< }, {
+5922,5926d5415
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 4826,
+<   "message" : "Ad inserted successfully."
+< }, {
+6012,6016d5500
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 4946,
+<   "message" : "Ad inserted successfully."
+< }, {
+6033,6037d5516
+<   "command" : "seeMerch",
+<   "user" : "alice22",
+<   "timestamp" : 4959,
+<   "result" : [ ]
+< }, {
+6054,6058d5532
+<   "command" : "buyPremium",
+<   "user" : "frank21",
+<   "timestamp" : 4977,
+<   "message" : "frank21 bought the subscription successfully."
+< }, {
+6128,6132d5601
+<   "command" : "cancelPremium",
+<   "user" : "henry26",
+<   "timestamp" : 5113,
+<   "message" : "henry26 cancelled the subscription successfully."
+< }, {
+6213,6234d5681
+<   "command" : "getNotifications",
+<   "user" : "grace25",
+<   "timestamp" : 5149,
+<   "notifications" : [ {
+<     "name" : "New Album",
+<     "description" : "New Album from Stevie Wonder."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Aretha Franklin."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Stevie Wonder."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Stevie Wonder."
+<   } ]
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "irene33",
+<   "timestamp" : 5183,
+<   "message" : "irene33 bought the subscription successfully."
+< }, {
+6251,6255d5697
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 5200,
+<   "message" : "Ad inserted successfully."
+< }, {
+6309,6313d5750
+<   "command" : "cancelPremium",
+<   "user" : "irene33",
+<   "timestamp" : 5253,
+<   "message" : "irene33 cancelled the subscription successfully."
+< }, {
+6346,6366d5782
+<   "command" : "wrapped",
+<   "user" : "Joni Mitchell",
+<   "timestamp" : 5263,
+<   "result" : {
+<     "topAlbums" : {
+<       "Blue" : 33,
+<       "Ladies of the Canyon" : 31,
+<       "Court and Spark" : 27,
+<       "Both Sides Now" : 26
+<     },
+<     "topSongs" : {
+<       "All I Want" : 6,
+<       "A Case of You" : 5,
+<       "Comes Love" : 5,
+<       "Little Green" : 5,
+<       "Raised on Robbery" : 5
+<     },
+<     "topFans" : [ "frank21", "carol19", "alice22", "grace25", "henry26" ],
+<     "listeners" : 10
+<   }
+< }, {
+6420,6424d5835
+<   "command" : "cancelPremium",
+<   "user" : "emily30",
+<   "timestamp" : 5363,
+<   "message" : "emily30 cancelled the subscription successfully."
+< }, {
+6441,6482d5851
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 5364,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "getNotifications",
+<   "user" : "bob35",
+<   "timestamp" : 5370,
+<   "notifications" : [ {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Led Zeppelin."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Queen."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Queen."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Queen."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Queen."
+<   }, {
+<     "name" : "New Event",
+<     "description" : "New Event from Bruce Springsteen."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Marvin Gaye."
+<   }, {
+<     "name" : "New Event",
+<     "description" : "New Event from The Who."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Chuck Berry."
+<   } ]
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "carol19",
+<   "timestamp" : 5384,
+<   "message" : "carol19 bought the subscription successfully."
+< }, {
+6563,6572d5931
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 5487,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 5490,
+<   "message" : "Ad inserted successfully."
+< }, {
+6749,6753d6107
+<   "command" : "buyPremium",
+<   "user" : "emily30",
+<   "timestamp" : 5674,
+<   "message" : "emily30 bought the subscription successfully."
+< }, {
+6913,6917d6266
+<   "command" : "loadRecommendations",
+<   "user" : "frank21",
+<   "timestamp" : 5853,
+<   "message" : "No recommendations available."
+< }, {
+7226,7233d6574
+<   "command" : "getNotifications",
+<   "user" : "henry26",
+<   "timestamp" : 6104,
+<   "notifications" : [ {
+<     "name" : "New Album",
+<     "description" : "New Album from Adele."
+<   } ]
+< }, {
+7282,7289d6622
+<   "command" : "getNotifications",
+<   "user" : "grace25",
+<   "timestamp" : 6163,
+<   "notifications" : [ {
+<     "name" : "New Event",
+<     "description" : "New Event from Stevie Wonder."
+<   } ]
+< }, {
+7338,7342d6670
+<   "command" : "cancelPremium",
+<   "user" : "bob35",
+<   "timestamp" : 6229,
+<   "message" : "bob35 cancelled the subscription successfully."
+< }, {
+7423,7427d6750
+<   "command" : "buyPremium",
+<   "user" : "henry26",
+<   "timestamp" : 6261,
+<   "message" : "henry26 bought the subscription successfully."
+< }, {
+7545,7549d6867
+<   "command" : "cancelPremium",
+<   "user" : "grace25",
+<   "timestamp" : 6354,
+<   "message" : "grace25 cancelled the subscription successfully."
+< }, {
+7566,7570d6883
+<   "command" : "buyPremium",
+<   "user" : "bob35",
+<   "timestamp" : 6365,
+<   "message" : "bob35 bought the subscription successfully."
+< }, {
+7757,7761d7069
+<   "command" : "cancelPremium",
+<   "user" : "emily30",
+<   "timestamp" : 6551,
+<   "message" : "emily30 cancelled the subscription successfully."
+< }, {
+8007,8011d7314
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 6730,
+<   "message" : "Ad inserted successfully."
+< }, {
+8065,8069d7367
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 6808,
+<   "message" : "Ad inserted successfully."
+< }, {
+8086,8090d7383
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 6824,
+<   "message" : "Ad inserted successfully."
+< }, {
+8171,8191d7463
+<   "command" : "wrapped",
+<   "user" : "ABBA",
+<   "timestamp" : 6881,
+<   "result" : {
+<     "topAlbums" : {
+<       "ABBA Gold" : 52,
+<       "Arrival" : 35,
+<       "Voulez-Vous" : 19,
+<       "Super Trouper" : 18
+<     },
+<     "topSongs" : {
+<       "Dancing Queen" : 8,
+<       "Money, Money, Money" : 7,
+<       "That's Me" : 7,
+<       "Voulez-Vous" : 6,
+<       "Knowing Me, Knowing You" : 5
+<     },
+<     "topFans" : [ "carol19", "jack29", "emily30", "henry26", "david27" ],
+<     "listeners" : 10
+<   }
+< }, {
+8272,8276d7543
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 6913,
+<   "message" : "Ad inserted successfully."
+< }, {
+8548,8552d7814
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 7187,
+<   "message" : "Ad inserted successfully."
+< }, {
+8590,8594d7851
+<   "command" : "loadRecommendations",
+<   "user" : "emily30",
+<   "timestamp" : 7207,
+<   "message" : "No recommendations available."
+< }, {
+8728,8732d7984
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 7324,
+<   "message" : "Ad inserted successfully."
+< }, {
+8765,8774d8016
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 7367,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 7368,
+<   "message" : "Ad inserted successfully."
+< }, {
+8887,8922d8128
+<   "command" : "getNotifications",
+<   "user" : "david27",
+<   "timestamp" : 7438,
+<   "notifications" : [ {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from The Beatles."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Aretha Franklin."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Beatles."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from The Beach Boys."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Beach Boys."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Aretha Franklin."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Aretha Franklin."
+<   } ]
+< }, {
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 7441,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 7448,
+<   "message" : "Ad inserted successfully."
+< }, {
+8939,8943d8144
+<   "command" : "buyPremium",
+<   "user" : "jack29",
+<   "timestamp" : 7453,
+<   "message" : "jack29 bought the subscription successfully."
+< }, {
+9141,9145d8341
+<   "command" : "cancelPremium",
+<   "user" : "bob35",
+<   "timestamp" : 7672,
+<   "message" : "bob35 cancelled the subscription successfully."
+< }, {
+9167,9171d8362
+<   "command" : "buyPremium",
+<   "user" : "grace25",
+<   "timestamp" : 7713,
+<   "message" : "grace25 bought the subscription successfully."
+< }, {
+9236,9240d8426
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 7757,
+<   "message" : "Ad inserted successfully."
+< }, {
+9278,9282d8463
+<   "command" : "cancelPremium",
+<   "user" : "grace25",
+<   "timestamp" : 7781,
+<   "message" : "grace25 cancelled the subscription successfully."
+< }, {
+9299,9303d8479
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 7805,
+<   "message" : "Ad inserted successfully."
+< }, {
+9400,9404d8575
+<   "command" : "cancelPremium",
+<   "user" : "frank21",
+<   "timestamp" : 7914,
+<   "message" : "frank21 cancelled the subscription successfully."
+< }, {
+9479,9488d8649
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 8037,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "grace25",
+<   "timestamp" : 8041,
+<   "message" : "grace25 bought the subscription successfully."
+< }, {
+9558,9571d8718
+<   "command" : "getNotifications",
+<   "user" : "grace25",
+<   "timestamp" : 8128,
+<   "notifications" : [ {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Aretha Franklin."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Stevie Wonder."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Aretha Franklin."
+<   } ]
+< }, {
+9620,9624d8766
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 8166,
+<   "message" : "Ad inserted successfully."
+< }, {
+9689,9693d8830
+<   "command" : "buyPremium",
+<   "user" : "irene33",
+<   "timestamp" : 8216,
+<   "message" : "irene33 bought the subscription successfully."
+< }, {
+9832,9845d8968
+<   "command" : "getNotifications",
+<   "user" : "bob35",
+<   "timestamp" : 8292,
+<   "notifications" : [ {
+<     "name" : "New Album",
+<     "description" : "New Album from Queen."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Who."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Queen."
+<   } ]
+< }, {
+9862,9866d8984
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 8301,
+<   "message" : "Ad inserted successfully."
+< }, {
+9952,9956d9069
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 8387,
+<   "message" : "Ad inserted successfully."
+< }, {
+10122,10126d9234
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 8579,
+<   "message" : "Ad inserted successfully."
+< }, {
+10175,10179d9282
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 8614,
+<   "message" : "Ad inserted successfully."
+< }, {
+10307,10311d9409
+<   "command" : "cancelPremium",
+<   "user" : "alice22",
+<   "timestamp" : 8762,
+<   "message" : "alice22 cancelled the subscription successfully."
+< }, {
+10360,10364d9457
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 8779,
+<   "message" : "Ad inserted successfully."
+< }, {
+10386,10390d9478
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 8819,
+<   "message" : "Ad inserted successfully."
+< }, {
+10407,10411d9494
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 8838,
+<   "message" : "Ad inserted successfully."
+< }, {
+10428,10432d9510
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 8840,
+<   "message" : "Ad inserted successfully."
+< }, {
+10582,10586d9659
+<   "command" : "getNotifications",
+<   "user" : "carol19",
+<   "timestamp" : 8976,
+<   "notifications" : [ ]
+< }, {
+10667,10676d9739
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 9055,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "emily30",
+<   "timestamp" : 9058,
+<   "message" : "emily30 bought the subscription successfully."
+< }, {
+10693,10697d9755
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 9071,
+<   "message" : "Ad inserted successfully."
+< }, {
+10746,10750d9803
+<   "command" : "loadRecommendations",
+<   "user" : "frank21",
+<   "timestamp" : 9091,
+<   "message" : "No recommendations available."
+< }, {
+10841,10845d9893
+<   "command" : "cancelPremium",
+<   "user" : "david27",
+<   "timestamp" : 9222,
+<   "message" : "david27 cancelled the subscription successfully."
+< }, {
+10878,10882d9925
+<   "command" : "cancelPremium",
+<   "user" : "grace25",
+<   "timestamp" : 9263,
+<   "message" : "grace25 cancelled the subscription successfully."
+< }, {
+11016,11020d10058
+<   "command" : "updateRecommendations",
+<   "user" : "henry26",
+<   "timestamp" : 9386,
+<   "message" : "The recommendations for user henry26 have been updated successfully."
+< }, {
+11069,11073d10106
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 9428,
+<   "message" : "Ad inserted successfully."
+< }, {
+11127,11146d10159
+<   "command" : "wrapped",
+<   "user" : "Bob Dylan",
+<   "timestamp" : 9495,
+<   "result" : {
+<     "topAlbums" : {
+<       "Bringing It All Back Home" : 45,
+<       "Highway 61 Revisited" : 43,
+<       "The Freewheelin' Bob Dylan" : 38
+<     },
+<     "topSongs" : {
+<       "Queen Jane Approximately" : 8,
+<       "From a Buick 6" : 7,
+<       "Bob Dylan's 115th Dream" : 6,
+<       "Desolation Row" : 6,
+<       "Don't Think Twice, It's All Right" : 6
+<     },
+<     "topFans" : [ "david27", "irene33", "grace25", "henry26", "jack29" ],
+<     "listeners" : 10
+<   }
+< }, {
+11216,11223d10228
+<   "command" : "getNotifications",
+<   "user" : "carol19",
+<   "timestamp" : 9563,
+<   "notifications" : [ {
+<     "name" : "New Album",
+<     "description" : "New Album from David Bowie."
+<   } ]
+< }, {
+11388,11392d10392
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 9696,
+<   "message" : "Ad inserted successfully."
+< }, {
+11425,11429d10424
+<   "command" : "loadRecommendations",
+<   "user" : "jack29",
+<   "timestamp" : 9745,
+<   "message" : "No recommendations available."
+< }, {
+11483,11487d10477
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 9806,
+<   "message" : "Ad inserted successfully."
+< }, {
+11642,11646d10631
+<   "command" : "adBreak",
+<   "user" : "david27",
+<   "timestamp" : 9962,
+<   "message" : "Ad inserted successfully."
+< }, {
+11711,11715d10695
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 10062,
+<   "message" : "Ad inserted successfully."
+< }, {
+11812,11816d10791
+<   "command" : "cancelPremium",
+<   "user" : "carol19",
+<   "timestamp" : 10143,
+<   "message" : "carol19 cancelled the subscription successfully."
+< }, {
+11897,11901d10871
+<   "command" : "loadRecommendations",
+<   "user" : "jack29",
+<   "timestamp" : 10217,
+<   "message" : "No recommendations available."
+< }, {
+11934,11938d10903
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 10300,
+<   "message" : "Ad inserted successfully."
+< }, {
+12003,12007d10967
+<   "command" : "updateRecommendations",
+<   "user" : "grace25",
+<   "timestamp" : 10322,
+<   "message" : "The recommendations for user grace25 have been updated successfully."
+< }, {
+12024,12042d10983
+<   "command" : "wrapped",
+<   "user" : "The Beach Boys",
+<   "timestamp" : 10363,
+<   "result" : {
+<     "topAlbums" : {
+<       "Pet Sounds" : 64,
+<       "Summer Dreams" : 48
+<     },
+<     "topSongs" : {
+<       "Summertime Blues" : 8,
+<       "Girl Don't Tell Me" : 7,
+<       "I Know There's an Answer" : 7,
+<       "Pet Sounds" : 7,
+<       "That's Not Me" : 7
+<     },
+<     "topFans" : [ "alice22", "jack29", "bob35", "carol19", "david27" ],
+<     "listeners" : 10
+<   }
+< }, {
+12123,12127d11063
+<   "command" : "buyPremium",
+<   "user" : "david27",
+<   "timestamp" : 10460,
+<   "message" : "david27 bought the subscription successfully."
+< }, {
+12176,12180d11111
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 10541,
+<   "message" : "Ad inserted successfully."
+< }, {
+12261,12265d11191
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 10615,
+<   "message" : "Ad inserted successfully."
+< }, {
+12394,12398d11319
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 10800,
+<   "message" : "Ad inserted successfully."
+< }, {
+12463,12467d11383
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 10860,
+<   "message" : "Ad inserted successfully."
+< }, {
+12484,12488d11399
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 10903,
+<   "message" : "Ad inserted successfully."
+< }, {
+12601,12605d11511
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 11037,
+<   "message" : "Ad inserted successfully."
+< }, {
+12654,12658d11559
+<   "command" : "cancelPremium",
+<   "user" : "jack29",
+<   "timestamp" : 11101,
+<   "message" : "jack29 cancelled the subscription successfully."
+< }, {
+12787,12791d11687
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 11237,
+<   "message" : "Ad inserted successfully."
+< }, {
+12808,12812d11703
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 11268,
+<   "message" : "Ad inserted successfully."
+< }, {
+12861,12865d11751
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 11362,
+<   "message" : "Ad inserted successfully."
+< }, {
+12962,12966d11847
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 11537,
+<   "message" : "Ad inserted successfully."
+< }, {
+13127,13131d12007
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 11745,
+<   "message" : "Ad inserted successfully."
+< }, {
+13164,13168d12039
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 11806,
+<   "message" : "Ad inserted successfully."
+< }, {
+13185,13189d12055
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 11823,
+<   "message" : "Ad inserted successfully."
+< }, {
+13382,13386d12247
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 12209,
+<   "message" : "Ad inserted successfully."
+< }, {
+13419,13423d12279
+<   "command" : "buyPremium",
+<   "user" : "alice22",
+<   "timestamp" : 12308,
+<   "message" : "alice22 bought the subscription successfully."
+< }, {
+13504,13508d12359
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 12446,
+<   "message" : "Ad inserted successfully."
+< }, {
+13669,13673d12519
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 12734,
+<   "message" : "Ad inserted successfully."
+< }, {
+13690,13694d12535
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 12793,
+<   "message" : "Ad inserted successfully."
+< }, {
+13759,13763d12599
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 12889,
+<   "message" : "Ad inserted successfully."
+< }, {
+13892,13896d12727
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 13118,
+<   "message" : "Ad inserted successfully."
+< }, {
+14025,14029d12855
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 13295,
+<   "message" : "Ad inserted successfully."
+< }, {
+14046,14050d12871
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 13327,
+<   "message" : "Ad inserted successfully."
+< }, {
+14339,14343d13159
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 13700,
+<   "message" : "Ad inserted successfully."
+< }, {
+14392,14396d13207
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 13730,
+<   "message" : "Ad inserted successfully."
+< }, {
+14525,14529d13335
+<   "command" : "buyPremium",
+<   "user" : "frank21",
+<   "timestamp" : 13915,
+<   "message" : "frank21 bought the subscription successfully."
+< }, {
+14578,14582d13383
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 13952,
+<   "message" : "Ad inserted successfully."
+< }, {
+14775,14779d13575
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 14173,
+<   "message" : "Ad inserted successfully."
+< }, {
+14844,14848d13639
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 14210,
+<   "message" : "Ad inserted successfully."
+< }, {
+15121,15125d13911
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 14530,
+<   "message" : "Ad inserted successfully."
+< }, {
+15238,15242d14023
+<   "command" : "cancelPremium",
+<   "user" : "henry26",
+<   "timestamp" : 14771,
+<   "message" : "henry26 cancelled the subscription successfully."
+< }, {
+15323,15327d14103
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 14842,
+<   "message" : "Ad inserted successfully."
+< }, {
+15472,15476d14247
+<   "command" : "adBreak",
+<   "user" : "carol19",
+<   "timestamp" : 15006,
+<   "message" : "Ad inserted successfully."
+< }, {
+15525,15529d14295
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 15093,
+<   "message" : "Ad inserted successfully."
+< }, {
+15610,15614d14375
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 15202,
+<   "message" : "Ad inserted successfully."
+< }, {
+15695,15699d14455
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 15311,
+<   "message" : "Ad inserted successfully."
+< }, {
+15732,15736d14487
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 15420,
+<   "message" : "Ad inserted successfully."
+< }, {
+15833,15837d14583
+<   "command" : "buyPremium",
+<   "user" : "carol19",
+<   "timestamp" : 15504,
+<   "message" : "carol19 bought the subscription successfully."
+< }, {
+15886,15890d14631
+<   "command" : "buyPremium",
+<   "user" : "grace25",
+<   "timestamp" : 15580,
+<   "message" : "grace25 bought the subscription successfully."
+< }, {
+15907,15911d14647
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 15622,
+<   "message" : "Ad inserted successfully."
+< }, {
+16120,16124d14855
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 15906,
+<   "message" : "Ad inserted successfully."
+< }, {
+16157,16161d14887
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 16012,
+<   "message" : "Ad inserted successfully."
+< }, {
+16258,16262d14983
+<   "command" : "cancelPremium",
+<   "user" : "emily30",
+<   "timestamp" : 16124,
+<   "message" : "emily30 cancelled the subscription successfully."
+< }, {
+16455,16459d15175
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 16334,
+<   "message" : "henry26 is not playing any music."
+< }, {
+16508,16512d15223
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 16418,
+<   "message" : "Ad inserted successfully."
+< }, {
+16577,16581d15287
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 16472,
+<   "message" : "Ad inserted successfully."
+< }, {
+16614,16618d15319
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 16560,
+<   "message" : "Ad inserted successfully."
+< }, {
+16763,16767d15463
+<   "command" : "buyPremium",
+<   "user" : "bob35",
+<   "timestamp" : 16739,
+<   "message" : "bob35 bought the subscription successfully."
+< }, {
+16944,16948d15639
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 16969,
+<   "message" : "Ad inserted successfully."
+< }, {
+17029,17033d15719
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 17091,
+<   "message" : "Ad inserted successfully."
+< }, {
+17050,17054d15735
+<   "command" : "loadRecommendations",
+<   "user" : "jack29",
+<   "timestamp" : 17100,
+<   "message" : "No recommendations available."
+< }, {
+17119,17128d15799
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 17200,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "buyPremium",
+<   "user" : "jack29",
+<   "timestamp" : 17200,
+<   "message" : "jack29 bought the subscription successfully."
+< }, {
+17161,17181d15831
+<   "command" : "wrapped",
+<   "user" : "Stevie Wonder",
+<   "timestamp" : 17212,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Definitive Collection" : 46,
+<       "Songs in the Key of Life" : 42,
+<       "Talking Book" : 32,
+<       "Innervisions" : 28
+<     },
+<     "topSongs" : {
+<       "All Day Sucker" : 6,
+<       "He's Misstra Know It All" : 6,
+<       "Higher Ground - Single Version" : 6,
+<       "I Believe (When I Fall in Love It Will Be Forever)" : 6,
+<       "All in Love Is Fair" : 5
+<     },
+<     "topFans" : [ "irene33", "carol19", "frank21", "henry26", "alice22" ],
+<     "listeners" : 10
+<   }
+< }, {
+17278,17282d15927
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 17313,
+<   "message" : "Ad inserted successfully."
+< }, {
+17507,17511d16151
+<   "command" : "loadRecommendations",
+<   "user" : "bob35",
+<   "timestamp" : 17665,
+<   "message" : "No recommendations available."
+< }, {
+17624,17628d16263
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 17783,
+<   "message" : "Ad inserted successfully."
+< }, {
+17725,17729d16359
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 17919,
+<   "message" : "Ad inserted successfully."
+< }, {
+17746,17750d16375
+<   "command" : "cancelPremium",
+<   "user" : "jack29",
+<   "timestamp" : 17971,
+<   "message" : "jack29 cancelled the subscription successfully."
+< }, {
+17831,17835d16455
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 18082,
+<   "message" : "Ad inserted successfully."
+< }, {
+17884,17888d16503
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 18128,
+<   "message" : "Ad inserted successfully."
+< }, {
+17969,17973d16583
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 18237,
+<   "message" : "Ad inserted successfully."
+< }, {
+18006,18010d16615
+<   "command" : "cancelPremium",
+<   "user" : "frank21",
+<   "timestamp" : 18287,
+<   "message" : "frank21 cancelled the subscription successfully."
+< }, {
+18331,18335d16935
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 19007,
+<   "message" : "Ad inserted successfully."
+< }, {
+18416,18420d17015
+<   "command" : "cancelPremium",
+<   "user" : "bob35",
+<   "timestamp" : 19076,
+<   "message" : "bob35 cancelled the subscription successfully."
+< }, {
+18437,18441d17031
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 19105,
+<   "message" : "Ad inserted successfully."
+< }, {
+18458,18462d17047
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 19164,
+<   "message" : "Ad inserted successfully."
+< }, {
+18495,18499d17079
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 19210,
+<   "message" : "Ad inserted successfully."
+< }, {
+18548,18552d17127
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 19254,
+<   "message" : "Ad inserted successfully."
+< }, {
+18633,18653d17207
+<   "command" : "wrapped",
+<   "user" : "Radiohead",
+<   "timestamp" : 19380,
+<   "result" : {
+<     "topAlbums" : {
+<       "OK Computer" : 33,
+<       "In Rainbows" : 32,
+<       "The Bends" : 31,
+<       "Pablo Honey" : 28
+<     },
+<     "topSongs" : {
+<       "Lurgee" : 6,
+<       "Weird Fishes/Arpeggi" : 6,
+<       "Jigsaw Falling Into Place" : 5,
+<       "My Iron Lung" : 5,
+<       "Street Spirit (Fade Out)" : 5
+<     },
+<     "topFans" : [ "bob35", "david27", "frank21", "carol19", "grace25" ],
+<     "listeners" : 10
+<   }
+< }, {
+18798,18802d17351
+<   "command" : "updateRecommendations",
+<   "user" : "emily30",
+<   "timestamp" : 19635,
+<   "message" : "The recommendations for user emily30 have been updated successfully."
+< }, {
+18835,18839d17383
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 19695,
+<   "message" : "Ad inserted successfully."
+< }, {
+18888,18892d17431
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 19762,
+<   "message" : "Ad inserted successfully."
+< }, {
+18925,18929d17463
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 19821,
+<   "message" : "Ad inserted successfully."
+< }, {
+18994,18998d17527
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 19899,
+<   "message" : "Ad inserted successfully."
+< }, {
+19047,19051d17575
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 19951,
+<   "message" : "Ad inserted successfully."
+< }, {
+19196,19200d17719
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 20253,
+<   "message" : "Ad inserted successfully."
+< }, {
+19281,19285d17799
+<   "command" : "adBreak",
+<   "user" : "emily30",
+<   "timestamp" : 20312,
+<   "message" : "Ad inserted successfully."
+< }, {
+19302,19306d17815
+<   "command" : "buyPremium",
+<   "user" : "emily30",
+<   "timestamp" : 20347,
+<   "message" : "emily30 bought the subscription successfully."
+< }, {
+19499,19533d18007
+<   "command" : "wrapped",
+<   "user" : "emily30",
+<   "timestamp" : 20591,
+<   "result" : {
+<     "topArtists" : {
+<       "Rihanna" : 21,
+<       "Nirvana" : 17,
+<       "The Rolling Stones" : 14,
+<       "ABBA" : 13,
+<       "Johnny Cash" : 12
+<     },
+<     "topGenres" : {
+<       "pop" : 22,
+<       "soul" : 19,
+<       "grunge" : 17,
+<       "classic rock" : 15,
+<       "rock" : 13
+<     },
+<     "topSongs" : {
+<       "Push Up on Me" : 3,
+<       "Before They Make Me Run" : 2,
+<       "Come On" : 2,
+<       "Consideration" : 2,
+<       "Does Your Mother Know" : 2
+<     },
+<     "topAlbums" : {
+<       "Good Girl Gone Bad" : 16,
+<       "Voulez-Vous" : 7,
+<       "Nevermind" : 6,
+<       "Nirvana" : 6,
+<       "Summer Dreams" : 6
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+19550,19559d18023
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 20603,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 20619,
+<   "message" : "Ad inserted successfully."
+< }, {
+19624,19628d18087
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 20676,
+<   "message" : "Ad inserted successfully."
+< }, {
+19645,19649d18103
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 20698,
+<   "message" : "Ad inserted successfully."
+< }, {
+19666,19670d18119
+<   "command" : "loadRecommendations",
+<   "user" : "henry26",
+<   "timestamp" : 20718,
+<   "message" : "Playback loaded successfully."
+< }, {
+19687,19691d18135
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 20758,
+<   "message" : "Ad inserted successfully."
+< }, {
+19740,19744d18183
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 20834,
+<   "message" : "Ad inserted successfully."
+< }, {
+19761,19765d18199
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 20868,
+<   "message" : "Ad inserted successfully."
+< }, {
+19814,19818d18247
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 20914,
+<   "message" : "Ad inserted successfully."
+< }, {
+19915,19919d18343
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 21049,
+<   "message" : "Ad inserted successfully."
+< }, {
+19952,19956d18375
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 21097,
+<   "message" : "Ad inserted successfully."
+< }, {
+20117,20126d18535
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 21261,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 21277,
+<   "message" : "Ad inserted successfully."
+< }, {
+20191,20195d18599
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 21327,
+<   "message" : "Ad inserted successfully."
+< }, {
+20276,20285d18679
+<   "command" : "adBreak",
+<   "user" : "frank21",
+<   "timestamp" : 21412,
+<   "message" : "Ad inserted successfully."
+< }, {
+<   "command" : "adBreak",
+<   "user" : "jack29",
+<   "timestamp" : 21430,
+<   "message" : "Ad inserted successfully."
+< }, {
+20318,20322d18711
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 21458,
+<   "message" : "Ad inserted successfully."
+< }, {
+20483,20487d18871
+<   "command" : "buyPremium",
+<   "user" : "jack29",
+<   "timestamp" : 21646,
+<   "message" : "jack29 bought the subscription successfully."
+< }, {
+20632,20671d19015
+<   "command" : "wrapped",
+<   "user" : "jack29",
+<   "timestamp" : 21848,
+<   "result" : {
+<     "topArtists" : {
+<       "ABBA" : 17,
+<       "The Beach Boys" : 15,
+<       "Bob Dylan" : 14,
+<       "Rihanna" : 14,
+<       "Johnny Cash" : 11
+<     },
+<     "topGenres" : {
+<       "pop" : 29,
+<       "rock" : 18,
+<       "soul" : 17,
+<       "classic rock" : 12,
+<       "folk" : 12
+<     },
+<     "topSongs" : {
+<       "He's Misstra Know It All" : 3,
+<       "Melt My Heart to Stone" : 3,
+<       "Pet Sounds" : 3,
+<       "You Never Give Me Your Money - Remastered 2009" : 3,
+<       "Dancing Queen" : 2
+<     },
+<     "topAlbums" : {
+<       "Arrival" : 11,
+<       "Summer Dreams" : 8,
+<       "American IV: The Man Comes Around" : 7,
+<       "Pet Sounds" : 7,
+<       "Good Girl Gone Bad" : 6
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "loadRecommendations",
+<   "user" : "alice22",
+<   "timestamp" : 21858,
+<   "message" : "No recommendations available."
+< }, {
+20704,20708d19047
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 21971,
+<   "message" : "Ad inserted successfully."
+< }, {
+20725,20764d19063
+<   "command" : "wrapped",
+<   "user" : "frank21",
+<   "timestamp" : 22029,
+<   "result" : {
+<     "topArtists" : {
+<       "Joni Mitchell" : 19,
+<       "Bruce Springsteen" : 16,
+<       "The Beatles" : 15,
+<       "Elton John" : 14,
+<       "Stevie Wonder" : 14
+<     },
+<     "topGenres" : {
+<       "rock" : 31,
+<       "soul" : 27,
+<       "pop" : 18,
+<       "folk" : 16,
+<       "classic rock" : 12
+<     },
+<     "topSongs" : {
+<       "Woman Like Me" : 3,
+<       "Backstreets" : 2,
+<       "Big Yellow Taxi" : 2,
+<       "Born to Run" : 2,
+<       "Come Together - Remastered 2009" : 2
+<     },
+<     "topAlbums" : {
+<       "Court and Spark" : 9,
+<       "1 (Remastered)" : 7,
+<       "19" : 7,
+<       "Pet Sounds" : 7,
+<       "30" : 6
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 22046,
+<   "message" : "Ad inserted successfully."
+< }, {
+20973,20977d19271
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 22385,
+<   "message" : "Ad inserted successfully."
+< }, {
+21042,21046d19335
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 22529,
+<   "message" : "Ad inserted successfully."
+< }, {
+21191,21195d19479
+<   "command" : "loadRecommendations",
+<   "user" : "bob35",
+<   "timestamp" : 22712,
+<   "message" : "No recommendations available."
+< }, {
+21228,21232d19511
+<   "command" : "loadRecommendations",
+<   "user" : "grace25",
+<   "timestamp" : 22734,
+<   "message" : "Playback loaded successfully."
+< }, {
+21297,21317d19575
+<   "command" : "wrapped",
+<   "user" : "Bruce Springsteen",
+<   "timestamp" : 22844,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Essential Bruce Springsteen" : 72,
+<       "Born in the U.S.A." : 24,
+<       "Born to Run" : 22,
+<       "Greatest Hits" : 7
+<     },
+<     "topSongs" : {
+<       "Born to Run" : 10,
+<       "I'm on Fire" : 7,
+<       "Meeting Across the River" : 6,
+<       "Backstreets" : 5,
+<       "Badlands" : 5
+<     },
+<     "topFans" : [ "alice22", "bob35", "frank21", "henry26", "irene33" ],
+<     "listeners" : 10
+<   }
+< }, {
+21766,21770d20023
+<   "command" : "cancelPremium",
+<   "user" : "irene33",
+<   "timestamp" : 23974,
+<   "message" : "irene33 cancelled the subscription successfully."
+< }, {
+21787,21791d20039
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 23996,
+<   "message" : "Ad inserted successfully."
+< }, {
+21808,21812d20055
+<   "command" : "cancelPremium",
+<   "user" : "grace25",
+<   "timestamp" : 24037,
+<   "message" : "grace25 cancelled the subscription successfully."
+< }, {
+21989,21993d20231
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 24346,
+<   "message" : "Ad inserted successfully."
+< }, {
+22090,22094d20327
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 24483,
+<   "message" : "Ad inserted successfully."
+< }, {
+22239,22243d20471
+<   "command" : "adBreak",
+<   "user" : "henry26",
+<   "timestamp" : 24699,
+<   "message" : "Ad inserted successfully."
+< }, {
+22292,22296d20519
+<   "command" : "buyPremium",
+<   "user" : "henry26",
+<   "timestamp" : 24823,
+<   "message" : "henry26 bought the subscription successfully."
+< }, {
+22601,22605d20823
+<   "command" : "buyPremium",
+<   "user" : "bob35",
+<   "timestamp" : 25474,
+<   "message" : "bob35 bought the subscription successfully."
+< }, {
+22782,22786d20999
+<   "command" : "cancelPremium",
+<   "user" : "bob35",
+<   "timestamp" : 25726,
+<   "message" : "bob35 cancelled the subscription successfully."
+< }, {
+22947,22951d21159
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 26004,
+<   "message" : "Ad inserted successfully."
+< }, {
+23064,23068d21271
+<   "command" : "adBreak",
+<   "user" : "grace25",
+<   "timestamp" : 26124,
+<   "message" : "Ad inserted successfully."
+< }, {
+23117,23121d21319
+<   "command" : "cancelPremium",
+<   "user" : "carol19",
+<   "timestamp" : 26172,
+<   "message" : "carol19 cancelled the subscription successfully."
+< }, {
+23202,23206d21399
+<   "command" : "buyPremium",
+<   "user" : "grace25",
+<   "timestamp" : 26250,
+<   "message" : "grace25 bought the subscription successfully."
+< }, {
+23319,23323d21511
+<   "command" : "updateRecommendations",
+<   "user" : "carol19",
+<   "timestamp" : 26373,
+<   "message" : "No new recommendations were found"
+< }, {
+23356,23390d21543
+<   "command" : "wrapped",
+<   "user" : "carol19",
+<   "timestamp" : 26453,
+<   "result" : {
+<     "topArtists" : {
+<       "Johnny Cash" : 46,
+<       "Stevie Wonder" : 21,
+<       "ABBA" : 17,
+<       "Joni Mitchell" : 17,
+<       "Nirvana" : 14
+<     },
+<     "topGenres" : {
+<       "country" : 46,
+<       "soul" : 29,
+<       "rock" : 18,
+<       "classic rock" : 14,
+<       "folk" : 14
+<     },
+<     "topSongs" : {
+<       "Here Today" : 3,
+<       "All the Nasties" : 2,
+<       "Bones" : 2,
+<       "Born to Run" : 2,
+<       "Come as You Are" : 2
+<     },
+<     "topAlbums" : {
+<       "Unearthed" : 42,
+<       "The Definitive Collection" : 15,
+<       "Blue" : 10,
+<       "Super Trouper" : 8,
+<       "The Bends" : 8
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+23439,23443d21591
+<   "command" : "cancelPremium",
+<   "user" : "alice22",
+<   "timestamp" : 26652,
+<   "message" : "alice22 cancelled the subscription successfully."
+< }, {
+23604,23608d21751
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 26857,
+<   "message" : "Ad inserted successfully."
+< }, {
+23833,23837d21975
+<   "command" : "buyPremium",
+<   "user" : "alice22",
+<   "timestamp" : 27185,
+<   "message" : "alice22 bought the subscription successfully."
+< }, {
+23886,23920d22023
+<   "command" : "wrapped",
+<   "user" : "henry26",
+<   "timestamp" : 27217,
+<   "result" : {
+<     "topArtists" : {
+<       "The Rolling Stones" : 20,
+<       "Adele" : 18,
+<       "Johnny Cash" : 18,
+<       "Bob Dylan" : 16,
+<       "Joni Mitchell" : 15
+<     },
+<     "topGenres" : {
+<       "soul" : 33,
+<       "classic rock" : 28,
+<       "folk" : 23,
+<       "rock" : 22,
+<       "country" : 18
+<     },
+<     "topSongs" : {
+<       "Chasing Pavements" : 4,
+<       "A Case of You" : 3,
+<       "Arrival" : 3,
+<       "Goodbye Yellow Brick Road" : 3,
+<       "Woodstock" : 3
+<     },
+<     "topAlbums" : {
+<       "Aftermath" : 16,
+<       "The Freewheelin' Bob Dylan" : 11,
+<       "Talking Book" : 10,
+<       "19" : 9,
+<       "30" : 9
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+23985,23989d22087
+<   "command" : "adBreak",
+<   "user" : "bob35",
+<   "timestamp" : 27304,
+<   "message" : "Ad inserted successfully."
+< }, {
+24006,24010d22103
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 27314,
+<   "message" : "Ad inserted successfully."
+< }, {
+24059,24063d22151
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 27411,
+<   "message" : "Ad inserted successfully."
+< }, {
+24112,24116d22199
+<   "command" : "cancelPremium",
+<   "user" : "alice22",
+<   "timestamp" : 27493,
+<   "message" : "alice22 cancelled the subscription successfully."
+< }, {
+24149,24153d22231
+<   "command" : "cancelPremium",
+<   "user" : "grace25",
+<   "timestamp" : 27518,
+<   "message" : "grace25 cancelled the subscription successfully."
+< }, {
+24170,24209d22247
+<   "command" : "wrapped",
+<   "user" : "bob35",
+<   "timestamp" : 27523,
+<   "result" : {
+<     "topArtists" : {
+<       "Radiohead" : 28,
+<       "Bruce Springsteen" : 20,
+<       "Nirvana" : 15,
+<       "The Beach Boys" : 12,
+<       "The Rolling Stones" : 12
+<     },
+<     "topGenres" : {
+<       "rock" : 29,
+<       "soul" : 20,
+<       "alternative" : 19,
+<       "classic rock" : 15,
+<       "grunge" : 15
+<     },
+<     "topSongs" : {
+<       "Born in the U.S.A." : 3,
+<       "Bob Dylan's Blues" : 2,
+<       "Born to Run" : 2,
+<       "Climbing Up the Walls" : 2,
+<       "Daydreamer" : 2
+<     },
+<     "topAlbums" : {
+<       "OK Computer" : 14,
+<       "Nevermind" : 9,
+<       "Pablo Honey" : 9,
+<       "The Essential Bruce Springsteen" : 9,
+<       "19" : 8
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 27611,
+<   "message" : "Ad inserted successfully."
+< }, {
+24258,24262d22295
+<   "command" : "buyPremium",
+<   "user" : "irene33",
+<   "timestamp" : 27643,
+<   "message" : "irene33 bought the subscription successfully."
+< }, {
+24311,24315d22343
+<   "command" : "buyPremium",
+<   "user" : "grace25",
+<   "timestamp" : 27735,
+<   "message" : "grace25 bought the subscription successfully."
+< }, {
+24348,24352d22375
+<   "command" : "cancelPremium",
+<   "user" : "grace25",
+<   "timestamp" : 27750,
+<   "message" : "grace25 cancelled the subscription successfully."
+< }, {
+24385,24389d22407
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 27804,
+<   "message" : "Ad inserted successfully."
+< }, {
+24534,24568d22551
+<   "command" : "wrapped",
+<   "user" : "grace25",
+<   "timestamp" : 28078,
+<   "result" : {
+<     "topArtists" : {
+<       "The Beatles" : 37,
+<       "Bob Dylan" : 17,
+<       "Rihanna" : 17,
+<       "Joni Mitchell" : 14,
+<       "Adele" : 13
+<     },
+<     "topGenres" : {
+<       "rock" : 46,
+<       "soul" : 26,
+<       "classic rock" : 15,
+<       "folk rock" : 14,
+<       "pop" : 14
+<     },
+<     "topSongs" : {
+<       "Live With Me" : 3,
+<       "At Last" : 2,
+<       "Bob Dylan's 115th Dream" : 2,
+<       "Cold Shoulder" : 2,
+<       "Come as You Are" : 2
+<     },
+<     "topAlbums" : {
+<       "The Beatles (Remastered)" : 30,
+<       "Bringing It All Back Home" : 14,
+<       "ANTI (Deluxe)" : 11,
+<       "19" : 8,
+<       "Summer Dreams" : 8
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+24681,24685d22663
+<   "command" : "cancelPremium",
+<   "user" : "david27",
+<   "timestamp" : 28399,
+<   "message" : "david27 cancelled the subscription successfully."
+< }, {
+24718,24722d22695
+<   "command" : "buyPremium",
+<   "user" : "david27",
+<   "timestamp" : 28516,
+<   "message" : "david27 bought the subscription successfully."
+< }, {
+24867,24871d22839
+<   "command" : "cancelPremium",
+<   "user" : "david27",
+<   "timestamp" : 28690,
+<   "message" : "david27 cancelled the subscription successfully."
+< }, {
+24904,24938d22871
+<   "command" : "wrapped",
+<   "user" : "david27",
+<   "timestamp" : 28805,
+<   "result" : {
+<     "topArtists" : {
+<       "The Rolling Stones" : 44,
+<       "Bob Dylan" : 22,
+<       "Radiohead" : 16,
+<       "Adele" : 14,
+<       "Johnny Cash" : 13
+<     },
+<     "topGenres" : {
+<       "classic rock" : 44,
+<       "soul" : 25,
+<       "folk" : 21,
+<       "pop" : 19,
+<       "rock" : 14
+<     },
+<     "topSongs" : {
+<       "Desolation Row" : 3,
+<       "It Takes a Lot to Laugh, It Takes a Train to Cry" : 3,
+<       "Lurgee" : 3,
+<       "Melt My Heart to Stone" : 3,
+<       "Midnight Rambler" : 3
+<     },
+<     "topAlbums" : {
+<       "Rolled Gold" : 29,
+<       "Highway 61 Revisited" : 15,
+<       "30" : 9,
+<       "Good Girl Gone Bad" : 8,
+<       "Let It Bleed" : 8
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+24987,24991d22919
+<   "command" : "buyPremium",
+<   "user" : "alice22",
+<   "timestamp" : 29203,
+<   "message" : "alice22 bought the subscription successfully."
+< }, {
+25008,25012d22935
+<   "command" : "loadRecommendations",
+<   "user" : "irene33",
+<   "timestamp" : 29292,
+<   "message" : "No recommendations available."
+< }, {
+25029,25049d22951
+<   "command" : "wrapped",
+<   "user" : "Elton John",
+<   "timestamp" : 29400,
+<   "result" : {
+<     "topAlbums" : {
+<       "Madman Across the Water" : 32,
+<       "Honky Chateau" : 30,
+<       "Too Low For Zero" : 29,
+<       "Greatest Hits" : 23
+<     },
+<     "topSongs" : {
+<       "Goodbye Yellow Brick Road" : 7,
+<       "Honky Cat" : 7,
+<       "I'm Still Standing" : 6,
+<       "Madman Across the Water" : 6,
+<       "Religion" : 6
+<     },
+<     "topFans" : [ "alice22", "frank21", "grace25", "irene33", "henry26" ],
+<     "listeners" : 10
+<   }
+< }, {
+25130,25134d23031
+<   "command" : "cancelPremium",
+<   "user" : "irene33",
+<   "timestamp" : 29970,
+<   "message" : "irene33 cancelled the subscription successfully."
+< }, {
+25183,25187d23079
+<   "command" : "adBreak",
+<   "user" : "irene33",
+<   "timestamp" : 30257,
+<   "message" : "Ad inserted successfully."
+< }, {
+25204,25208d23095
+<   "command" : "buyPremium",
+<   "user" : "irene33",
+<   "timestamp" : 30502,
+<   "message" : "irene33 bought the subscription successfully."
+< }, {
+25321,25355d23207
+<   "command" : "wrapped",
+<   "user" : "irene33",
+<   "timestamp" : 31186,
+<   "result" : {
+<     "topArtists" : {
+<       "Stevie Wonder" : 37,
+<       "The Beatles" : 25,
+<       "Bob Dylan" : 21,
+<       "Elton John" : 13,
+<       "Nirvana" : 12
+<     },
+<     "topGenres" : {
+<       "soul" : 46,
+<       "rock" : 36,
+<       "folk" : 14,
+<       "pop" : 14,
+<       "grunge" : 12
+<     },
+<     "topSongs" : {
+<       "All in Love Is Fair" : 3,
+<       "Subterranean Homesick Blues" : 3,
+<       "Wayfaring Stranger" : 3,
+<       "Bob Dylan's 115th Dream" : 2,
+<       "Born to Run" : 2
+<     },
+<     "topAlbums" : {
+<       "Songs in the Key of Life" : 23,
+<       "1 (Remastered)" : 21,
+<       "Bringing It All Back Home" : 11,
+<       "Innervisions" : 11,
+<       "In Rainbows" : 8
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+25388,25392d23239
+<   "command" : "updateRecommendations",
+<   "user" : "alice22",
+<   "timestamp" : 31350,
+<   "message" : "The recommendations for user alice22 have been updated successfully."
+< }, {
+25617,25637d23463
+<   "command" : "wrapped",
+<   "user" : "Johnny Cash",
+<   "timestamp" : 32969,
+<   "result" : {
+<     "topAlbums" : {
+<       "Unearthed" : 75,
+<       "The Legend of Johnny Cash" : 31,
+<       "American IV: The Man Comes Around" : 30,
+<       "American III: Solitary Man" : 26
+<     },
+<     "topSongs" : {
+<       "Hurt" : 6,
+<       "Desperado" : 5,
+<       "Field of Diamonds" : 5,
+<       "I Won't Back Down" : 5,
+<       "Get Rhythm" : 4
+<     },
+<     "topFans" : [ "carol19", "alice22", "henry26", "david27", "emily30" ],
+<     "listeners" : 10
+<   }
+< }, {
+25894,25913d23719
+<   "command" : "wrapped",
+<   "user" : "The Beatles",
+<   "timestamp" : 36172,
+<   "result" : {
+<     "topAlbums" : {
+<       "The Beatles (Remastered)" : 54,
+<       "1 (Remastered)" : 53,
+<       "Abbey Road (Remastered)" : 44
+<     },
+<     "topSongs" : {
+<       "I Feel Fine - Remastered 2015" : 7,
+<       "She Came in Through the Bathroom Window" : 7,
+<       "Here Comes the Sun - Remastered 2009" : 6,
+<       "Octopus's Garden - Remastered 2009" : 5,
+<       "Yellow Submarine - Remastered 2015" : 5
+<     },
+<     "topFans" : [ "grace25", "irene33", "alice22", "frank21", "carol19" ],
+<     "listeners" : 10
+<   }
+< }, {
+26058,26078d23863
+<   "command" : "wrapped",
+<   "user" : "The Rolling Stones",
+<   "timestamp" : 37321,
+<   "result" : {
+<     "topAlbums" : {
+<       "Rolled Gold" : 47,
+<       "Aftermath" : 41,
+<       "Let It Bleed" : 32,
+<       "Some Girls" : 28
+<     },
+<     "topSongs" : {
+<       "Before They Make Me Run" : 7,
+<       "Live With Me" : 7,
+<       "Midnight Rambler" : 6,
+<       "Out of Time" : 6,
+<       "Gimme Shelter" : 5
+<     },
+<     "topFans" : [ "david27", "henry26", "carol19", "emily30", "bob35" ],
+<     "listeners" : 10
+<   }
+< }, {
+26143,26147d23927
+<   "command" : "cancelPremium",
+<   "user" : "alice22",
+<   "timestamp" : 41955,
+<   "message" : "alice22 cancelled the subscription successfully."
+< }, {
+26180,26184d23959
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 42285,
+<   "message" : "Ad inserted successfully."
+< }, {
+26249,26253d24023
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 42772,
+<   "message" : "Ad inserted successfully."
+< }, {
+26334,26354d24103
+<   "command" : "wrapped",
+<   "user" : "Rihanna",
+<   "timestamp" : 43125,
+<   "result" : {
+<     "topAlbums" : {
+<       "Good Girl Gone Bad" : 61,
+<       "ANTI (Deluxe)" : 30,
+<       "Loud" : 24,
+<       "Good Girl Gone Bad: Reloaded" : 19
+<     },
+<     "topSongs" : {
+<       "Breakin' Dishes" : 8,
+<       "Push Up on Me" : 8,
+<       "Good Girl Gone Bad" : 7,
+<       "Lemme Get That" : 7,
+<       "Shut Up and Drive" : 7
+<     },
+<     "topFans" : [ "alice22", "emily30", "grace25", "jack29", "david27" ],
+<     "listeners" : 10
+<   }
+< }, {
+26387,26391d24135
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 43279,
+<   "message" : "Ad inserted successfully."
+< }, {
+26456,26460d24199
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 43561,
+<   "message" : "Ad inserted successfully."
+< }, {
+26477,26481d24215
+<   "command" : "adBreak",
+<   "user" : "alice22",
+<   "timestamp" : 43676,
+<   "message" : "Ad inserted successfully."
+< }, {
+26513,26721d24246
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Adele",
+<   "timestamp" : 43914,
+<   "result" : {
+<     "topAlbums" : {
+<       "19" : 59,
+<       "30" : 52
+<     },
+<     "topSongs" : {
+<       "Melt My Heart to Stone" : 11,
+<       "Tired" : 8,
+<       "Chasing Pavements" : 7,
+<       "Cold Shoulder" : 7,
+<       "Make You Feel My Love" : 7
+<     },
+<     "topFans" : [ "henry26", "david27", "frank21", "grace25", "bob35" ],
+<     "listeners" : 10
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Imagine Dragons",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist Imagine Dragons."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Bob Marley",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist Bob Marley."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "The Police",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist The Police."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "James Brown",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist James Brown."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Whitney Houston",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist Whitney Houston."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "David Bowie",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist David Bowie."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Michael Jackson",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist Michael Jackson."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Chuck Berry",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist Chuck Berry."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Frank Sinatra",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist Frank Sinatra."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Ray Charles",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist Ray Charles."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Eminem",
+<   "timestamp" : 43914,
+<   "message" : "No data to show for artist Eminem."
+< }, {
+<   "command" : "wrapped",
+<   "user" : "alice22",
+<   "timestamp" : 44014,
+<   "result" : {
+<     "topArtists" : {
+<       "Rihanna" : 33,
+<       "Bruce Springsteen" : 28,
+<       "Johnny Cash" : 27,
+<       "Elton John" : 24,
+<       "The Beatles" : 21
+<     },
+<     "topGenres" : {
+<       "rock" : 49,
+<       "pop" : 35,
+<       "country" : 27,
+<       "soul" : 22,
+<       "classic rock" : 20
+<     },
+<     "topSongs" : {
+<       "Octopus's Garden - Remastered 2009" : 3,
+<       "Shut Up and Drive" : 3,
+<       "Big Brother" : 2,
+<       "Born to Run" : 2,
+<       "Desperado" : 2
+<     },
+<     "topAlbums" : {
+<       "The Essential Bruce Springsteen" : 24,
+<       "Good Girl Gone Bad: Reloaded" : 15,
+<       "Pet Sounds" : 15,
+<       "Abbey Road (Remastered)" : 14,
+<       "The Legend of Johnny Cash" : 14
+<     },
+<     "topEpisodes" : { }
+<   }
+< }, {
+<   "command" : "endProgram",
+<   "result" : {
+<     "Adele" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 6120760.69,
+<       "ranking" : 1,
+<       "mostProfitableSong" : "Melt My Heart to Stone"
+<     },
+<     "Joni Mitchell" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 4821695.46,
+<       "ranking" : 2,
+<       "mostProfitableSong" : "You're My Thrill"
+<     },
+<     "Nirvana" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 4207987.31,
+<       "ranking" : 3,
+<       "mostProfitableSong" : "Come as You Are"
+<     },
+<     "Bob Dylan" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 4066682.98,
+<       "ranking" : 4,
+<       "mostProfitableSong" : "Subterranean Homesick Blues"
+<     },
+<     "The Beach Boys" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 3665369.88,
+<       "ranking" : 5,
+<       "mostProfitableSong" : "Girl Don't Tell Me"
+<     },
+<     "Stevie Wonder" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 2897889.15,
+<       "ranking" : 6,
+<       "mostProfitableSong" : "You Are The Sunshine Of My Life - Single Version With Horns"
+<     },
+<     "The Beatles" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 2537955.54,
+<       "ranking" : 7,
+<       "mostProfitableSong" : "You Never Give Me Your Money - Remastered 2009"
+<     },
+<     "Rihanna" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 2225993.37,
+<       "ranking" : 8,
+<       "mostProfitableSong" : "Consideration"
+<     },
+<     "Elton John" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 2084109.27,
+<       "ranking" : 9,
+<       "mostProfitableSong" : "Hercules"
+<     },
+<     "ABBA" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1938588.79,
+<       "ranking" : 10,
+<       "mostProfitableSong" : "Dancing Queen"
+<     },
+<     "The Rolling Stones" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1929243.48,
+<       "ranking" : 11,
+<       "mostProfitableSong" : "I Am Waiting"
+<     },
+<     "Bruce Springsteen" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1786427.25,
+<       "ranking" : 12,
+<       "mostProfitableSong" : "Born to Run"
+<     },
+<     "Johnny Cash" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 1666920.22,
+<       "ranking" : 13,
+<       "mostProfitableSong" : "Personal Jesus"
+<     },
+<     "Radiohead" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 793513.11,
+<       "ranking" : 14,
+<       "mostProfitableSong" : "Weird Fishes/Arpeggi"
+<     },
+<     "Queen" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 169847.64,
+<       "ranking" : 15,
+<       "mostProfitableSong" : "A Kind of Magic"
+<     },
+<     "Aretha Franklin" : {
+<       "merchRevenue" : 0.0,
+<       "songRevenue" : 98755.86,
+<       "ranking" : 16,
+<       "mostProfitableSong" : "Night Life"
+<     }
+<   }

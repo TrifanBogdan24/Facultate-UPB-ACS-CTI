@@ -1,0 +1,26 @@
+53,54c53,54
+<     "name" : "The Unforgiven",
+<     "remainedTime" : 178,
+---
+>     "name" : "",
+>     "remainedTime" : 0,
+57c57
+<     "paused" : false
+---
+>     "paused" : true
+63c63
+<   "message" : "Repeat mode changed to repeat once."
+---
+>   "message" : "Please load a source before setting the repeat status."
+69,71c69,71
+<     "name" : "The Unforgiven",
+<     "remainedTime" : 78,
+<     "repeat" : "Repeat Once",
+---
+>     "name" : "",
+>     "remainedTime" : 0,
+>     "repeat" : "No Repeat",
+73c73
+<     "paused" : false
+---
+>     "paused" : true

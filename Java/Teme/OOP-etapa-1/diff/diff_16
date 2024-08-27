@@ -1,0 +1,2150 @@
+4646,4647c4646,4647
+<     "name" : "Start Me Up",
+<     "remainedTime" : 114,
+---
+>     "name" : "Maps",
+>     "remainedTime" : 182,
+4667,4668c4667,4668
+<     "name" : "Bohemian Rhapsody",
+<     "remainedTime" : 257,
+---
+>     "name" : "Maps",
+>     "remainedTime" : 172,
+4677c4677
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+4683,4684c4683,4684
+<     "name" : "Sad But True",
+<     "remainedTime" : 226,
+---
+>     "name" : "Maps",
+>     "remainedTime" : 162,
+4686c4686
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+4699,4700c4699,4700
+<     "name" : "Dream On",
+<     "remainedTime" : 169,
+---
+>     "name" : "Maps",
+>     "remainedTime" : 152,
+4720,4721c4720,4721
+<     "name" : "Don't",
+<     "remainedTime" : 121,
+---
+>     "name" : "Maps",
+>     "remainedTime" : 152,
+4724c4724
+<     "paused" : false
+---
+>     "paused" : true
+4730c4730
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+4736,4738c4736,4738
+<     "name" : "Castle on the Hill",
+<     "remainedTime" : 163,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Maps",
+>     "remainedTime" : 152,
+>     "repeat" : "Repeat All",
+4740c4740
+<     "paused" : true
+---
+>     "paused" : false
+4752,4754c4752,4754
+<     "name" : "Dream On",
+<     "remainedTime" : 169,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Maps",
+>     "remainedTime" : 142,
+>     "repeat" : "Repeat All",
+4762c4762
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+4768,4770c4768,4770
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 112,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Maps",
+>     "remainedTime" : 142,
+>     "repeat" : "Repeat All",
+4772c4772
+<     "paused" : true
+---
+>     "paused" : false
+4778c4778
+<   "message" : "Skipped to next track successfully. The current track is Dream On."
+---
+>   "message" : "Skipped to next track successfully. The current track is The Man."
+4784,4786c4784,4786
+<     "name" : "Dream On",
+<     "remainedTime" : 267,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "The Man",
+>     "remainedTime" : 190,
+>     "repeat" : "Repeat All",
+4795,4797c4795,4797
+<     "name" : "Maps",
+<     "remainedTime" : 92,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "The Man",
+>     "remainedTime" : 180,
+>     "repeat" : "Repeat All",
+4806,4808c4806,4808
+<     "name" : "Maps",
+<     "remainedTime" : 92,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "The Man",
+>     "remainedTime" : 180,
+>     "repeat" : "Repeat All",
+4816c4816
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+4822,4824c4822,4824
+<     "name" : "Start Me Up",
+<     "remainedTime" : 14,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "The Man",
+>     "remainedTime" : 170,
+>     "repeat" : "Repeat Current Song",
+4832c4832
+<   "message" : "Please load a source before skipping to the next track."
+---
+>   "message" : "Skipped to next track successfully. The current track is Blank Space."
+4838,4840c4838,4840
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "Repeat Current Song",
+4842c4842
+<     "paused" : true
+---
+>     "paused" : false
+4854,4857c4854,4857
+<     "name" : "Sad But True",
+<     "remainedTime" : 126,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+4865,4868c4865,4868
+<     "name" : "Sad But True",
+<     "remainedTime" : 126,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+4875c4875
+<   "message" : "Playback resumed successfully."
+---
+>   "message" : "Playback paused successfully."
+4881,4883c4881,4883
+<     "name" : "Dream On",
+<     "remainedTime" : 169,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 211,
+>     "repeat" : "Repeat Current Song",
+4885c4885
+<     "paused" : false
+---
+>     "paused" : true
+4891c4891
+<   "message" : "Returned to previous track successfully. The current track is Don't."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+4896c4896
+<   "message" : "Returned to previous track successfully. The current track is Don't."
+---
+>   "message" : "Returned to previous track successfully. The current track is The Man."
+4902,4904c4902,4904
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "The Man",
+>     "remainedTime" : 190,
+>     "repeat" : "Repeat Current Song",
+4912c4912
+<   "message" : "Skipped to next track successfully. The current track is Maps."
+---
+>   "message" : "Skipped to next track successfully. The current track is Blank Space."
+4918,4920c4918,4920
+<     "name" : "Maps",
+<     "remainedTime" : 190,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "Repeat Current Song",
+4934,4936c4934,4936
+<     "name" : "Dream On",
+<     "remainedTime" : 169,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "Repeat Current Song",
+4938c4938
+<     "paused" : true
+---
+>     "paused" : false
+4944c4944
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to no repeat."
+4950,4954c4950,4954
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 112,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 211,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+>     "paused" : false
+4966,4967c4966,4967
+<     "name" : "Dream On",
+<     "remainedTime" : 167,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 201,
+4969c4969
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+4977,4978c4977,4978
+<     "name" : "The Man",
+<     "remainedTime" : 182,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 201,
+4980,4981c4980,4981
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "shuffle" : true,
+>     "paused" : true
+4988,4989c4988,4989
+<     "name" : "The Man",
+<     "remainedTime" : 182,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 201,
+4991,4992c4991,4992
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "shuffle" : true,
+>     "paused" : true
+5004,5008c5004,5008
+<     "name" : "Bohemian Rhapsody",
+<     "remainedTime" : 269,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 201,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+>     "paused" : true
+5014c5014
+<   "message" : "Please load a source before skipping to the next track."
+---
+>   "message" : "Skipped to next track successfully. The current track is Money Trees."
+5020,5021c5020,5021
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+5023,5024c5023,5024
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "shuffle" : true,
+>     "paused" : false
+5036,5037c5036,5037
+<     "name" : "Sad But True",
+<     "remainedTime" : 26,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+5046c5046
+<   "message" : "Skipped to next track successfully. The current track is Start Me Up."
+---
+>   "message" : "Skipped to next track successfully. The current track is Shape of You."
+5052,5053c5052,5053
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 233,
+5068,5070c5068,5070
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+>     "repeat" : "No Repeat",
+5079,5080c5079,5080
+<     "name" : "Maps",
+<     "remainedTime" : 90,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+5083c5083
+<     "paused" : false
+---
+>     "paused" : true
+5090,5091c5090,5091
+<     "name" : "Maps",
+<     "remainedTime" : 90,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+5094c5094
+<     "paused" : false
+---
+>     "paused" : true
+5100c5100
+<   "message" : "Returned to previous track successfully. The current track is Dream On."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+5105c5105
+<   "message" : "Returned to previous track successfully. The current track is Dream On."
+---
+>   "message" : "Returned to previous track successfully. The current track is Money Trees."
+5111,5112c5111,5112
+<     "name" : "Dream On",
+<     "remainedTime" : 267,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+5114c5114
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+5121c5121
+<   "message" : "Returned to previous track successfully. The current track is Whatever You Need."
+---
+>   "message" : "Returned to previous track successfully. The current track is Blank Space."
+5127,5129c5127,5129
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 210,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+>     "repeat" : "No Repeat",
+5142c5142
+<   "message" : "Returned to previous track successfully. The current track is Dream On."
+---
+>   "message" : "Returned to previous track successfully. The current track is The Man."
+5148,5149c5148,5149
+<     "name" : "Dream On",
+<     "remainedTime" : 267,
+---
+>     "name" : "The Man",
+>     "remainedTime" : 190,
+5165c5165
+<     "remainedTime" : 82,
+---
+>     "remainedTime" : 180,
+5185,5187c5185,5187
+<     "name" : "Bohemian Rhapsody",
+<     "remainedTime" : 169,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "The Man",
+>     "remainedTime" : 170,
+>     "repeat" : "No Repeat",
+5195c5195
+<   "message" : "Please load a source before returning to the previous track."
+---
+>   "message" : "Returned to previous track successfully. The current track is The Man."
+5201,5202c5201,5202
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "The Man",
+>     "remainedTime" : 190,
+5205c5205
+<     "paused" : true
+---
+>     "paused" : false
+5217,5218c5217,5218
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 197,
+---
+>     "name" : "The Man",
+>     "remainedTime" : 180,
+5227c5227
+<   "message" : "Skipped to next track successfully. The current track is Under Pressure."
+---
+>   "message" : "Skipped to next track successfully. The current track is Blank Space."
+5233,5234c5233,5234
+<     "name" : "Under Pressure",
+<     "remainedTime" : 244,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 231,
+5254,5256c5254,5256
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 221,
+>     "repeat" : "No Repeat",
+5258c5258
+<     "paused" : true
+---
+>     "paused" : false
+5266c5266
+<     "remainedTime" : 221,
+---
+>     "remainedTime" : 211,
+5277c5277
+<     "remainedTime" : 221,
+---
+>     "remainedTime" : 211,
+5287,5288c5287,5288
+<     "name" : "Dream On",
+<     "remainedTime" : 167,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 201,
+5290c5290
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+5298,5299c5298,5299
+<     "name" : "Dream On",
+<     "remainedTime" : 167,
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 201,
+5301c5301
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+5309,5311c5309,5311
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 110,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 191,
+>     "repeat" : "No Repeat",
+5320,5322c5320,5322
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 110,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Blank Space",
+>     "remainedTime" : 191,
+>     "repeat" : "No Repeat",
+5330c5330
+<   "message" : "Skipped to next track successfully. The current track is Don't."
+---
+>   "message" : "Skipped to next track successfully. The current track is Money Trees."
+5336,5337c5336,5337
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+5357,5358c5357,5358
+<     "name" : "Blank Space",
+<     "remainedTime" : 213,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+5372c5372
+<   "message" : "Playback resumed successfully."
+---
+>   "message" : "Playback paused successfully."
+5378,5382c5378,5382
+<     "name" : "Bohemian Rhapsody",
+<     "remainedTime" : 169,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "No Repeat",
+>     "shuffle" : true,
+>     "paused" : true
+5388c5388
+<   "message" : "Please load a source before liking or unliking."
+---
+>   "message" : "Like registered successfully."
+5394,5395c5394,5395
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+5397c5397
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5415,5416c5415,5416
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 197,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+5418c5418
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5425c5425
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5431,5432c5431,5432
+<     "name" : "Under Pressure",
+<     "remainedTime" : 144,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+5434,5435c5434,5435
+<     "shuffle" : true,
+<     "paused" : false
+---
+>     "shuffle" : false,
+>     "paused" : true
+5441c5441
+<   "message" : "Repeat mode changed to repeat current song."
+---
+>   "message" : "Repeat mode changed to repeat all."
+5447,5449c5447,5449
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "Repeat All",
+5457c5457
+<   "message" : "Returned to previous track successfully. The current track is Blank Space."
+---
+>   "message" : "Returned to previous track successfully. The current track is Money Trees."
+5463,5465c5463,5465
+<     "name" : "Blank Space",
+<     "remainedTime" : 231,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 387,
+>     "repeat" : "Repeat All",
+5473c5473
+<   "message" : "Shuffle function deactivated successfully."
+---
+>   "message" : "Shuffle function activated successfully."
+5479,5482c5479,5482
+<     "name" : "Dream On",
+<     "remainedTime" : 67,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 377,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+5495,5496c5495,5496
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 10,
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+5498c5498
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5511,5515c5511,5515
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : true
+5522,5524c5522,5524
+<     "name" : "Blank Space",
+<     "remainedTime" : 113,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "Repeat All",
+5526c5526
+<     "paused" : false
+---
+>     "paused" : true
+5533,5535c5533,5535
+<     "name" : "Blank Space",
+<     "remainedTime" : 113,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Money Trees",
+>     "remainedTime" : 367,
+>     "repeat" : "Repeat All",
+5537c5537
+<     "paused" : false
+---
+>     "paused" : true
+5543c5543
+<   "message" : "Skipped to next track successfully. The current track is Paint It Black."
+---
+>   "message" : "Skipped to next track successfully. The current track is Shape of You."
+5549,5550c5549,5550
+<     "name" : "Paint It Black",
+<     "remainedTime" : 202,
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 233,
+5552c5552
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+5559c5559
+<   "message" : "Please load a source before using the shuffle function."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5565,5567c5565,5567
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+>     "repeat" : "Repeat All",
+5569c5569
+<     "paused" : true
+---
+>     "paused" : false
+5575c5575
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+5581,5583c5581,5583
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 197,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 213,
+>     "repeat" : "Repeat All",
+5585c5585
+<     "paused" : true
+---
+>     "paused" : false
+5591c5591
+<   "message" : "Please load a source before skipping to the next track."
+---
+>   "message" : "Skipped to next track successfully. The current track is The Unforgiven."
+5597,5599c5597,5599
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 386,
+>     "repeat" : "Repeat All",
+5601c5601
+<     "paused" : true
+---
+>     "paused" : false
+5607c5607
+<   "message" : "Returned to previous track successfully. The current track is Don't."
+---
+>   "message" : "Returned to previous track successfully. The current track is Shape of You."
+5613,5615c5613,5615
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 233,
+>     "repeat" : "Repeat All",
+5629,5631c5629,5631
+<     "name" : "Blank Space",
+<     "remainedTime" : 131,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Shape of You",
+>     "remainedTime" : 223,
+>     "repeat" : "Repeat All",
+5644c5644
+<   "message" : "Skipped to next track successfully. The current track is Stairway to Heaven."
+---
+>   "message" : "Skipped to next track successfully. The current track is The Unforgiven."
+5650,5653c5650,5653
+<     "name" : "Stairway to Heaven",
+<     "remainedTime" : 482,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 386,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+5660c5660
+<   "message" : "Playback resumed successfully."
+---
+>   "message" : "Playback paused successfully."
+5666,5667c5666,5667
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 10,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 376,
+5669,5670c5669,5670
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "shuffle" : true,
+>     "paused" : true
+5676c5676
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5682,5686c5682,5686
+<     "name" : "Don't",
+<     "remainedTime" : 19,
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+<     "paused" : false
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 376,
+>     "repeat" : "Repeat All",
+>     "shuffle" : false,
+>     "paused" : true
+5700,5701c5700,5701
+<     "repeat" : "No Repeat",
+<     "shuffle" : true,
+---
+>     "repeat" : "Repeat All",
+>     "shuffle" : false,
+5714,5715c5714,5715
+<     "name" : "Paint It Black",
+<     "remainedTime" : 102,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+5724c5724
+<   "message" : "Please load a source before using the shuffle function."
+---
+>   "message" : "Shuffle function activated successfully."
+5730,5734c5730,5734
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+5740c5740
+<   "message" : "Playback resumed successfully."
+---
+>   "message" : "Playback paused successfully."
+5746,5750c5746,5750
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 197,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : true
+5756c5756
+<   "message" : "Please load a source before attempting to pause or resume playback."
+---
+>   "message" : "Playback resumed successfully."
+5762,5766c5762,5766
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+5772c5772
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+5778,5781c5778,5781
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : true,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 244,
+>     "repeat" : "Repeat All",
+>     "shuffle" : false,
+5793c5793
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+5799,5802c5799,5802
+<     "name" : "Blank Space",
+<     "remainedTime" : 31,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 234,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+5809c5809
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to no repeat."
+5815,5817c5815,5817
+<     "name" : "Stairway to Heaven",
+<     "remainedTime" : 382,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 224,
+>     "repeat" : "No Repeat",
+5825c5825
+<   "message" : "Returned to previous track successfully. The current track is Money Trees."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+5831,5833c5831,5833
+<     "name" : "Money Trees",
+<     "remainedTime" : 387,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+>     "repeat" : "No Repeat",
+5847,5848c5847,5848
+<     "name" : "Blank Space",
+<     "remainedTime" : 150,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+5850c5850
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+5858,5859c5858,5859
+<     "name" : "Blank Space",
+<     "remainedTime" : 150,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+5861c5861
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+5880c5880
+<     "remainedTime" : 184,
+---
+>     "remainedTime" : 264,
+5882c5882
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+5900,5901c5900,5901
+<     "name" : "Paint It Black",
+<     "remainedTime" : 2,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+5910c5910
+<   "message" : "Please load a source before liking or unliking."
+---
+>   "message" : "Like registered successfully."
+5916,5918c5916,5918
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+>     "repeat" : "Repeat All",
+5926c5926
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+5932,5934c5932,5934
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 97,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+>     "repeat" : "Repeat All",
+5936c5936
+<     "paused" : true
+---
+>     "paused" : false
+5947c5947
+<   "message" : "Please load a source before using the shuffle function."
+---
+>   "message" : "Shuffle function activated successfully."
+5953,5957c5953,5957
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 244,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+5963c5963
+<   "message" : "Skipped to next track successfully. The current track is Don't."
+---
+>   "message" : "Skipped to next track successfully. The current track is Love Story."
+5969,5971c5969,5971
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+>     "repeat" : "Repeat All",
+5985,5986c5985,5986
+<     "name" : "Big Pimpin'",
+<     "remainedTime" : 215,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+5995c5995
+<   "message" : "Returned to previous track successfully. The current track is Stairway to Heaven."
+---
+>   "message" : "Returned to previous track successfully. The current track is Love Story."
+6000c6000
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+6006,6007c6006,6007
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+6022,6023c6022,6023
+<     "name" : "Money Trees",
+<     "remainedTime" : 287,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+6043,6045c6043,6045
+<     "name" : "Blank Space",
+<     "remainedTime" : 50,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat All",
+6055c6055
+<     "remainedTime" : 84,
+---
+>     "remainedTime" : 264,
+6058c6058
+<     "paused" : false
+---
+>     "paused" : true
+6066c6066
+<     "remainedTime" : 84,
+---
+>     "remainedTime" : 264,
+6069c6069
+<     "paused" : false
+---
+>     "paused" : true
+6076,6077c6076,6077
+<     "name" : "Paint It Black",
+<     "remainedTime" : 2,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+6079c6079
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6087,6088c6087,6088
+<     "name" : "Paint It Black",
+<     "remainedTime" : 2,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+6090c6090
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6097c6097
+<   "message" : "Please load a source before liking or unliking."
+---
+>   "message" : "Unlike registered successfully."
+6103,6106c6103,6106
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+6119,6122c6119,6122
+<     "name" : "Gimme Shelter",
+<     "remainedTime" : 97,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+6129c6129
+<   "message" : "Please load a source before attempting to pause or resume playback."
+---
+>   "message" : "Playback resumed successfully."
+6135,6139c6135,6139
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+6145c6145
+<   "message" : "Returned to previous track successfully. The current track is Don't."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+6151,6153c6151,6153
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+>     "repeat" : "Repeat All",
+6161c6161
+<   "message" : "Skipped to next track successfully. The current track is Castle on the Hill."
+---
+>   "message" : "Skipped to next track successfully. The current track is Love Story."
+6167,6168c6167,6168
+<     "name" : "Castle on the Hill",
+<     "remainedTime" : 261,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+6170c6170
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6177c6177
+<   "message" : "Returned to previous track successfully. The current track is Start Me Up."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+6182c6182
+<   "message" : "Returned to previous track successfully. The current track is Dream On."
+---
+>   "message" : "Returned to previous track successfully. The current track is The Unforgiven."
+6188,6189c6188,6189
+<     "name" : "Dream On",
+<     "remainedTime" : 267,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 386,
+6191c6191
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6199,6200c6199,6200
+<     "name" : "Money Trees",
+<     "remainedTime" : 187,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 376,
+6210,6211c6210,6211
+<     "name" : "Money Trees",
+<     "remainedTime" : 187,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 376,
+6226,6228c6226,6228
+<     "name" : "Blank Space",
+<     "remainedTime" : 50,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 366,
+>     "repeat" : "Repeat All",
+6230c6230
+<     "paused" : true
+---
+>     "paused" : false
+6236c6236
+<   "message" : "Returned to previous track successfully. The current track is Money Trees."
+---
+>   "message" : "Returned to previous track successfully. The current track is The Unforgiven."
+6242,6243c6242,6243
+<     "name" : "Money Trees",
+<     "remainedTime" : 387,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 386,
+6252c6252
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+6258,6259c6258,6259
+<     "name" : "Paint It Black",
+<     "remainedTime" : 2,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 376,
+6261,6262c6261,6262
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "shuffle" : true,
+>     "paused" : false
+6269,6273c6269,6273
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 366,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+6280,6284c6280,6284
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 366,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+6295c6295
+<   "message" : "Skipped to next track successfully. The current track is Happier."
+---
+>   "message" : "Skipped to next track successfully. The current track is Big Pimpin'."
+6301,6304c6301,6304
+<     "name" : "Happier",
+<     "remainedTime" : 207,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+6311c6311
+<   "message" : "Please load a source before returning to the previous track."
+---
+>   "message" : "Returned to previous track successfully. The current track is The Unforgiven."
+6317,6321c6317,6321
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 386,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+6327c6327
+<   "message" : "Skipped to next track successfully. The current track is Don't."
+---
+>   "message" : "Skipped to next track successfully. The current track is Big Pimpin'."
+6333,6335c6333,6335
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+>     "repeat" : "Repeat All",
+6349,6350c6349,6350
+<     "name" : "Castle on the Hill",
+<     "remainedTime" : 161,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+6352c6352
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6359c6359
+<   "message" : "Shuffle function activated successfully."
+---
+>   "message" : "Shuffle function deactivated successfully."
+6365,6366c6365,6366
+<     "name" : "Dream On",
+<     "remainedTime" : 167,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+6368c6368
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+6380c6380
+<   "message" : "Skipped to next track successfully. The current track is Whatever You Need."
+---
+>   "message" : "Skipped to next track successfully. The current track is Love Story."
+6386,6387c6386,6387
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 210,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+6389c6389
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+6396c6396
+<   "message" : "Shuffle function deactivated successfully."
+---
+>   "message" : "Shuffle function activated successfully."
+6402,6406c6402,6406
+<     "name" : "Blank Space",
+<     "remainedTime" : 50,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+6418,6419c6418,6419
+<     "name" : "Money Trees",
+<     "remainedTime" : 287,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 216,
+6428c6428
+<   "message" : "Playback resumed successfully."
+---
+>   "message" : "Playback paused successfully."
+6434,6435c6434,6435
+<     "name" : "Paint It Black",
+<     "remainedTime" : 2,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 206,
+6437,6438c6437,6438
+<     "shuffle" : false,
+<     "paused" : false
+---
+>     "shuffle" : true,
+>     "paused" : true
+6444c6444
+<   "message" : "Please load a source before skipping to the next track."
+---
+>   "message" : "Skipped to next track successfully. The current track is Maps."
+6450,6454c6450,6454
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+6471,6474c6471,6474
+<     "name" : "Happier",
+<     "remainedTime" : 107,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+6481c6481
+<   "message" : "Please load a source before attempting to pause or resume playback."
+---
+>   "message" : "Playback resumed successfully."
+6487,6491c6487,6491
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat All",
+>     "shuffle" : true,
+>     "paused" : false
+6497c6497
+<   "message" : "Returned to previous track successfully. The current track is Don't."
+---
+>   "message" : "Returned to previous track successfully. The current track is Love Story."
+6503,6505c6503,6505
+<     "name" : "Don't",
+<     "remainedTime" : 219,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+>     "repeat" : "Repeat All",
+6513c6513
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+6519,6520c6519,6520
+<     "name" : "Castle on the Hill",
+<     "remainedTime" : 61,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+6522c6522
+<     "shuffle" : false,
+---
+>     "shuffle" : true,
+6529c6529
+<   "message" : "Returned to previous track successfully. The current track is Dream On."
+---
+>   "message" : "Returned to previous track successfully. The current track is Love Story."
+6534c6534
+<   "message" : "Returned to previous track successfully. The current track is Stairway to Heaven."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+6540,6541c6540,6541
+<     "name" : "Stairway to Heaven",
+<     "remainedTime" : 482,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+6556,6557c6556,6557
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 110,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+6566c6566
+<   "message" : "Returned to previous track successfully. The current track is Blank Space."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+6572,6575c6572,6575
+<     "name" : "Blank Space",
+<     "remainedTime" : 231,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6583,6585c6583,6585
+<     "name" : "Money Trees",
+<     "remainedTime" : 187,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+>     "repeat" : "Repeat Current Song",
+6594,6596c6594,6596
+<     "name" : "Money Trees",
+<     "remainedTime" : 187,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+>     "repeat" : "Repeat Current Song",
+6610,6613c6610,6613
+<     "name" : "Start Me Up",
+<     "remainedTime" : 114,
+<     "repeat" : "Repeat All",
+<     "shuffle" : false,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6620c6620
+<   "message" : "Please load a source before skipping to the next track."
+---
+>   "message" : "Skipped to next track successfully. The current track is Love Story."
+6626,6630c6626,6630
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+6641c6641
+<   "message" : "Skipped to next track successfully. The current track is Money Trees."
+---
+>   "message" : "Skipped to next track successfully. The current track is Love Story."
+6647,6650c6647,6650
+<     "name" : "Money Trees",
+<     "remainedTime" : 387,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+6657c6657
+<   "message" : "Please load a source before liking or unliking."
+---
+>   "message" : "Like registered successfully."
+6663,6667c6663,6667
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+<     "shuffle" : false,
+<     "paused" : true
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : true,
+>     "paused" : false
+6679,6680c6679,6680
+<     "name" : "Don't",
+<     "remainedTime" : 119,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 216,
+6694c6694
+<   "message" : "Like registered successfully."
+---
+>   "message" : "Unlike registered successfully."
+6700,6702c6700,6702
+<     "name" : "Maps",
+<     "remainedTime" : 151,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 206,
+>     "repeat" : "Repeat Current Song",
+6716,6719c6716,6719
+<     "name" : "Stairway to Heaven",
+<     "remainedTime" : 382,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 196,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+6726c6726
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+6732,6733c6732,6733
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 10,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 196,
+6735,6736c6735,6736
+<     "shuffle" : true,
+<     "paused" : true
+---
+>     "shuffle" : false,
+>     "paused" : false
+6742c6742
+<   "message" : "Returned to previous track successfully. The current track is Blank Space."
+---
+>   "message" : "Returned to previous track successfully. The current track is Love Story."
+6748,6750c6748,6750
+<     "name" : "Blank Space",
+<     "remainedTime" : 231,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+>     "repeat" : "Repeat Current Song",
+6764,6767c6764,6767
+<     "name" : "Money Trees",
+<     "remainedTime" : 87,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+6774c6774
+<   "message" : "Repeat mode changed to repeat current song."
+---
+>   "message" : "Repeat mode changed to no repeat."
+6780,6782c6780,6782
+<     "name" : "Start Me Up",
+<     "remainedTime" : 14,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "No Repeat",
+6784c6784
+<     "paused" : false
+---
+>     "paused" : true
+6790c6790
+<   "message" : "Please load a source before liking or unliking."
+---
+>   "message" : "Like registered successfully."
+6796,6797c6796,6797
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+6806c6806
+<   "message" : "Returned to previous track successfully. The current track is Money Trees."
+---
+>   "message" : "Returned to previous track successfully. The current track is Love Story."
+6811c6811
+<   "message" : "Returned to previous track successfully. The current track is Happier."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+6817,6818c6817,6818
+<     "name" : "Happier",
+<     "remainedTime" : 207,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+6833,6834c6833,6834
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+6837c6837
+<     "paused" : true
+---
+>     "paused" : false
+6844,6845c6844,6845
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+6848c6848
+<     "paused" : true
+---
+>     "paused" : false
+6854c6854
+<   "message" : "Repeat mode changed to no repeat."
+---
+>   "message" : "Repeat mode changed to repeat all."
+6860,6862c6860,6862
+<     "name" : "Don't",
+<     "remainedTime" : 19,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat All",
+6876,6877c6876,6877
+<     "name" : "Maps",
+<     "remainedTime" : 51,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+6891c6891
+<   "message" : "Skipped to next track successfully. The current track is Dream On."
+---
+>   "message" : "Skipped to next track successfully. The current track is Love Story."
+6897,6900c6897,6900
+<     "name" : "Dream On",
+<     "remainedTime" : 267,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+6907c6907
+<   "message" : "Returned to previous track successfully. The current track is Whatever You Need."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+6913,6914c6913,6914
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 210,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+6916c6916
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+6928c6928
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+6934,6936c6934,6936
+<     "name" : "Blank Space",
+<     "remainedTime" : 131,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+>     "repeat" : "Repeat Current Song",
+6944c6944
+<   "message" : "Repeat mode changed to repeat current song."
+---
+>   "message" : "Repeat mode changed to no repeat."
+6950,6954c6950,6954
+<     "name" : "Money Trees",
+<     "remainedTime" : 87,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : true,
+<     "paused" : true
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+>     "paused" : false
+6961,6963c6961,6963
+<     "name" : "Start Me Up",
+<     "remainedTime" : 126,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+>     "repeat" : "No Repeat",
+6972,6974c6972,6974
+<     "name" : "Start Me Up",
+<     "remainedTime" : 126,
+<     "repeat" : "Repeat Current Song",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+>     "repeat" : "No Repeat",
+6982c6982
+<   "message" : "Please load a source before returning to the previous track."
+---
+>   "message" : "Returned to previous track successfully. The current track is Big Pimpin'."
+6987c6987
+<   "message" : "Please load a source before returning to the previous track."
+---
+>   "message" : "Returned to previous track successfully. The current track is The Unforgiven."
+6993,6994c6993,6994
+<     "name" : "",
+<     "remainedTime" : 0,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 386,
+6997c6997
+<     "paused" : true
+---
+>     "paused" : false
+7009,7010c7009,7010
+<     "name" : "Happier",
+<     "remainedTime" : 107,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 376,
+7019c7019
+<   "message" : "Please load a source before liking or unliking."
+---
+>   "message" : "Like registered successfully."
+7025,7027c7025,7027
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 366,
+>     "repeat" : "Repeat All",
+7029c7029
+<     "paused" : true
+---
+>     "paused" : false
+7040c7040
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Repeat mode changed to repeat current song."
+7046,7048c7046,7048
+<     "name" : "The Man",
+<     "remainedTime" : 109,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 356,
+>     "repeat" : "Repeat Current Song",
+7062,7063c7062,7063
+<     "name" : "Maps",
+<     "remainedTime" : 141,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 346,
+7073,7074c7073,7074
+<     "name" : "Maps",
+<     "remainedTime" : 141,
+---
+>     "name" : "The Unforgiven",
+>     "remainedTime" : 346,
+7083c7083
+<   "message" : "Skipped to next track successfully. The current track is Love Story."
+---
+>   "message" : "Skipped to next track successfully. The current track is Big Pimpin'."
+7089,7092c7089,7092
+<     "name" : "Love Story",
+<     "remainedTime" : 236,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 284,
+>     "repeat" : "Repeat Current Song",
+>     "shuffle" : false,
+7105,7106c7105,7106
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 110,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 274,
+7108c7108
+<     "shuffle" : true,
+---
+>     "shuffle" : false,
+7115c7115
+<   "message" : "Like registered successfully."
+---
+>   "message" : "Unlike registered successfully."
+7121,7123c7121,7123
+<     "name" : "Blank Space",
+<     "remainedTime" : 31,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 264,
+>     "repeat" : "Repeat Current Song",
+7131c7131
+<   "message" : "Unlike registered successfully."
+---
+>   "message" : "Like registered successfully."
+7137,7138c7137,7138
+<     "name" : "Money Trees",
+<     "remainedTime" : 87,
+---
+>     "name" : "Big Pimpin'",
+>     "remainedTime" : 254,
+7140,7141c7140,7141
+<     "shuffle" : true,
+<     "paused" : true
+---
+>     "shuffle" : false,
+>     "paused" : false
+7147c7147
+<   "message" : "Skipped to next track successfully. The current track is Start Me Up."
+---
+>   "message" : "Skipped to next track successfully. The current track is Love Story."
+7153,7154c7153,7154
+<     "name" : "Start Me Up",
+<     "remainedTime" : 212,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 236,
+7168c7168
+<   "message" : "Please load a source before attempting to pause or resume playback."
+---
+>   "message" : "Playback paused successfully."
+7174,7176c7174,7176
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat Current Song",
+7190,7192c7190,7192
+<     "name" : "Happier",
+<     "remainedTime" : 7,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat Current Song",
+7194c7194
+<     "paused" : false
+---
+>     "paused" : true
+7206,7208c7206,7208
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat Current Song",
+7217,7219c7217,7219
+<     "name" : "",
+<     "remainedTime" : 0,
+<     "repeat" : "No Repeat",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat Current Song",
+7227c7227
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Playback resumed successfully."
+7233,7235c7233,7235
+<     "name" : "The Man",
+<     "remainedTime" : 9,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 226,
+>     "repeat" : "Repeat Current Song",
+7237c7237
+<     "paused" : true
+---
+>     "paused" : false
+7249,7250c7249,7250
+<     "name" : "Maps",
+<     "remainedTime" : 41,
+---
+>     "name" : "Love Story",
+>     "remainedTime" : 216,
+7259c7259
+<   "message" : "Skipped to next track successfully. The current track is The Man."
+---
+>   "message" : "Please load a source before skipping to the next track."
+7265,7268c7265,7268
+<     "name" : "The Man",
+<     "remainedTime" : 190,
+<     "repeat" : "Repeat All",
+<     "shuffle" : true,
+---
+>     "name" : "",
+>     "remainedTime" : 0,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+7280c7280
+<   "message" : "Playback paused successfully."
+---
+>   "message" : "Please load a source,before attempting to pause or resume playback."
+7286,7290c7286,7290
+<     "name" : "Whatever You Need",
+<     "remainedTime" : 10,
+<     "repeat" : "Repeat Current Song",
+<     "shuffle" : true,
+<     "paused" : true
+---
+>     "name" : "",
+>     "remainedTime" : 0,
+>     "repeat" : "No Repeat",
+>     "shuffle" : false,
+>     "paused" : false
+7296c7296
+<   "message" : "Repeat mode changed to repeat all."
+---
+>   "message" : "Please load a source before setting the repeat status."
+7302,7304c7302,7304
+<     "name" : "Dream On",
+<     "remainedTime" : 198,
+<     "repeat" : "Repeat All",
+---
+>     "name" : "",
+>     "remainedTime" : 0,
+>     "repeat" : "No Repeat",
+7317c7317
+<   "message" : "Repeat mode changed to no repeat."
+---
+>   "message" : "Please load a source before setting the repeat status."
+7323,7324c7323,7324
+<     "name" : "Money Trees",
+<     "remainedTime" : 87,
+---
+>     "name" : "",
+>     "remainedTime" : 0,
+7326,7327c7326,7327
+<     "shuffle" : true,
+<     "paused" : true
+---
+>     "shuffle" : false,
+>     "paused" : false
+7541,7542c7541,7542
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Electric Grooves Dream #1", "Groovy Beats Expedition #2" ]
+---
+>   "message" : "Search returned 0 results",
+>   "results" : [ ]
+7547c7547
+<   "message" : "Successfully selected Groovy Beats Expedition #2."
+---
+>   "message" : "The selected ID is too high."
+7552c7552
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Please select a source before following or unfollowing."
+7573,7574c7573,7574
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Epic Melodies Safari #1", "Breezy Bangers Quest #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Breezy Bangers Quest #2" ]
+7893,7894c7893,7894
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Epic Melodies Safari #1", "Breezy Bangers Quest #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Breezy Bangers Quest #2" ]
+7899c7899
+<   "message" : "Successfully selected Epic Melodies Safari #1."
+---
+>   "message" : "Successfully selected Breezy Bangers Quest #2."
+7904c7904
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+8341,8342c8341,8342
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Electric Grooves Dream #1", "Groovy Beats Expedition #2" ]
+---
+>   "message" : "Search returned 0 results",
+>   "results" : [ ]
+8373,8374c8373,8374
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Epic Melodies Safari #1", "Breezy Bangers Quest #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Breezy Bangers Quest #2" ]
+8379c8379
+<   "message" : "Successfully selected Epic Melodies Safari #1."
+---
+>   "message" : "Successfully selected Breezy Bangers Quest #2."
+8384c8384
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist unfollowed successfully."
+8437,8438c8437,8438
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Classic Harmonies Quest #1", "Mellow Tracks Safari #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Classic Harmonies Quest #1" ]
+8565,8566c8565,8566
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Vibey Tracks Safari #1", "Chill Tracks Safari #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Chill Tracks Safari #2" ]
+8597,8598c8597,8598
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Classic Harmonies Quest #1", "Mellow Tracks Safari #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Classic Harmonies Quest #1" ]
+8608c8608
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+8752c8752
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist followed successfully."
+8965,8966c8965,8966
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Electric Vibes Journey #1", "Chill Grooves Quest #2" ]
+---
+>   "message" : "Search returned 0 results",
+>   "results" : [ ]
+8971c8971
+<   "message" : "Successfully selected Electric Vibes Journey #1."
+---
+>   "message" : "The selected ID is too high."
+8976c8976
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Please select a source before following or unfollowing."
+9125,9126c9125,9126
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Electric Vibes Journey #1", "Chill Grooves Quest #2" ]
+---
+>   "message" : "Search returned 0 results",
+>   "results" : [ ]
+9232c9232
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Playlist unfollowed successfully."
+9429,9430c9429,9430
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Groovy Beats Dream #1", "Dynamic Tracks Trek #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Dynamic Tracks Trek #2" ]
+9435c9435
+<   "message" : "Successfully selected Dynamic Tracks Trek #2."
+---
+>   "message" : "The selected ID is too high."
+9440c9440
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Please select a source before following or unfollowing."
+9445,9446c9445,9446
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Electric Vibes Journey #1", "Chill Grooves Quest #2" ]
+---
+>   "message" : "Search returned 0 results",
+>   "results" : [ ]
+9451c9451
+<   "message" : "Successfully selected Electric Vibes Journey #1."
+---
+>   "message" : "The selected ID is too high."
+9456c9456
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Please select a source before following or unfollowing."
+9621,9622c9621,9622
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Electric Grooves Dream #1", "Groovy Beats Expedition #2" ]
+---
+>   "message" : "Search returned 0 results",
+>   "results" : [ ]
+9627c9627
+<   "message" : "Successfully selected Electric Grooves Dream #1."
+---
+>   "message" : "The selected ID is too high."
+9632c9632
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Please select a source before following or unfollowing."
+9653,9654c9653,9654
+<   "message" : "Search returned 2 results",
+<   "results" : [ "Epic Melodies Safari #1", "Breezy Bangers Quest #2" ]
+---
+>   "message" : "Search returned 1 results",
+>   "results" : [ "Breezy Bangers Quest #2" ]
+9659c9659
+<   "message" : "Successfully selected Breezy Bangers Quest #2."
+---
+>   "message" : "The selected ID is too high."
+9664c9664
+<   "message" : "You cannot follow or unfollow your own playlist."
+---
+>   "message" : "Please select a source before following or unfollowing."
+9748c9748
+<   "result" : [ "Bohemian Rhapsody" ]
+---
+>   "result" : [ "Maps", "Blank Space", "The Unforgiven" ]
+9768c9768
+<   "result" : [ ]
+---
+>   "result" : [ "Money Trees", "Love Story" ]
+9788c9788
+<   "result" : [ "Gimme Shelter", "Happier" ]
+---
+>   "result" : [ "Money Trees", "Shape of You", "Big Pimpin'", "Love Story" ]
+9808c9808
+<   "result" : [ ]
+---
+>   "result" : [ "Love Story", "The Unforgiven" ]
+9828c9828
+<   "result" : [ "Don't" ]
+---
+>   "result" : [ "Blank Space" ]
+9848c9848
+<   "result" : [ "Maps" ]
+---
+>   "result" : [ "Big Pimpin'" ]
+9888c9888
+<   "result" : [ "Whatever You Need" ]
+---
+>   "result" : [ "Big Pimpin'" ]
+9908c9908
+<   "result" : [ "Don't", "Blank Space" ]
+---
+>   "result" : [ "Money Trees", "The Unforgiven" ]
+9917c9917
+<     "followers" : 4
+---
+>     "followers" : 5
+9928c9928
+<   "result" : [ "The Man" ]
+---
+>   "result" : [ "The Man", "Love Story", "Big Pimpin'" ]
+9932c9932
+<   "result" : [ "Dynamic Tracks Trek #2", "Electric Bangers Dream #1", "Classic Tunes Dream #1", "Epic Tracks Safari #1", "Classic Harmonies Quest #1" ]
+---
+>   "result" : [ "Dynamic Tracks Trek #2", "Electric Bangers Dream #1", "Classic Harmonies Quest #1", "Classic Tunes Dream #1", "Epic Tracks Safari #1" ]
+9936c9936
+<   "result" : [ "Don't", "Whatever You Need", "Maps", "The Man", "Happier" ]
+---
+>   "result" : [ "Big Pimpin'", "Love Story", "Money Trees", "The Unforgiven", "Blank Space" ]

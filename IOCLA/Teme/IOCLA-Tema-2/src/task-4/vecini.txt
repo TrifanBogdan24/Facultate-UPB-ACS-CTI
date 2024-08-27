@@ -1,0 +1,82 @@
+--------------TASK 4--------------
+x = 3 ; y = 4
+Exista vecin stanga sus (x = 3 > 0 si y = 4 > 0)
+Exista vecin dreapta sus (x = 3 > 0 si y = 4 < 7)
+Exista vecin stanga jos (x = 3 < 7 si y = 4 > 0)
+Exista vecin dreapta jos (x = 3 < 7 si y = 4 < 7)
+TEST 1..................FAILED: 0.00p
+x = 7 ; y = 0
+Exista vecin dreapta sus (x = 7 > 0 si y = 0 < 7)
+Exista vecin stanga jos (x = 7 < 7 si y = 0 > 0)
+Exista vecin dreapta jos (x = 7 < 7 si y = 0 < 7)
+TEST 2..................FAILED: 0.00p
+x = 7 ; y = 7
+Exista vecin stanga sus (x = 7 > 0 si y = 7 > 0)
+Exista vecin dreapta sus (x = 7 > 0 si y = 7 < 7)
+Exista vecin stanga jos (x = 7 < 7 si y = 7 > 0)
+Exista vecin dreapta jos (x = 7 < 7 si y = 7 < 7)
+TEST 3..................FAILED: 0.00p
+x = 0 ; y = 0
+Exista vecin dreapta jos (x = 0 < 7 si y = 0 < 7)
+TEST 4..................FAILED: 0.00p
+x = 0 ; y = 7
+Exista vecin stanga jos (x = 0 < 7 si y = 7 > 0)
+Exista vecin dreapta jos (x = 0 < 7 si y = 7 < 7)
+TEST 5..................FAILED: 0.00p
+x = 7 ; y = 1
+Exista vecin stanga sus (x = 7 > 0 si y = 1 > 0)
+Exista vecin dreapta sus (x = 7 > 0 si y = 1 < 7)
+Exista vecin stanga jos (x = 7 < 7 si y = 1 > 0)
+Exista vecin dreapta jos (x = 7 < 7 si y = 1 < 7)
+TEST 6..................FAILED: 0.00p
+x = 6 ; y = 0
+Exista vecin dreapta sus (x = 6 > 0 si y = 0 < 7)
+Exista vecin stanga jos (x = 6 < 7 si y = 0 > 0)
+Exista vecin dreapta jos (x = 6 < 7 si y = 0 < 7)
+TEST 7..................FAILED: 0.00p
+x = 1 ; y = 7
+Exista vecin stanga sus (x = 1 > 0 si y = 7 > 0)
+Exista vecin dreapta sus (x = 1 > 0 si y = 7 < 7)
+Exista vecin stanga jos (x = 1 < 7 si y = 7 > 0)
+Exista vecin dreapta jos (x = 1 < 7 si y = 7 < 7)
+TEST 8..................FAILED: 0.00p
+x = 0 ; y = 6
+Exista vecin stanga jos (x = 0 < 7 si y = 6 > 0)
+Exista vecin dreapta jos (x = 0 < 7 si y = 6 < 7)
+TEST 9..................FAILED: 0.00p
+x = 1 ; y = 0
+Exista vecin dreapta sus (x = 1 > 0 si y = 0 < 7)
+Exista vecin stanga jos (x = 1 < 7 si y = 0 > 0)
+Exista vecin dreapta jos (x = 1 < 7 si y = 0 < 7)
+TEST 10..................FAILED: 0.00p
+x = 7 ; y = 6
+Exista vecin stanga sus (x = 7 > 0 si y = 6 > 0)
+Exista vecin dreapta sus (x = 7 > 0 si y = 6 < 7)
+Exista vecin stanga jos (x = 7 < 7 si y = 6 > 0)
+Exista vecin dreapta jos (x = 7 < 7 si y = 6 < 7)
+TEST 11..................FAILED: 0.00p
+x = 6 ; y = 7
+Exista vecin stanga sus (x = 6 > 0 si y = 7 > 0)
+Exista vecin dreapta sus (x = 6 > 0 si y = 7 < 7)
+Exista vecin stanga jos (x = 6 < 7 si y = 7 > 0)
+Exista vecin dreapta jos (x = 6 < 7 si y = 7 < 7)
+TEST 12..................FAILED: 0.00p
+x = 0 ; y = 1
+Exista vecin stanga jos (x = 0 < 7 si y = 1 > 0)
+Exista vecin dreapta jos (x = 0 < 7 si y = 1 < 7)
+TEST 13..................FAILED: 0.00p
+x = 4 ; y = 5
+Exista vecin stanga sus (x = 4 > 0 si y = 5 > 0)
+Exista vecin dreapta sus (x = 4 > 0 si y = 5 < 7)
+Exista vecin stanga jos (x = 4 < 7 si y = 5 > 0)
+Exista vecin dreapta jos (x = 4 < 7 si y = 5 < 7)
+TEST 14..................FAILED: 0.00p
+x = 3 ; y = 2
+Exista vecin stanga sus (x = 3 > 0 si y = 2 > 0)
+Exista vecin dreapta sus (x = 3 > 0 si y = 2 < 7)
+Exista vecin stanga jos (x = 3 < 7 si y = 2 > 0)
+Exista vecin dreapta jos (x = 3 < 7 si y = 2 < 7)
+TEST 15..................FAILED: 0.00p
+
+TASK 4 SCORE: 0.00 / 30.00
+

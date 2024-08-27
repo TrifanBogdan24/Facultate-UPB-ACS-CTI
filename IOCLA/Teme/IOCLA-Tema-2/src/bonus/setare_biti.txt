@@ -1,0 +1,109 @@
+--------------BONUS--------------
+
+
+Vecinul stanga-sus (3 - 3). Vecinul stanga-sus va seta bit-ul 27 din al doilea numar cu 1.
+2 ^ 27 = 134217728
+Vecinul dreapta-sus (3 - 5). Vecinul dreapta-sus va seta bit-ul 29 din al doilea numar cu 1.
+2 ^ 29 = 536870912
+Vecinul stanga-jos (5 - 3). Vecinul stanga-jos este al 43-lea element si va seta bitul 11 din primul numar cu 1.
+2 ^ 11 = 2048
+ Vecinul dreapta-jos (5 - 5).Vecinul dreapta-jos este al 45-lea element si va seta bitul 13 din primul numar cu 1.
+2 ^ 13 = 8192
+ TEST 1..................FAILED: 0.00p
+
+
+Vecinul dreapta-jos (1 - 1).Vecinul dreapta-sus va seta bit-ul 9 din al doilea numar cu 1.
+2 ^ 9 = 2 ^ 512 = TEST 2..................PASSED: 1.33p
+
+
+Vecinul stanga-jos (1 - 6). 2 ^ 14 = 16384
+ Vecinul stanga-jos va seta bit-ul 0 din al doilea numar cu 1.
+TEST 3..................PASSED: 1.33p
+
+
+Vecinul dreapta-sus (6 - 1). Vecinul dreapta-sus este al 49-lea element si va seta bitul 17 din al primul numar cu 1.
+2 ^ 17 = 131072
+TEST 4..................PASSED: 1.33p
+
+
+Vecinul stanga-sus (6 - 6).  este al 54-lea element si va seta bitul 22 din primul numar cu 1.
+2 ^ 22 = 4194304 = 
+TEST 5..................PASSED: 1.33p
+
+
+Vecinul stanga-jos (1 - 0). 2 ^ 8 = 256
+ Vecinul stanga-jos va seta bit-ul 0 din al doilea numar cu 1.
+Vecinul dreapta-jos (1 - 2).Vecinul dreapta-sus va seta bit-ul 10 din al doilea numar cu 1.
+2 ^ 10 = 2 ^ 1024 = TEST 6..................PASSED: 1.33p
+
+
+Vecinul dreapta-sus (0 - 1). Vecinul dreapta-sus va seta bit-ul 1 din al doilea numar cu 1.
+2 ^ 1 = 2
+Vecinul dreapta-jos (2 - 1).Vecinul dreapta-sus va seta bit-ul 17 din al doilea numar cu 1.
+2 ^ 17 = 2 ^ 131072 = TEST 7..................PASSED: 1.33p
+
+
+Vecinul stanga-sus (5 - 6).  este al 46-lea element si va seta bitul 14 din primul numar cu 1.
+2 ^ 14 = 16384 = 
+Vecinul stanga-jos (7 - 6). Vecinul stanga-jos este al 62-lea element si va seta bitul 30 din primul numar cu 1.
+2 ^ 30 = 1073741824
+ TEST 8..................PASSED: 1.33p
+
+
+Vecinul stanga-sus (6 - 5).  este al 53-lea element si va seta bitul 21 din primul numar cu 1.
+2 ^ 21 = 2097152 = 
+Vecinul dreapta-sus (6 - 7). Vecinul dreapta-sus este al 55-lea element si va seta bitul 23 din al primul numar cu 1.
+2 ^ 23 = 8388608
+TEST 9..................PASSED: 1.33p
+
+
+Vecinul dreapta-sus (5 - 1). Vecinul dreapta-sus este al 41-lea element si va seta bitul 9 din al primul numar cu 1.
+2 ^ 9 = 512
+Vecinul dreapta-jos (7 - 1).Vecinul dreapta-jos este al 57-lea element si va seta bitul 25 din primul numar cu 1.
+2 ^ 25 = 33554432
+ TEST 10..................PASSED: 1.33p
+
+
+Vecinul stanga-jos (1 - 5). 2 ^ 13 = 8192
+ Vecinul stanga-jos va seta bit-ul 0 din al doilea numar cu 1.
+Vecinul dreapta-jos (1 - 7).Vecinul dreapta-sus va seta bit-ul 15 din al doilea numar cu 1.
+2 ^ 15 = 2 ^ 32768 = TEST 11..................PASSED: 1.33p
+
+
+Vecinul stanga-sus (0 - 6). Vecinul stanga-sus va seta bit-ul 6 din al doilea numar cu 1.
+2 ^ 6 = 64
+Vecinul stanga-jos (2 - 6). 2 ^ 22 = 4194304
+ Vecinul stanga-jos va seta bit-ul 0 din al doilea numar cu 1.
+TEST 12..................FAILED: 0.00p
+
+
+Vecinul stanga-sus (6 - 0).  este al 48-lea element si va seta bitul 16 din primul numar cu 1.
+2 ^ 16 = 65536 = 
+Vecinul dreapta-sus (6 - 2). Vecinul dreapta-sus este al 50-lea element si va seta bitul 18 din al primul numar cu 1.
+2 ^ 18 = 262144
+TEST 13..................PASSED: 1.33p
+
+
+Vecinul stanga-sus (2 - 4). Vecinul stanga-sus va seta bit-ul 20 din al doilea numar cu 1.
+2 ^ 20 = 1048576
+Vecinul dreapta-sus (2 - 6). Vecinul dreapta-sus va seta bit-ul 22 din al doilea numar cu 1.
+2 ^ 22 = 4194304
+Vecinul stanga-jos (4 - 4). Vecinul stanga-jos este al 36-lea element si va seta bitul 4 din primul numar cu 1.
+2 ^ 4 = 16
+ Vecinul dreapta-jos (4 - 6).Vecinul dreapta-jos este al 38-lea element si va seta bitul 6 din primul numar cu 1.
+2 ^ 6 = 64
+ TEST 14..................FAILED: 0.00p
+
+
+Vecinul stanga-sus (3 - 1). Vecinul stanga-sus va seta bit-ul 25 din al doilea numar cu 1.
+2 ^ 25 = 33554432
+Vecinul dreapta-sus (3 - 3). Vecinul dreapta-sus va seta bit-ul 27 din al doilea numar cu 1.
+2 ^ 27 = 134217728
+Vecinul stanga-jos (5 - 1). Vecinul stanga-jos este al 41-lea element si va seta bitul 9 din primul numar cu 1.
+2 ^ 9 = 512
+ Vecinul dreapta-jos (5 - 3).Vecinul dreapta-jos este al 43-lea element si va seta bitul 11 din primul numar cu 1.
+2 ^ 11 = 2048
+ TEST 15..................FAILED: 0.00p
+
+BONUS SCORE: 14.63 / 20.00
+

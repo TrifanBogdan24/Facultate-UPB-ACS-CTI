@@ -1,0 +1,66 @@
+38c38
+<     "remainedTime" : 3065,
+---
+>     "remainedTime" : 3104,
+81c81
+<     "remainedTime" : 3063,
+---
+>     "remainedTime" : 3104,
+96,97c96,97
+<     "name" : "The Science of Us",
+<     "remainedTime" : 3081,
+---
+>     "name" : "The Power of Design",
+>     "remainedTime" : 3104,
+193,243d192
+< }, {
+<   "command" : "wrapped",
+<   "user" : "alice22",
+<   "timestamp" : 4000,
+<   "result" : {
+<     "topArtists" : { },
+<     "topGenres" : { },
+<     "topSongs" : { },
+<     "topAlbums" : { },
+<     "topEpisodes" : {
+<       "The Power of Design" : 2,
+<       "Elon Musk Returns" : 1,
+<       "Ghosts" : 1,
+<       "Salman Rushdie Reads Gabriel Garcia Marquez" : 1,
+<       "The Science of Us" : 1
+<     }
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Guy Raz",
+<   "timestamp" : 4000,
+<   "result" : {
+<     "topEpisodes" : {
+<       "The Power of Design" : 2,
+<       "The Science of Us" : 1
+<     },
+<     "listeners" : 1
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Jad Abumrad and Robert Krulwich",
+<   "timestamp" : 4000,
+<   "result" : {
+<     "topEpisodes" : {
+<       "Ghosts" : 1
+<     },
+<     "listeners" : 1
+<   }
+< }, {
+<   "command" : "wrapped",
+<   "user" : "Joe Rogan",
+<   "timestamp" : 4000,
+<   "result" : {
+<     "topEpisodes" : {
+<       "Elon Musk Returns" : 1
+<     },
+<     "listeners" : 1
+<   }
+< }, {
+<   "command" : "endProgram",
+<   "result" : { }

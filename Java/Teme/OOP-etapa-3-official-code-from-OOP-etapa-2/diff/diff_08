@@ -1,0 +1,298 @@
+233,237d232
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 10,
+<   "message" : "alice22 subscribed to Michael Jackson successfully."
+< }, {
+249,253d243
+<   "command" : "subscribe",
+<   "user" : "carol19",
+<   "timestamp" : 50,
+<   "message" : "carol19 subscribed to The Doors successfully."
+< }, {
+265,269d254
+<   "command" : "subscribe",
+<   "user" : "jack29",
+<   "timestamp" : 89,
+<   "message" : "jack29 subscribed to Madonna successfully."
+< }, {
+281,285d265
+<   "command" : "subscribe",
+<   "user" : "henry26",
+<   "timestamp" : 170,
+<   "message" : "henry26 subscribed to Pink Floyd successfully."
+< }, {
+297,301d276
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 193,
+<   "message" : "alice22 subscribed to Jay-Z successfully."
+< }, {
+313,317d287
+<   "command" : "subscribe",
+<   "user" : "grace25",
+<   "timestamp" : 279,
+<   "message" : "grace25 subscribed to Chuck Berry successfully."
+< }, {
+329,333d298
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 357,
+<   "message" : "alice22 unsubscribed from Michael Jackson successfully."
+< }, {
+345,349d309
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 406,
+<   "message" : "alice22 subscribed to Nothing But Thieves successfully."
+< }, {
+361,365d320
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 475,
+<   "message" : "alice22 subscribed to The Who successfully."
+< }, {
+377,381d331
+<   "command" : "subscribe",
+<   "user" : "henry26",
+<   "timestamp" : 497,
+<   "message" : "henry26 subscribed to Joni Mitchell successfully."
+< }, {
+393,397d342
+<   "command" : "subscribe",
+<   "user" : "henry26",
+<   "timestamp" : 585,
+<   "message" : "henry26 subscribed to Fleetwood Mac successfully."
+< }, {
+409,413d353
+<   "command" : "subscribe",
+<   "user" : "henry26",
+<   "timestamp" : 657,
+<   "message" : "henry26 subscribed to Rihanna successfully."
+< }, {
+425,429d364
+<   "command" : "subscribe",
+<   "user" : "carol19",
+<   "timestamp" : 696,
+<   "message" : "carol19 subscribed to Eric Clapton successfully."
+< }, {
+441,445d375
+<   "command" : "subscribe",
+<   "user" : "grace25",
+<   "timestamp" : 718,
+<   "message" : "grace25 subscribed to Aretha Franklin successfully."
+< }, {
+457,461d386
+<   "command" : "subscribe",
+<   "user" : "carol19",
+<   "timestamp" : 797,
+<   "message" : "carol19 subscribed to Bob Dylan successfully."
+< }, {
+473,477d397
+<   "command" : "subscribe",
+<   "user" : "henry26",
+<   "timestamp" : 831,
+<   "message" : "henry26 subscribed to Bob Dylan successfully."
+< }, {
+489,493d408
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 887,
+<   "message" : "alice22 subscribed to Madonna successfully."
+< }, {
+505,509d419
+<   "command" : "subscribe",
+<   "user" : "grace25",
+<   "timestamp" : 970,
+<   "message" : "grace25 subscribed to Frank Sinatra successfully."
+< }, {
+521,525d430
+<   "command" : "subscribe",
+<   "user" : "grace25",
+<   "timestamp" : 1002,
+<   "message" : "grace25 subscribed to James Brown successfully."
+< }, {
+537,541d441
+<   "command" : "subscribe",
+<   "user" : "alice22",
+<   "timestamp" : 1080,
+<   "message" : "alice22 subscribed to The Police successfully."
+< }, {
+677,687d576
+<   "command" : "getNotifications",
+<   "user" : "jack29",
+<   "timestamp" : 3726,
+<   "notifications" : [ {
+<     "name" : "New Album",
+<     "description" : "New Album from Madonna."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Madonna."
+<   } ]
+< }, {
+738,768d626
+<   "command" : "getNotifications",
+<   "user" : "henry26",
+<   "timestamp" : 4811,
+<   "notifications" : [ {
+<     "name" : "New Event",
+<     "description" : "New Event from Rihanna."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Bob Dylan."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Bob Dylan."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Fleetwood Mac."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Bob Dylan."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Joni Mitchell."
+<   } ]
+< }, {
+<   "command" : "getNotifications",
+<   "user" : "jack29",
+<   "timestamp" : 5034,
+<   "notifications" : [ {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Madonna."
+<   } ]
+< }, {
+814,870d671
+<   "command" : "getNotifications",
+<   "user" : "carol19",
+<   "timestamp" : 6546,
+<   "notifications" : [ {
+<     "name" : "New Album",
+<     "description" : "New Album from Bob Dylan."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Bob Dylan."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Doors."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Eric Clapton."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Bob Dylan."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from The Doors."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Bob Dylan."
+<   } ]
+< }, {
+<   "command" : "getNotifications",
+<   "user" : "grace25",
+<   "timestamp" : 6631,
+<   "notifications" : [ {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Aretha Franklin."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Aretha Franklin."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Aretha Franklin."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from James Brown."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Frank Sinatra."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from James Brown."
+<   }, {
+<     "name" : "New Event",
+<     "description" : "New Event from Aretha Franklin."
+<   } ]
+< }, {
+<   "command" : "getNotifications",
+<   "user" : "grace25",
+<   "timestamp" : 7090,
+<   "notifications" : [ ]
+< }, {
+901,905d701
+<   "command" : "getNotifications",
+<   "user" : "grace25",
+<   "timestamp" : 7397,
+<   "notifications" : [ ]
+< }, {
+921,961d716
+<   "command" : "getNotifications",
+<   "user" : "alice22",
+<   "timestamp" : 7756,
+<   "notifications" : [ {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Nothing But Thieves."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Madonna."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Who."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from The Police."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Police."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Madonna."
+<   }, {
+<     "name" : "New Merchandise",
+<     "description" : "New Merchandise from Madonna."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Who."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Who."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Madonna."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Jay-Z."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from Jay-Z."
+<   } ]
+< }, {
+1017,1024d771
+<   "command" : "getNotifications",
+<   "user" : "jack29",
+<   "timestamp" : 8769,
+<   "notifications" : [ {
+<     "name" : "New Album",
+<     "description" : "New Album from Madonna."
+<   } ]
+< }, {
+1045,1058d791
+<   "command" : "getNotifications",
+<   "user" : "alice22",
+<   "timestamp" : 9133,
+<   "notifications" : [ {
+<     "name" : "New Album",
+<     "description" : "New Album from The Police."
+<   }, {
+<     "name" : "New Album",
+<     "description" : "New Album from The Police."
+<   }, {
+<     "name" : "New Event",
+<     "description" : "New Event from Madonna."
+<   } ]
+< }, {
+1098,1100d830
+< }, {
+<   "command" : "endProgram",
+<   "result" : { }

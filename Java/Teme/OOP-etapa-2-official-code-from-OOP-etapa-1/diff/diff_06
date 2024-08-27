@@ -1,0 +1,44 @@
+132c132
+<   "message" : "Successfully added to playlist."
+---
+>   "message" : "Please load a source before adding to or removing from the playlist."
+137c137
+<   "message" : "melodymaster can't delete this album."
+---
+>   "message" : "melodymaster deleted the album successfully."
+264,265c264,265
+<     "name" : "Vibrant Echoes",
+<     "remainedTime" : 243,
+---
+>     "name" : "Hustle Hard",
+>     "remainedTime" : 225,
+280,281c280,281
+<     "name" : "Vibrant Echoes",
+<     "remainedTime" : 241,
+---
+>     "name" : "Hustle Hard",
+>     "remainedTime" : 223,
+307,308c307,308
+<     "name" : "Dream Chaser",
+<     "remainedTime" : 7,
+---
+>     "name" : "Butterfly Effect",
+>     "remainedTime" : 179,
+328,329c328,329
+<     "name" : "Dream Chaser",
+<     "remainedTime" : 5,
+---
+>     "name" : "Butterfly Effect",
+>     "remainedTime" : 177,
+344,345c344,345
+<     "name" : "Dream Chaser",
+<     "remainedTime" : 182,
+---
+>     "name" : "Butterfly Effect",
+>     "remainedTime" : 134,
+365,366c365,366
+<     "name" : "Dream Chaser",
+<     "remainedTime" : 180,
+---
+>     "name" : "Butterfly Effect",
+>     "remainedTime" : 132,

@@ -1,0 +1,71 @@
+
+------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)
+
+
+------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+------------------------------------------------------------
+------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+------------------------------------------------------------
+Client connecting to 172.16.0.100, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 182.17.0.100 port 35344 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35384 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35348 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35394 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35364 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35406 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35376 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35412 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35424 connected with 172.16.0.100 port 5001
+[  1] local 182.17.0.100 port 35434 connected with 172.16.0.100 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-14.0814 sec  5.50 MBytes  3.28 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-14.4675 sec  5.75 MBytes  3.33 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-15.1259 sec  5.25 MBytes  2.91 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-15.6562 sec  4.38 MBytes  2.34 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-15.7688 sec  5.13 MBytes  2.73 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-15.8327 sec  5.00 MBytes  2.65 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-15.9295 sec  5.75 MBytes  3.03 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-16.0098 sec  4.38 MBytes  2.29 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-16.2187 sec  5.75 MBytes  2.97 Mbits/sec
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-16.4276 sec  5.75 MBytes  2.94 Mbits/sec
